@@ -1,0 +1,7799 @@
+1
+00:00:00,280 --> 00:00:03,762
+¿Sabes lo que es realmente increíble? Que
+todo esto sea completamente real.
+
+2
+00:00:01,440 --> 00:00:01,672
+Sí.
+
+3
+00:00:04,300 --> 00:00:05,089
+¿Sí? ¿Qué quieres decir?
+
+4
+00:00:05,100 --> 00:00:05,982
+¿No... no te parece?
+
+5
+00:00:06,080 --> 00:00:06,915
+¿A qué te refieres?
+
+6
+00:00:06,960 --> 00:00:10,195
+O sea, todo esto de la inteligencia
+artificial y... y todo lo del Área de la
+
+7
+00:00:10,195 --> 00:00:13,647
+Bahía... Sí, lo que está pasando... ¿no
+es como si saliera de la ciencia ficción?
+
+8
+00:00:13,860 --> 00:00:17,494
+Sí. Otra cosa que es una locura es lo
+normal que se siente este despegue lento.
+
+9
+00:00:17,494 --> 00:00:21,223
+La idea de que estuviéramos invirtiendo
+el uno por ciento del PIB en inteligencia
+
+10
+00:00:21,223 --> 00:00:24,625
+artificial... Siento que se habría
+sentido como algo mucho más importante,
+
+11
+00:00:24,625 --> 00:00:27,188
+¿sabes? Donde ahora mismo, simplemente se
+siente como...
+
+12
+00:00:27,180 --> 00:00:31,008
+Nos acostumbramos a las cosas bastante
+rápido, al parecer. Sí. Pero también, es
+
+13
+00:00:31,008 --> 00:00:34,934
+como, es algo muy abstracto. ¿Como, qué
+significa? Lo que significa es que lo ves
+
+14
+00:00:34,934 --> 00:00:35,817
+en las noticias...
+
+15
+00:00:35,840 --> 00:00:36,257
+Así es
+
+16
+00:00:36,400 --> 00:00:38,954
+que tal y cual compañía anunció tal monto
+de dólares.
+
+17
+00:00:39,020 --> 00:00:39,391
+Claro.
+
+18
+00:00:40,420 --> 00:00:41,534
+Eso es todo lo que ves.
+
+19
+00:00:41,640 --> 00:00:42,104
+Correcto.
+
+20
+00:00:42,960 --> 00:00:45,374
+No se ha sentido realmente de otra forma
+hasta ahora.
+
+21
+00:00:45,400 --> 00:00:47,861
+Sí. ¿Empezamos aquí? Me parece un debate
+interesante.
+
+22
+00:00:47,840 --> 00:00:48,815
+Claro que sí, sin duda.
+
+23
+00:00:48,880 --> 00:00:52,599
+Me parece que tu observación sobre, desde
+la perspectiva de la persona común y
+
+24
+00:00:52,599 --> 00:00:56,077
+corriente, que nada es tan distinto,
+seguirá siendo una verdad incluso al
+
+25
+00:00:56,077 --> 00:00:57,285
+llegar a la singularidad.
+
+26
+00:00:57,300 --> 00:00:58,832
+No, no creo que eso sea así.
+
+27
+00:00:58,840 --> 00:00:59,954
+Vale. Qué interesante.
+
+28
+00:01:00,000 --> 00:01:03,947
+Así que, a lo que me estaba refiriendo,
+era a no sentirme diferente,
+
+29
+00:01:05,560 --> 00:01:09,659
+Es... Bueno, entonces, una compañía equis
+anunció una cantidad de inversión en
+
+30
+00:01:09,659 --> 00:01:12,108
+dólares que es realmente difícil de
+comprender.
+
+31
+00:01:12,160 --> 00:01:12,624
+Correcto.
+
+32
+00:01:12,680 --> 00:01:15,001
+No creo que nadie sepa qué hacer con eso.
+
+33
+00:01:15,040 --> 00:01:15,318
+Claro.
+
+34
+00:01:15,860 --> 00:01:19,631
+Pero creo que el impacto de la
+inteligencia artificial se va a sentir.
+
+35
+00:01:19,631 --> 00:01:23,566
+La inteligencia artificial se va a
+difundir por toda la economía. Existen
+
+36
+00:01:23,566 --> 00:01:27,939
+fuerzas económicas muy potentes para que
+esto suceda. Y creo que el impacto se va
+
+37
+00:01:27,939 --> 00:01:30,070
+a sentir de una manera muy, muy fuerte.
+
+38
+00:01:30,720 --> 00:01:35,183
+¿Cuándo esperas ese impacto? Creo que los
+modelos parecen más inteligentes de lo
+
+39
+00:01:35,183 --> 00:01:37,500
+que su impacto económico daría a
+entender.
+
+40
+00:01:38,440 --> 00:01:44,732
+Sí. Esto es una de las cosas más confusas
+de los modelos ahora mismo. Cómo
+
+41
+00:01:44,732 --> 00:01:51,025
+reconciliar el hecho de que les está
+yendo tan bien en las evaluaciones...
+
+42
+00:01:52,340 --> 00:01:52,618
+Ajá
+
+43
+00:01:53,000 --> 00:01:56,250
+Y miras las evaluaciones y dices: "Esas
+son evaluaciones muy difíciles."
+
+44
+00:01:56,280 --> 00:01:57,162
+Eso es correcto.
+
+45
+00:01:57,120 --> 00:01:58,791
+Lo están haciendo realmente muy bien.
+
+46
+00:01:59,580 --> 00:02:05,215
+Pero el impacto económico parece estar
+dramáticamente rezagado. Y es casi como
+
+47
+00:02:05,215 --> 00:02:11,216
+si... Es muy difícil darle sentido a cómo
+el modelo, por un lado, puede hacer estas
+
+48
+00:02:11,216 --> 00:02:16,925
+cosas tan asombrosas- ...y luego, por
+otro lado, como, repetirse a sí mismo dos
+
+49
+00:02:16,925 --> 00:02:20,292
+veces en alguna situación, en una especie
+de...
+
+50
+00:02:20,340 --> 00:02:24,047
+Un ejemplo sería, digamos que usas
+codificación intuitiva para hacer algo, y
+
+51
+00:02:24,047 --> 00:02:27,656
+vas a algún lugar y luego encuentras un
+error. Y luego le dices al modelo,
+
+52
+00:02:27,656 --> 00:02:29,535
+"¿Puedes por favor arreglar el error?"
+
+53
+00:02:29,560 --> 00:02:29,977
+Así es.
+
+54
+00:02:30,320 --> 00:02:33,469
+Y el modelo dice: "¡Dios mío, tienes
+tanta razón! Tengo un bug. Déjame
+
+55
+00:02:33,469 --> 00:02:35,660
+arreglarlo." Y entonces introduce un
+segundo bug.
+
+56
+00:02:35,680 --> 00:02:36,051
+Ajá.
+
+57
+00:02:36,820 --> 00:02:40,313
+Y entonces le dices: "Tienes este, tienes
+este nuevo, este segundo error". Y te
+
+58
+00:02:40,313 --> 00:02:43,806
+dice: "¡Dios mío, cómo pude haber hecho
+esto! ¡Tienes tanta razón otra vez!". Y
+
+59
+00:02:43,806 --> 00:02:47,121
+te devuelve el primer error. Y puedes
+alternar entre ambos. Y es como: "¿P-
+
+60
+00:02:47,121 --> 00:02:48,151
+pero cómo es posible?".
+
+61
+00:02:39,460 --> 00:02:39,599
+Bien.
+
+62
+00:02:44,140 --> 00:02:44,372
+Sí.
+
+63
+00:02:45,700 --> 00:02:46,117
+Así es.
+
+64
+00:02:48,160 --> 00:02:48,670
+Así es.
+
+65
+00:02:48,740 --> 00:02:53,526
+Es como... no estoy seguro. Pero sí
+sugiere que... algo raro está ocurriendo.
+
+66
+00:02:53,526 --> 00:02:58,439
+Tengo dos posibles explicaciones. Así que
+aquí, esta es la explicación más bien
+
+67
+00:02:58,439 --> 00:03:02,848
+caprichosa... es que quizás el
+entrenamiento de RL hace que los modelos
+
+68
+00:03:02,848 --> 00:03:07,256
+sean un poco demasiado obsesivos y con un
+enfoque muy estrecho, un poco
+
+69
+00:03:07,256 --> 00:03:08,012
+demasiado...
+
+70
+00:03:11,120 --> 00:03:15,480
+No lo sé, no son conscientes, aunque de
+alguna manera también los hace
+
+71
+00:03:15,480 --> 00:03:20,220
+conscientes de otras cosas. Y por esta
+razón, no pueden hacer cosas básicas.
+
+72
+00:03:20,220 --> 00:03:25,149
+Pero existe otra explicación, y es que en
+la época en que la gente realizaba el
+
+73
+00:03:25,149 --> 00:03:30,332
+pre-entrenamiento, la cuestión de con qué
+datos entrenar ya estaba resuelta. Porque
+
+74
+00:03:30,332 --> 00:03:31,785
+esa respuesta era todo.
+
+75
+00:03:35,120 --> 00:03:35,537
+Así es.
+
+76
+00:03:36,120 --> 00:03:39,045
+Cuando realizas el pre-entrenamiento,
+necesitas todos los datos
+
+77
+00:03:41,100 --> 00:03:44,304
+así no tienes que pensar, "¿Será esta
+información o aquella información?"
+
+78
+00:03:44,340 --> 00:03:44,711
+Ajá.
+
+79
+00:03:44,960 --> 00:03:48,489
+Pero cuando la gente entrena con RL, sí
+necesitan pensar.
+
+80
+00:03:48,520 --> 00:03:52,567
+Dicen: "De acuerdo, queremos tener este
+tipo de entrenamiento de RL para una cosa
+
+81
+00:03:52,567 --> 00:03:56,412
+y ese tipo de entrenamiento de RL para
+otra". Y por lo que escucho, todas las
+
+82
+00:03:56,412 --> 00:04:00,206
+empresas tienen equipos que simplemente
+producen nuevos entornos de RL y los
+
+83
+00:04:00,206 --> 00:04:04,152
+añaden a la mezcla de entrenamiento. Y
+entonces la pregunta es, bueno, ¿qué son
+
+84
+00:04:04,152 --> 00:04:08,250
+esos? Hay tantos grados de libertad. Hay
+una variedad tan enorme de entornos de RL
+
+85
+00:04:08,250 --> 00:04:09,464
+que se podrían producir.
+
+86
+00:04:10,100 --> 00:04:15,224
+Y una de las cosas que... Una cosa que se
+podría hacer, y creo que esto es algo que
+
+87
+00:04:15,224 --> 00:04:20,286
+se realiza de forma un tanto inadvertida,
+es que las personas toman inspiración de
+
+88
+00:04:20,286 --> 00:04:21,849
+las propias evaluaciones.
+
+89
+00:04:22,300 --> 00:04:25,694
+Dices: "Oye, me gustaría muchísimo que
+nuestro modelo funcionara de maravilla
+
+90
+00:04:25,694 --> 00:04:28,864
+cuando lo lancemos." "Quiero que los
+resultados de las evaluaciones sean
+
+91
+00:04:28,864 --> 00:04:32,482
+excelentes. ¿Qué tipo de entrenamiento de
+aprendizaje por refuerzo podría ser útil
+
+92
+00:04:32,482 --> 00:04:36,099
+para esta tarea?" ¿No es así? Creo que es
+una situación que se da a menudo, y creo
+
+93
+00:04:36,099 --> 00:04:38,600
+que podría explicar gran parte de lo que
+está sucediendo.
+
+94
+00:04:39,100 --> 00:04:43,141
+Si combinas esto con el hecho de que la
+generalización de los modelos es, en
+
+95
+00:04:43,141 --> 00:04:47,074
+realidad, inadecuada, eso tiene el
+potencial de explicar una gran parte de
+
+96
+00:04:47,074 --> 00:04:50,523
+lo que estamos observando: esta
+desconexión tan evidente entre el
+
+97
+00:04:50,523 --> 00:04:54,403
+rendimiento en las evaluaciones y el
+rendimiento real, el desempeño en el
+
+98
+00:04:54,403 --> 00:04:58,175
+mundo real, que es algo que, a día de
+hoy, ni siquiera comprendemos con
+
+99
+00:04:58,175 --> 00:05:00,276
+exactitud a qué nos referimos con ello.
+
+100
+00:05:00,620 --> 00:05:04,560
+Me gusta mucho esta idea de que el
+verdadero "reward hacking" es, en
+
+101
+00:05:04,560 --> 00:05:08,441
+realidad, obra de los propios
+investigadores humanos que se enfocan
+
+102
+00:05:08,441 --> 00:05:12,852
+demasiado en las evaluaciones. Um, creo
+que hay dos maneras de entender o de
+
+103
+00:05:12,852 --> 00:05:15,852
+intentar reflexionar sobre lo que acabas
+de señalar.
+
+104
+00:05:15,960 --> 00:05:20,124
+Una cosa es, mira, si es el caso de que
+simplemente por volverse superhumano en
+
+105
+00:05:20,124 --> 00:05:24,128
+una competición de programación, un
+modelo no se volverá automáticamente más
+
+106
+00:05:24,128 --> 00:05:24,876
+de buen gusto.
+
+107
+00:05:26,440 --> 00:05:29,489
+y ejerzas un mejor juicio sobre cómo
+mejorar tu base de código. Bueno,
+
+108
+00:05:29,489 --> 00:05:32,935
+entonces deberías expandir el conjunto de
+entornos de tal manera que no solo lo
+
+109
+00:05:32,935 --> 00:05:35,896
+estés probando para tener el mejor
+rendimiento en una competición de
+
+110
+00:05:35,896 --> 00:05:36,471
+programación.
+
+111
+00:05:36,480 --> 00:05:40,945
+También debería ser capaz de desarrollar
+el mejor tipo de aplicación, ya sea para
+
+112
+00:05:40,945 --> 00:05:45,521
+una cosa, para otra o para una tercera. Y
+otro punto, quizás a esto te refieres, es
+
+113
+00:05:45,521 --> 00:05:49,652
+decir, ¿por qué debería ser así en primer
+lugar que volverse superhumano en
+
+114
+00:05:49,652 --> 00:05:53,838
+competiciones de programación no te
+convierte en un programador más elegante
+
+115
+00:05:53,838 --> 00:05:54,452
+en general?
+
+116
+00:05:54,440 --> 00:05:59,570
+Quizás lo que hay que hacer no es seguir
+acumulando la cantidad y diversidad de
+
+117
+00:05:59,570 --> 00:06:04,897
+entornos para encontrar un enfoque, sino
+uno que te permita aprender de un entorno
+
+118
+00:06:04,897 --> 00:06:07,396
+y mejorar tu rendimiento en otra cosa.
+
+119
+00:06:07,760 --> 00:06:11,720
+Así que tengo, tengo una ana- una
+analogía humana que podría ser útil.
+
+120
+00:06:11,720 --> 00:06:15,795
+Tomemos el caso de la programación
+competitiva, ya que lo mencionaste. Y
+
+121
+00:06:15,795 --> 00:06:17,976
+supongamos que tienes dos estudiantes.
+
+122
+00:06:19,640 --> 00:06:24,146
+Uno de ellos, uhm, decidió que quería
+convertirse en el mejor programador
+
+123
+00:06:24,146 --> 00:06:29,091
+competitivo, así que dedicará diez mil
+horas de práctica a ese campo específico.
+
+124
+00:06:29,091 --> 00:06:34,224
+Resolverá todos los problemas, memorizará
+todas las técnicas de demostración y será
+
+125
+00:06:34,224 --> 00:06:38,856
+muy, muy, ya sabes, muy hábil para
+implementar rápida y correctamente todos
+
+126
+00:06:38,856 --> 00:06:39,794
+los algoritmos.
+
+127
+00:06:40,060 --> 00:06:44,328
+Y al hacerlo, al hacerlo, se convirtieron
+en los mejores... en uno de los mejores.
+
+128
+00:06:44,328 --> 00:06:48,492
+El estudiante número dos pensó: "Oh, la
+programación competitiva es genial". Tal
+
+129
+00:06:48,492 --> 00:06:52,708
+vez practicaron cien horas. Mucho, mucho
+menos, y también les fue muy bien. ¿Cuál
+
+130
+00:06:52,708 --> 00:06:56,081
+de los dos crees que tendrá más éxito en
+su carrera más adelante?
+
+131
+00:06:49,880 --> 00:06:50,112
+Sí.
+
+132
+00:06:56,160 --> 00:06:56,717
+El segundo.
+
+133
+00:06:56,760 --> 00:07:00,348
+¿Verdad? Y creo que eso es básicamente lo
+que está pasando. Los modelos se parecen
+
+134
+00:07:00,348 --> 00:07:03,893
+mucho más al primer estudiante, pero aún
+más, porque entonces decimos: "Bueno, el
+
+135
+00:07:03,893 --> 00:07:07,260
+modelo debería ser bueno en programación
+competitiva, así que consigamos cada
+
+136
+00:07:07,260 --> 00:07:10,849
+problema de programación competitiva que
+haya existido, y luego hagamos un poco de
+
+137
+00:07:10,849 --> 00:07:14,128
+aumento de datos para tener aún más
+problemas de programación competitiva-"
+
+138
+00:07:14,140 --> 00:07:14,465
+Sí, sí.
+
+139
+00:07:14,760 --> 00:07:18,440
+y entrenamos en eso. Y así es como ahora
+tienes a este excelente programador
+
+140
+00:07:18,440 --> 00:07:22,170
+competitivo. Y con esta analogía, creo
+que resulta más intuitivo. Creo que es
+
+141
+00:07:22,170 --> 00:07:26,145
+más intuitivo con esta analogía, que sí,
+bueno, si está tan bien entrenado, bueno,
+
+142
+00:07:26,145 --> 00:07:29,678
+es como si todos los diferentes
+algoritmos y todas las distintas técnicas
+
+143
+00:07:29,678 --> 00:07:33,310
+de prueba estuvieran, por así decirlo,
+justo a su... a su alcance. Y es más
+
+144
+00:07:33,310 --> 00:07:36,745
+intuitivo que con este nivel de
+preparación, no... no necesariamente se
+
+145
+00:07:36,745 --> 00:07:38,119
+generalizaría a otras cosas.
+
+146
+00:07:38,180 --> 00:07:42,325
+Mmm. P- Pero entonces, ¿cuál sería la
+analogía, eh, más apropiada para
+
+147
+00:07:42,325 --> 00:07:47,072
+describir lo que el segundo estudiante
+está haciendo antes de esas cien horas de
+
+148
+00:07:47,072 --> 00:07:47,793
+ajuste fino?
+
+149
+00:07:48,120 --> 00:07:51,921
+Creo que es como si tuvieran algo, una
+cualidad innata. Creo que es ese factor
+
+150
+00:07:51,921 --> 00:07:53,599
+indefinible, ese carisma especial.
+
+151
+00:07:53,680 --> 00:07:54,144
+Así es.
+
+152
+00:07:54,200 --> 00:07:57,524
+¿Verdad? Y, sabes, sé que cuando era
+estudiante universitario, recuerdo que
+
+153
+00:07:57,524 --> 00:08:00,805
+había... había un estudiante así que
+estudió conmigo. Así que sé... sé que
+
+154
+00:08:00,805 --> 00:08:01,119
+existe.
+
+155
+00:08:01,160 --> 00:08:04,419
+Sí. Creo que es interesante distinguirlo
+de lo que sea que haga el
+
+156
+00:08:04,419 --> 00:08:08,530
+pre-entrenamiento. Entonces, una forma de
+entender lo que acabas de decir sobre que
+
+157
+00:08:08,530 --> 00:08:12,391
+no tenemos que elegir los datos en el
+pre-entrenamiento es decir, en realidad,
+
+158
+00:08:12,391 --> 00:08:14,999
+no es tan diferente a las diez mil horas
+de práctica.
+
+159
+00:08:15,020 --> 00:08:18,575
+Es que obtienes esas diez mil horas de
+práctica gratis porque ya está en algún
+
+160
+00:08:18,575 --> 00:08:21,622
+lugar de la distribución de
+pre-entrenamiento. Pero es como, quizás
+
+161
+00:08:21,622 --> 00:08:24,531
+estás sugiriendo que en realidad no hay
+tanta generalización del
+
+162
+00:08:24,531 --> 00:08:28,132
+pre-entrenamiento, solo hay muchísimos
+datos en el pre-entrenamiento. Y... pero
+
+163
+00:08:28,132 --> 00:08:30,948
+es como, no está necesariamente
+generalizando mejor que el RL.
+
+164
+00:08:31,260 --> 00:08:34,492
+Verás, la principal fortaleza del
+entrenamiento previo es que hay, A,
+
+165
+00:08:34,492 --> 00:08:35,300
+muchísimo de eso-
+
+166
+00:08:35,360 --> 00:08:35,499
+Sí
+
+167
+00:08:36,380 --> 00:08:39,656
+y B, no tienes que esforzarte demasiado
+ni pensar con gran dificultad sobre qué
+
+168
+00:08:39,656 --> 00:08:42,176
+tipo de datos específicos debes
+introducir para el proceso de
+
+169
+00:08:42,176 --> 00:08:45,410
+pre-entrenamiento. Y se trata de datos
+que son muy naturales, muy orgánicos, y
+
+170
+00:08:45,410 --> 00:08:48,434
+que, de hecho, incorporan una gran
+cantidad de lo que las personas suelen
+
+171
+00:08:48,434 --> 00:08:48,686
+hacer.
+
+172
+00:08:48,720 --> 00:08:49,277
+Claro que sí.
+
+173
+00:08:50,380 --> 00:08:55,165
+Los pensamientos de las personas y muchas
+de las características que conocemos. Es
+
+174
+00:08:55,165 --> 00:08:59,064
+como si todo el mundo fuera proyectado
+por la gente sobre el texto.
+
+175
+00:09:00,090 --> 00:09:00,182
+Sí.
+
+176
+00:09:00,220 --> 00:09:05,071
+Y el preentrenamiento intenta capturar
+eso utilizando una enorme cantidad de
+
+177
+00:09:05,071 --> 00:09:09,211
+datos. Es... es muy... el
+preentrenamiento resulta muy difícil de
+
+178
+00:09:09,211 --> 00:09:13,740
+comprender, porque es realmente
+complicado entender la manera en que el
+
+179
+00:09:13,740 --> 00:09:16,845
+modelo se apoya en los datos de
+preentrenamiento.
+
+180
+00:09:17,540 --> 00:09:22,208
+Y cada vez que el modelo comete un error,
+¿podría ser que, por casualidad, algo no
+
+181
+00:09:22,208 --> 00:09:26,819
+esté tan bien respaldado por los datos de
+preentrenamiento? Sabes, y el 'apoyo' o
+
+182
+00:09:26,819 --> 00:09:31,373
+'soporte' del preentrenamiento es quizás
+un término un poco vago. Yo... no sé si
+
+183
+00:09:31,373 --> 00:09:33,793
+puedo añadir algo más útil sobre esto,
+pero
+
+184
+00:09:36,140 --> 00:09:38,322
+No creo que haya un análogo humano al
+preentrenamiento.
+
+185
+00:09:38,500 --> 00:09:39,103
+Mmm.
+
+186
+00:09:39,500 --> 00:09:43,670
+Estas son algunas analogías que la gente
+ha propuesto sobre lo que sería el
+
+187
+00:09:43,670 --> 00:09:47,954
+equivalente humano al pre-entrenamiento,
+y me gustaría mucho saber tu opinión
+
+188
+00:09:47,954 --> 00:09:52,350
+sobre por qué podrían estar equivocadas.
+Una de ellas es pensar en los primeros
+
+189
+00:09:52,350 --> 00:09:56,464
+dieciocho, o quince, o trece años de la
+vida de una persona, cuando no son
+
+190
+00:09:56,464 --> 00:10:00,184
+necesariamente productivos
+económicamente, pero están haciendo algo
+
+191
+00:10:00,184 --> 00:10:03,509
+que les permite entender mejor el mundo y
+así sucesivamente.
+
+192
+00:10:03,640 --> 00:10:07,350
+Y la otra es pensar en la evolución como
+si estuviera haciendo algún tipo de
+
+193
+00:10:07,350 --> 00:10:11,061
+búsqueda durante tres mil millones de
+años, lo que luego resulta en una vida
+
+194
+00:10:11,061 --> 00:10:14,822
+humana. Y entonces yo... yo... tengo
+curiosidad por saber si crees que alguno
+
+195
+00:10:14,822 --> 00:10:17,246
+de estos es realmente análogo al
+preentrenamiento.
+
+196
+00:10:17,260 --> 00:10:20,742
+O cómo... cómo pensarías sobre al menos
+cómo es el aprendizaje humano de por
+
+197
+00:10:20,742 --> 00:10:22,275
+vida, si no es pre-entrenamiento?
+
+198
+00:10:22,880 --> 00:10:26,919
+Creo que existen ciertas similitudes...
+entre estos dos conceptos y el
+
+199
+00:10:26,919 --> 00:10:31,486
+pre-entrenamiento. Y el pre-entrenamiento
+intenta desempeñar el papel de ambos,
+
+200
+00:10:31,486 --> 00:10:36,287
+pero creo que también hay algunas grandes
+diferencias. La cantidad de datos para el
+
+201
+00:10:36,287 --> 00:10:39,273
+pre-entrenamiento es realmente, realmente
+asombrosa.
+
+202
+00:10:25,280 --> 00:10:25,419
+Sí
+
+203
+00:10:27,200 --> 00:10:27,385
+Sí.
+
+204
+00:10:39,540 --> 00:10:40,004
+Sí, claro.
+
+205
+00:10:41,260 --> 00:10:45,137
+Y de alguna manera, un ser humano,
+después de incluso quince años, con una
+
+206
+00:10:45,137 --> 00:10:48,908
+mínima fracción de los datos de
+preentrenamiento, sabe mucho menos. Pero
+
+207
+00:10:48,908 --> 00:10:52,998
+lo poco que sabe, lo sabe de una forma
+mucho más profunda, de alguna manera. Y
+
+208
+00:10:52,998 --> 00:10:56,928
+los errores, por ejemplo... ya a esa
+edad, uno no cometería los errores que
+
+209
+00:10:56,928 --> 00:10:59,000
+cometen las inteligencias artificiales.
+
+210
+00:10:49,420 --> 00:10:49,837
+Así es.
+
+211
+00:10:59,140 --> 00:10:59,650
+Así es.
+
+212
+00:10:59,840 --> 00:11:02,890
+Hay otra cosa más. Quizás te preguntes:
+"¿Podría ser algo como la evolución?" Y
+
+213
+00:11:02,890 --> 00:11:05,940
+la respuesta es, quizás. Pero en este
+caso particular, creo que la evolución en
+
+214
+00:11:05,940 --> 00:11:07,270
+realidad podría tener una ventaja.
+
+215
+00:11:07,600 --> 00:11:12,518
+Pues, hay un... Recuerdo haber leído
+sobre un caso donde algunos... Sabes, una
+
+216
+00:11:12,518 --> 00:11:16,862
+cosa que hacen los neurocientíficos, o
+más bien, una forma en que los
+
+217
+00:11:16,862 --> 00:11:21,844
+neurocientíficos pueden aprender sobre el
+cerebro, es estudiando a personas con
+
+218
+00:11:21,844 --> 00:11:24,782
+daño cerebral en diferentes partes del
+cerebro.
+
+219
+00:11:24,780 --> 00:11:25,383
+Ajá.
+
+220
+00:11:26,000 --> 00:11:29,503
+Y... Y así es... Y algunas personas
+tienen los síntomas más extraños que
+
+221
+00:11:29,503 --> 00:11:31,526
+puedas imaginar. Es muy, muy interesante.
+
+222
+00:11:32,240 --> 00:11:36,274
+Y hubo un caso particular que me viene a
+la mente ahora mismo, que es bastante
+
+223
+00:11:36,274 --> 00:11:40,309
+relevante para lo que estamos hablando.
+Leí sobre una persona que sufrió algún
+
+224
+00:11:40,309 --> 00:11:44,605
+tipo de daño cerebral que eliminó... Creo
+que fue un derrame o un accidente, que le
+
+225
+00:11:44,605 --> 00:11:48,483
+quitó por completo su capacidad de
+procesamiento emocional. Así que dejó de
+
+226
+00:11:48,483 --> 00:11:50,212
+sentir cualquier tipo de emoción.
+
+227
+00:11:51,500 --> 00:11:55,811
+Y como consecuencia de eso, sabes, él
+seguía siendo muy elocuente y podía
+
+228
+00:11:55,811 --> 00:12:00,183
+resolver pequeños acertijos, y en las
+pruebas, parecía estar perfectamente
+
+229
+00:12:00,183 --> 00:12:04,555
+bien, pero no experimentaba ninguna
+emoción. No sentía tristeza, no sentía
+
+230
+00:12:04,555 --> 00:12:09,166
+ira, no se sentía animado, y de alguna
+manera se volvió extremadamente incapaz
+
+231
+00:12:09,166 --> 00:12:11,562
+de tomar cualquier decisión en absoluto.
+
+232
+00:12:11,592 --> 00:12:16,083
+Le tomaría horas y horas decidir qué par
+de calcetines elegir para ponerse, y,
+
+233
+00:12:16,083 --> 00:12:20,399
+además, tomaría decisiones financieras
+verdaderamente desastrosas. Y eso es
+
+234
+00:12:20,399 --> 00:12:24,715
+muy... muy revelador. ¿Qué nos dice todo
+esto sobre el papel fundamental de
+
+235
+00:12:24,715 --> 00:12:28,857
+nuestras emociones innatas, de esos
+sentimientos que llevamos dentro, al
+
+236
+00:12:28,857 --> 00:12:32,648
+convertirnos en un agente funcional y
+capaz de operar en el mundo,
+
+237
+00:12:32,648 --> 00:12:33,465
+esencialmente?
+
+238
+00:12:33,872 --> 00:12:37,991
+Y supongo que para conectar con tu
+pregunta- ... sobre el pre-entrenamiento,
+
+239
+00:12:37,991 --> 00:12:41,891
+es como que quizás, si eres lo
+suficientemente bueno en, uhm, sacar todo
+
+240
+00:12:41,891 --> 00:12:45,901
+el provecho del pre-entrenamiento que
+puedas, tú, tú podrías conseguir eso
+
+241
+00:12:45,901 --> 00:12:48,593
+también, pero ese es el tipo de cosa que
+parece...
+
+242
+00:12:50,992 --> 00:12:54,277
+Bueno, la verdad es que podría ser
+posible o quizás no lo sea, conseguir eso
+
+243
+00:12:54,277 --> 00:12:55,635
+a partir del pre-entrenamiento.
+
+244
+00:12:56,192 --> 00:13:01,214
+¿Qué es eso? Claramente no es solo una
+emoción pura y simple. Parece que es
+
+245
+00:13:01,214 --> 00:13:02,368
+alguna otra cosa.
+
+246
+00:13:04,151 --> 00:13:09,138
+algo parecido a una función de valor que
+te dice qué decisión de- como, cuál, cuál
+
+247
+00:13:09,138 --> 00:13:13,818
+debería ser la recompensa final por
+cualquier decisión. Y no crees que eso no
+
+248
+00:13:13,818 --> 00:13:15,296
+surge implícitamente de-
+
+249
+00:13:15,391 --> 00:13:19,338
+Creo que podría, solo digo que no es
+algo, no es, eh, completamente obvio.
+
+250
+00:13:19,352 --> 00:13:22,300
+Sí. Pero, e-eh, ¿qué, qué es eso
+exactamente? ¿Cómo, cómo concibes las
+
+251
+00:13:22,300 --> 00:13:25,333
+emociones? Y, ¿cuál sería la analogía de
+aprendizaje automático para las
+
+252
+00:13:25,333 --> 00:13:25,760
+emociones?
+
+253
+00:13:26,332 --> 00:13:28,514
+Debería ser algo como una función de
+valor.
+
+254
+00:13:28,572 --> 00:13:29,082
+Así es.
+
+255
+00:13:29,312 --> 00:13:32,641
+Pero no creo que exista una gran analogía
+de ML porque en este momento, las
+
+256
+00:13:32,641 --> 00:13:36,285
+funciones de valor no desempeñan un papel
+muy importante en, [eh,] lo que la gente
+
+257
+00:13:36,285 --> 00:13:36,510
+hace.
+
+258
+00:13:36,531 --> 00:13:39,921
+Quizás convenga definir al público qué es
+una función de valor, si, si quieres.
+
+259
+00:13:39,992 --> 00:13:44,357
+Quiero decir, por supuesto. Yo, estaré
+muy feliz de poder hacerlo. De acuerdo.
+
+260
+00:13:44,357 --> 00:13:44,868
+Entonces,
+
+261
+00:13:49,212 --> 00:13:53,235
+Entonces, cuando la gente hace
+aprendizaje por refuerzo, la forma en que
+
+262
+00:13:53,235 --> 00:13:57,428
+se hace ahora, ¿cómo entrena la gente a
+esos agentes? Así que tienes tu red
+
+263
+00:13:57,428 --> 00:14:01,905
+neuronal, y le das un problema, y luego
+le dices al modelo que lo resuelva. Y el
+
+264
+00:14:01,905 --> 00:14:05,588
+modelo toma quizás miles, o incluso
+cientos de miles de acciones o
+
+265
+00:14:05,588 --> 00:14:10,008
+pensamientos o algo, y luego produce una
+solución. La solución es calificada. Y
+
+266
+00:14:10,008 --> 00:14:11,085
+luego la puntuación
+
+267
+00:14:12,752 --> 00:14:16,652
+se utiliza para proporcionar una señal de
+entrenamiento para cada acción
+
+268
+00:14:18,291 --> 00:14:18,987
+En tu camino.
+
+269
+00:14:18,992 --> 00:14:19,363
+Ajá.
+
+270
+00:14:20,192 --> 00:14:24,167
+Eso significa que si estás haciendo algo
+que se extiende por un largo tiempo, si
+
+271
+00:14:24,167 --> 00:14:27,840
+estás entrenando una tarea que requiere
+mucho tiempo para ser resuelta, no
+
+272
+00:14:27,840 --> 00:14:31,665
+aprenderás absolutamente nada hasta que
+logres resolverla, hasta que consigas
+
+273
+00:14:31,665 --> 00:14:35,439
+proponer una solución. Así es como el
+aprendizaje por refuerzo se realiza de
+
+274
+00:14:35,439 --> 00:14:38,860
+forma ingenua. Así es como O1, R1,
+ostensiblemente, se llevan a cabo.
+
+275
+00:14:40,912 --> 00:14:44,677
+La función de valor nos dice algo así
+como: "Mira, a ver. Quizás en algunas
+
+276
+00:14:44,677 --> 00:14:48,697
+ocasiones, no siempre, podría indicarte
+si lo estás haciendo bien o mal." Eh, la
+
+277
+00:14:48,697 --> 00:14:52,615
+noción de una función de valor resulta
+ser más útil en ciertos dominios que en
+
+278
+00:14:52,615 --> 00:14:55,261
+otros. Así que, por ejemplo, cuando
+juegas al ajedrez
+
+279
+00:14:56,912 --> 00:15:01,708
+y pierdes una pieza, sabes, "Me
+equivoqué". No necesitas jugar toda la
+
+280
+00:15:01,708 --> 00:15:07,199
+partida para saber que lo que acabo de
+hacer fue malo, y por lo tanto, lo que lo
+
+281
+00:15:07,199 --> 00:15:12,413
+precedió también fue malo. Así que la
+función de valor te permite acortar la
+
+282
+00:15:12,413 --> 00:15:17,348
+espera hasta el final. Por ejemplo,
+supongamos que empezaste a perseguir
+
+283
+00:15:17,348 --> 00:15:18,738
+algún tipo de, eh...
+
+284
+00:15:18,791 --> 00:15:22,910
+De acuerdo, supongamos que estás haciendo
+algún tipo de trabajo matemático o de
+
+285
+00:15:22,910 --> 00:15:27,082
+programación y estás intentando explorar
+una dirección de solución particular. Y
+
+286
+00:15:27,082 --> 00:15:31,307
+después de, digamos, tras mil, eh, pasos
+de pensamiento, llegaste a la conclusión
+
+287
+00:15:31,307 --> 00:15:33,419
+de que esta dirección no es prometedora.
+
+288
+00:15:34,332 --> 00:15:38,652
+En cuanto llegas a esta conclusión, ya
+podrías haber recibido una señal de
+
+289
+00:15:38,652 --> 00:15:42,972
+recompensa mil pasos de tiempo antes,
+cuando decidiste seguir este camino.
+
+290
+00:15:42,972 --> 00:15:47,173
+Dices: "Oh, la próxima vez, no debería
+seguir esta ruta en una situación
+
+291
+00:15:47,173 --> 00:15:51,375
+similar", mucho antes de que realmente
+llegaras a proponer una solución.
+
+292
+00:15:51,391 --> 00:15:56,781
+Mmm. Esto estaba en el artículo Deep
+CIGAR 1, que el espacio de trayectorias
+
+293
+00:15:56,781 --> 00:16:02,315
+es tan amplio que quizás sea difícil
+aprender un mapeo de una trayectoria y un
+
+294
+00:16:02,315 --> 00:16:07,921
+valor intermedios. Y también, dado que,
+sabes, en la programación, por ejemplo,
+
+295
+00:16:07,921 --> 00:16:12,521
+tendrás la idea equivocada, luego
+volverás. Luego cambiarás algo.
+
+296
+00:16:12,732 --> 00:16:16,467
+Esto suena a una falta de fe tan grande
+en el aprendizaje profundo. O sea, quiero
+
+297
+00:16:16,467 --> 00:16:20,109
+decir, claro, puede que sea difícil, pero
+no hay absolutamente nada que el deep
+
+298
+00:16:20,109 --> 00:16:21,230
+learning no pueda hacer.
+
+299
+00:16:15,332 --> 00:16:15,796
+Así es.
+
+300
+00:16:21,271 --> 00:16:21,688
+Así es.
+
+301
+00:16:22,291 --> 00:16:28,531
+Así que mi expectativa es que las
+funciones de valor deberían ser útiles, y
+
+302
+00:16:28,531 --> 00:16:34,856
+tengo la plena expectativa de que se
+usarán en el futuro, si no es que ya se
+
+303
+00:16:34,856 --> 00:16:41,519
+están utilizando. A lo que me refería con
+la persona... cuyo centro emocional se
+
+304
+00:16:41,519 --> 00:16:43,374
+dañó, es más bien que,
+
+305
+00:16:36,932 --> 00:16:37,117
+Sí
+
+306
+00:16:45,372 --> 00:16:50,890
+Quizás lo que sugiere, es que la función
+de valor humana es modulada por emociones
+
+307
+00:16:50,890 --> 00:16:56,135
+de alguna manera importante que está
+codificada por la evolución. Y quizás eso
+
+308
+00:16:56,135 --> 00:16:59,814
+es importante para que la gente sea
+eficaz en el mundo.
+
+309
+00:17:00,512 --> 00:17:04,316
+Eso, eso es precisamente lo que te iba a
+preguntar, lo que tenía pensado
+
+310
+00:17:04,316 --> 00:17:08,335
+preguntarte. Hay algo realmente muy
+interesante sobre las emociones como una
+
+311
+00:17:08,335 --> 00:17:12,300
+función de valor, y es que resulta
+impresionante que posean tanta utilidad,
+
+312
+00:17:12,300 --> 00:17:15,140
+siendo a la vez bastante, eh, sencillas
+de comprender.
+
+313
+00:17:16,092 --> 00:17:19,140
+Así que, al respecto, tengo dos
+respuestas. Estoy completamente de
+
+314
+00:17:19,140 --> 00:17:20,828
+acuerdo en que, si lo comparamos con
+
+315
+00:17:23,492 --> 00:17:27,877
+El tipo de cosas que aprendemos y de las
+que hablamos, la manera en que las
+
+316
+00:17:27,877 --> 00:17:31,788
+abordamos, las emociones son
+relativamente simples. Incluso podrían
+
+317
+00:17:31,788 --> 00:17:36,232
+ser tan simples que quizás podrías
+esquematizarlas de una forma comprensible
+
+318
+00:17:36,232 --> 00:17:40,736
+para los humanos. Creo que sería genial
+hacerlo. En cuanto a la utilidad, sin
+
+319
+00:17:40,736 --> 00:17:44,884
+embargo, creo que hay algo donde, sabes,
+existe esta compensación entre
+
+320
+00:17:44,884 --> 00:17:46,247
+complejidad y robustez.
+
+321
+00:17:48,152 --> 00:17:51,822
+Es cierto que las cosas que poseen una
+mayor complejidad pueden llegar a ser de
+
+322
+00:17:51,822 --> 00:17:55,257
+gran utilidad, pero, por otro lado, las
+cosas más sencillas demuestran ser
+
+323
+00:17:55,257 --> 00:17:58,740
+sumamente provechosas en un espectro de
+situaciones verdaderamente extenso.
+
+324
+00:17:59,172 --> 00:18:02,928
+Y así, creo que lo que queremos, una
+manera de interpretar lo que estamos
+
+325
+00:18:02,928 --> 00:18:06,685
+observando es que poseemos estas
+emociones que, en esencia, evolucionaron
+
+326
+00:18:06,685 --> 00:18:10,651
+principalmente de nuestros antepasados
+mamíferos y luego se perfeccionaron un
+
+327
+00:18:10,651 --> 00:18:13,103
+poco mientras éramos homínidos, solo un
+poquito.
+
+328
+00:18:13,252 --> 00:18:17,140
+Sí tenemos una cantidad decente de
+emociones sociales que los mamíferos
+
+329
+00:18:17,140 --> 00:18:21,361
+quizás no tengan... pero no son muy
+sofisticadas, y como no son sofisticadas,
+
+330
+00:18:21,361 --> 00:18:25,415
+nos sirven tan bien en este mundo tan
+diferente comparado con el que hemos
+
+331
+00:18:25,415 --> 00:18:29,415
+estado viviendo. De hecho, también
+cometen errores. Por ejemplo, nuestras
+
+332
+00:18:29,415 --> 00:18:32,803
+emociones... Bueno, no sé. ¿El hambre
+cuenta como una emoción?
+
+333
+00:18:35,548 --> 00:18:38,826
+Mmm, e- es algo que se puede debatir,
+pero creo que, por ejemplo, nuestro
+
+334
+00:18:38,826 --> 00:18:40,238
+sentimiento intuitivo de hambre
+
+335
+00:18:42,108 --> 00:18:46,045
+no está logrando guiarnos de una forma
+verdaderamente correcta en este mundo en
+
+336
+00:18:46,045 --> 00:18:49,073
+el que vivimos, a pesar de la enorme
+abundancia de alimentos.
+
+337
+00:18:49,088 --> 00:18:52,928
+Sí. La gente ha estado hablando de
+escalar datos, de escalar parámetros, de
+
+338
+00:18:52,928 --> 00:18:56,925
+escalar la capacidad de cómputo. ¿Existe
+una forma más general de pensar en la
+
+339
+00:18:56,925 --> 00:18:59,676
+escalabilidad? ¿Cuáles son los otros ejes
+de escalado?
+
+340
+00:19:00,848 --> 00:19:05,320
+Bueno, la cosa... [pausa] Eh, aquí, aquí
+hay una perspectiva. Aquí hay una
+
+341
+00:19:05,320 --> 00:19:09,975
+perspectiva que creo que podría ser,
+podría ser cierta. Entonces, la forma en
+
+342
+00:19:09,975 --> 00:19:14,754
+que el ML solía funcionar es que la gente
+simplemente trasteaba con, con cosas,
+
+343
+00:19:14,754 --> 00:19:19,348
+[pausa] y trataba de... y trataba de
+obtener resultados interesantes. Eso es
+
+344
+00:19:19,348 --> 00:19:23,882
+lo que ha estado ocurriendo, [pausa] lo
+que ha estado pasando en el pasado.
+
+345
+00:19:26,148 --> 00:19:26,519
+Luego
+
+346
+00:19:28,208 --> 00:19:33,673
+La idea de la escalabilidad llegó,
+¿verdad? Las leyes de escalado, GPT-3, y
+
+347
+00:19:33,673 --> 00:19:39,656
+de repente todos se dieron cuenta de que
+debíamos escalar. Y es justo esto... Esto
+
+348
+00:19:39,656 --> 00:19:43,718
+es un ejemplo de cómo el lenguaje afecta
+el pensamiento.
+
+349
+00:19:45,728 --> 00:19:50,251
+Escalar es, bueno, solo una palabra, pero
+es una palabra tan poderosa porque le
+
+350
+00:19:50,251 --> 00:19:54,774
+dice a la gente qué hacer. Dicen: "De
+acuerdo, intentemos escalar las cosas". Y
+
+351
+00:19:54,774 --> 00:19:59,413
+entonces dices: "De acuerdo, ¿qué estamos
+escalando?". Y el pre-entrenamiento era
+
+352
+00:19:59,413 --> 00:20:03,762
+algo para escalar. Era una receta de
+escalado particular. El gran avance del
+
+353
+00:20:03,762 --> 00:20:07,415
+pre-entrenamiento es la comprensión de
+que esta receta es buena.
+
+354
+00:20:01,848 --> 00:20:02,312
+Sí, claro.
+
+355
+00:20:07,988 --> 00:20:13,328
+Así que dices: "Oye, si mezclas cierta
+capacidad de cómputo con algunos datos en
+
+356
+00:20:13,328 --> 00:20:17,722
+una red neuronal de un tamaño
+determinado, obtendrás resultados. Y
+
+357
+00:20:17,722 --> 00:20:22,386
+sabrás que serán aún mejores si
+simplemente amplías la receta." Y esto
+
+358
+00:20:22,386 --> 00:20:27,591
+también es genial. A las empresas les
+encanta esto porque les ofrece una forma
+
+359
+00:20:27,591 --> 00:20:30,836
+de muy bajo riesgo para invertir... sus
+recursos.
+
+360
+00:20:30,348 --> 00:20:30,487
+Sí
+
+361
+00:20:31,648 --> 00:20:32,251
+Claro que sí.
+
+362
+00:20:32,268 --> 00:20:36,278
+¿Verdad? Es mucho más difícil invertir
+tus recursos en la investigación. Compara
+
+363
+00:20:36,278 --> 00:20:40,391
+eso. Sabes, unos pocos investigadores que
+necesitan ser, digamos, proactivos en su
+
+364
+00:20:40,391 --> 00:20:42,066
+trabajo y que se les ocurra algo.
+
+365
+00:20:42,248 --> 00:20:46,456
+En lugar de simplemente obtener más
+datos, o conseguir más capacidad de
+
+366
+00:20:46,456 --> 00:20:51,385
+cómputo, sabes que siempre obtendrás algo
+del pre-entrenamiento. Y de hecho, sabes,
+
+367
+00:20:51,385 --> 00:20:56,014
+parece que... basándonos en varias, eh,
+cosas que la gente comenta en Twitter,
+
+368
+00:20:56,014 --> 00:21:00,763
+quizás parece que Gemini ha encontrado
+una forma de sacar mucho más provecho del
+
+369
+00:21:00,763 --> 00:21:01,845
+pre-entrenamiento.
+
+370
+00:21:01,848 --> 00:21:04,410
+En algún momento, sin embargo, el
+pre-entrenamiento se quedará sin datos.
+
+371
+00:21:04,410 --> 00:21:06,865
+Los datos son muy claramente finitos. Y
+entonces, bien, ¿qué se hace a
+
+372
+00:21:06,865 --> 00:21:07,327
+continuación?
+
+373
+00:21:07,648 --> 00:21:11,454
+O haces algún tipo de reentrenamiento
+potenciado, una receta diferente a la que
+
+374
+00:21:11,454 --> 00:21:15,016
+has usado antes, o estás haciendo RL, o
+quizás algo más. Pero ahora que la
+
+375
+00:21:15,016 --> 00:21:18,676
+capacidad de cómputo es grande, la
+capacidad de cómputo ahora es muy grande,
+
+376
+00:21:18,676 --> 00:21:22,579
+en cierto sentido, hemos vuelto a la era
+de la investigación. Así que quizás esta
+
+377
+00:21:22,579 --> 00:21:23,994
+es otra manera de expresarlo.
+
+378
+00:21:24,208 --> 00:21:28,652
+Hasta 2020, específicamente desde 2012
+hasta 2020, fue la era de la
+
+379
+00:21:28,652 --> 00:21:33,837
+investigación. Ahora, desde 2020 hasta
+2025, fue la era de la escalabilidad, o
+
+380
+00:21:33,837 --> 00:21:37,675
+quizás un poco más o menos. Añadamos
+"oubers" a esos años.
+
+381
+00:21:37,688 --> 00:21:42,729
+Porque la gente dice: "Esto es increíble,
+tienes que escalar más, sigue escalando".
+
+382
+00:21:42,729 --> 00:21:47,586
+La única palabra, escalar. Pero ahora la
+escala es tan grande, ¿es, es la, es la
+
+383
+00:21:47,586 --> 00:21:52,135
+creencia realmente que, oh, es tan
+grande, pero si tuvieras cien veces más,
+
+384
+00:21:52,135 --> 00:21:56,746
+todo sería tan diferente? Claro, sería
+diferente, por supuesto. Pero, ¿es la
+
+385
+00:21:56,746 --> 00:22:01,418
+creencia que si solo multiplicaras por
+cien la escala, todo se transformaría?
+
+386
+00:22:02,168 --> 00:22:05,614
+No creo que sea verdad. Así que, volvemos
+a la era de la investigación, solo con
+
+387
+00:22:05,614 --> 00:22:06,486
+grandes ordenadores.
+
+388
+00:22:06,768 --> 00:22:10,200
+Esa es una manera muy interesante de
+decirlo. Pero permítame hacerle la
+
+389
+00:22:10,200 --> 00:22:13,926
+pregunta que usted acaba de plantear.
+¿Qué es lo que estamos escalando y qué,
+
+390
+00:22:13,926 --> 00:22:16,427
+qué implicaría... qué significaría tener
+una receta?
+
+391
+00:22:16,448 --> 00:22:20,956
+Porque supongo que no soy consciente de
+una relación muy clara, que casi parece
+
+392
+00:22:20,956 --> 00:22:25,291
+una ley de la física, la cual existía en
+el preentrenamiento como una ley de
+
+393
+00:22:25,291 --> 00:22:29,973
+potencia entre los datos o los parámetros
+computacionales y la función de pérdida.
+
+394
+00:22:29,973 --> 00:22:34,077
+¿Cuál es el tipo de relación que
+deberíamos estar buscando, y cómo, cómo
+
+395
+00:22:34,077 --> 00:22:38,181
+deberíamos reflexionar sobre qué aspecto
+podría tener esta nueva receta?
+
+396
+00:22:38,908 --> 00:22:44,766
+Así que, ya hemos presenciado una
+transición de un tipo de escalado a otro
+
+397
+00:22:44,766 --> 00:22:51,265
+tipo de escalado, de pre-entrenamiento a
+RL. Ahora, la gente está escalando RL. Y,
+
+398
+00:22:51,265 --> 00:22:57,124
+según lo que dice la gente en Twitter,
+gastan más computación en RL que en
+
+399
+00:22:57,124 --> 00:22:59,852
+pre-entrenamiento en este momento.
+
+400
+00:23:00,628 --> 00:23:03,933
+Porque RL puede consumir una gran
+cantidad de recursos computacionales.
+
+401
+00:23:03,933 --> 00:23:06,247
+Sabes, se hacen simulaciones muy, muy
+prolongadas.
+
+402
+00:23:03,388 --> 00:23:03,527
+Sí.
+
+403
+00:23:06,268 --> 00:23:06,871
+Por supuesto.
+
+404
+00:23:07,208 --> 00:23:10,787
+Así que se requiere una gran cantidad de
+poder computacional para producir esos
+
+405
+00:23:10,787 --> 00:23:13,815
+despliegues, y luego obtienes una
+cantidad relativamente pequeña de
+
+406
+00:23:13,815 --> 00:23:17,532
+aprendizaje por cada despliegue. Así que
+realmente puedes gastar, realmente puedes
+
+407
+00:23:17,532 --> 00:23:20,561
+gastar mucho cómputo. Y podría
+imaginar... Como que yo no... En, en
+
+408
+00:23:20,561 --> 00:23:24,186
+este, en este punto- Es, es más como que
+ni siquiera lo llamaría una escala, eh,
+
+409
+00:23:24,186 --> 00:23:26,480
+escalamiento. Yo diría, "Oye, ¿qué estás
+haciendo?"
+
+410
+00:23:27,128 --> 00:23:30,907
+¿Y es lo que estás haciendo, la, la, la
+actividad más productiva que podrías
+
+411
+00:23:30,907 --> 00:23:34,687
+estar realizando? ¿Podrías encontrar una
+manera, una forma más productiva de
+
+412
+00:23:34,687 --> 00:23:38,668
+utilizar tu capacidad de cómputo? Hemos
+hablado sobre el asunto de las funciones
+
+413
+00:23:38,668 --> 00:23:42,549
+de valor previamente, y quizás una vez
+que las personas se vuelvan expertas en
+
+414
+00:23:42,549 --> 00:23:46,127
+las funciones de valor, estarán
+utilizando sus, sus, eh, recursos de una
+
+415
+00:23:46,127 --> 00:23:47,236
+manera más productiva.
+
+416
+00:23:31,508 --> 00:23:31,786
+Claro.
+
+417
+00:23:47,288 --> 00:23:51,313
+Y si encuentras una forma completamente
+diferente de entrenar modelos, podrías
+
+418
+00:23:51,313 --> 00:23:55,496
+decir, "¿Esto está escalando o solo está
+usando tus recursos?" Creo que se vuelve
+
+419
+00:23:55,496 --> 00:23:59,365
+un poco ambiguo en el sentido de que
+cuando la gente estaba en la era de la
+
+420
+00:23:59,365 --> 00:24:03,391
+investigación, en aquel entonces, era
+como la gente dice, "Oye, probemos esto,
+
+421
+00:24:03,391 --> 00:24:06,999
+y esto, y esto. Probemos aquello, y
+aquello, y aquello. Oh, mira, algo
+
+422
+00:24:06,999 --> 00:24:10,136
+interesante está pasando." Y creo que
+habrá un regreso a eso.
+
+423
+00:24:10,148 --> 00:24:14,075
+E- entonces, si volvemos a la era de la
+investigación, dando un paso atrás, ¿cuál
+
+424
+00:24:14,075 --> 00:24:17,658
+es la parte de la receta en la que más
+debemos concentrarnos? Cuando dices
+
+425
+00:24:17,658 --> 00:24:21,242
+"función de valor", la gente ya está
+probando la receta actual, pero luego
+
+426
+00:24:21,242 --> 00:24:24,924
+usando un LLM como juez y demás. Y se
+podría decir que eso es una función de
+
+427
+00:24:24,924 --> 00:24:28,802
+valor, pero parece que tienes algo mucho
+más fundamental en mente. ¿Necesitamos,
+
+428
+00:24:28,802 --> 00:24:29,931
+necesitamos volver a...
+
+429
+00:24:29,928 --> 00:24:33,618
+¿Deberíamos, deberíamos siquiera repensar
+el... el preentrenamiento por completo, y
+
+430
+00:24:33,618 --> 00:24:35,779
+no solo añadir más pasos al final de ese
+proceso?
+
+431
+00:24:35,936 --> 00:24:40,334
+Sí. La discusión, uhm, sobre la función
+de valor, me pareció, la verdad, muy
+
+432
+00:24:40,334 --> 00:24:44,674
+interesante. Quiero recalcar que la
+función de valor es algo que va a hacer
+
+433
+00:24:44,674 --> 00:24:48,955
+nuestro ámbito mucho más eficiente, y
+creo que eso sí marca una diferencia
+
+434
+00:24:48,955 --> 00:24:53,178
+importante. Pero también creo que
+cualquier cosa que puedas hacer con una
+
+435
+00:24:53,178 --> 00:24:57,576
+función de valor, puedes hacerla sin
+ella, solo que de una manera más lenta.
+
+436
+00:24:57,596 --> 00:24:58,246
+Ajá.
+
+437
+00:25:00,076 --> 00:25:03,284
+La cosa que creo que es lo más
+fundamental es que estos modelos de
+
+438
+00:25:03,284 --> 00:25:06,345
+alguna manera generalizan dramáticamente
+peor que las personas.
+
+439
+00:25:06,396 --> 00:25:06,953
+Por supuesto.
+
+440
+00:25:07,956 --> 00:25:12,599
+Y es algo súper evidente. Eso parece ser
+algo verdaderamente fundamental.
+
+441
+00:25:12,956 --> 00:25:16,505
+Bueno, entonces, este es el punto central
+de todo esto, la idea general que se
+
+442
+00:25:16,505 --> 00:25:19,132
+desprende, y de aquí se derivan dos
+preguntas secundarias.
+
+443
+00:25:20,796 --> 00:25:24,175
+Hay una cuestión relacionada con la
+eficiencia de muestreo, que es: ¿por qué
+
+444
+00:25:24,175 --> 00:25:27,374
+estos modelos necesitan muchísimos más
+datos para aprender que los seres
+
+445
+00:25:27,374 --> 00:25:30,934
+humanos? Hay una segunda cuestión que se
+refiere a... Incluso dejando de lado la
+
+446
+00:25:30,934 --> 00:25:34,178
+cantidad de datos que se requieren, surge
+la pregunta de: ¿por qué es tan
+
+447
+00:25:34,178 --> 00:25:37,738
+complicado enseñar lo que deseamos a un
+modelo en comparación con un ser humano?
+
+448
+00:25:37,738 --> 00:25:41,433
+Es decir, a un ser humano, no necesitamos
+necesariamente una recompensa verificable
+
+449
+00:25:41,433 --> 00:25:42,019
+para poder...
+
+450
+00:25:43,496 --> 00:25:47,033
+Probablemente estás asesorando a varios
+investigadores ahora mismo, y estás, eh,
+
+451
+00:25:47,033 --> 00:25:50,616
+sabes, hablando con ellos, mostrándoles
+tu código y cómo piensas. Y de ahí, ellos
+
+452
+00:25:50,616 --> 00:25:54,109
+están captando tu forma de pensar y cómo
+abordarías la investigación. No tienes
+
+453
+00:25:54,109 --> 00:25:57,288
+que establecerles una recompensa
+verificable que diga: "Bien, esta es la
+
+454
+00:25:57,288 --> 00:26:00,557
+siguiente parte de tu currículum, y ahora
+esta es la siguiente parte de tu
+
+455
+00:26:00,557 --> 00:26:03,647
+currículum", y "Oh, fue, e- este
+entrenamiento fue inestable y tenemos
+
+456
+00:26:03,647 --> 00:26:06,065
+que..." Ahora existe este proceso a
+medida y engorroso.
+
+457
+00:26:06,096 --> 00:26:10,357
+Así que quizás estos dos problemas estén
+realmente relacionados de alguna manera,
+
+458
+00:26:10,357 --> 00:26:14,139
+pero me gustaría explorar esto, esta
+segunda cosa que se siente más como
+
+459
+00:26:14,139 --> 00:26:18,347
+aprendizaje continuo, y esta primera cosa
+que se siente como, uhm, eficiencia de
+
+460
+00:26:18,347 --> 00:26:18,774
+muestra.
+
+461
+00:26:19,476 --> 00:26:23,776
+Sí. Entonces, como sabes, uno podría de
+hecho preguntarse, una, una posible
+
+462
+00:26:23,776 --> 00:26:27,554
+explicación para la eficiencia de
+muestreo humana que necesita ser
+
+463
+00:26:27,554 --> 00:26:29,181
+considerada es la evolución.
+
+464
+00:26:30,716 --> 00:26:35,547
+Y la evolución nos ha proporcionado una
+cantidad limitada, o mejor dicho, la
+
+465
+00:26:35,547 --> 00:26:40,507
+información más útil posible. Y para
+aspectos como la visión, la audición y la
+
+466
+00:26:40,507 --> 00:26:45,531
+capacidad de movimiento, considero que
+hay pruebas bastante contundentes de que
+
+467
+00:26:45,531 --> 00:26:48,688
+la evolución, de hecho, nos ha otorgado
+muchísimo.
+
+468
+00:26:48,736 --> 00:26:49,339
+Ajá.
+
+469
+00:26:49,636 --> 00:26:53,118
+Así, por ejemplo, la destreza humana
+supera con creces...
+
+470
+00:26:53,516 --> 00:26:57,789
+Quiero decir, los robots también pueden
+volverse diestros si los sometes a una
+
+471
+00:26:57,789 --> 00:27:01,841
+enorme cantidad de entrenamiento y
+simulación. Pero entrenar a un robot en
+
+472
+00:27:01,841 --> 00:27:05,726
+el mundo real para que adquiera
+rápidamente una nueva habilidad como lo
+
+473
+00:27:05,726 --> 00:27:10,166
+hace una persona parece muy inalcanzable.
+Y aquí, podrías decir: "Oh, sí, como la
+
+474
+00:27:10,166 --> 00:27:13,996
+locomoción, todos nuestros ancestros
+necesitaban una gran locomoción".
+
+475
+00:27:06,836 --> 00:27:07,021
+Sí.
+
+476
+00:27:14,036 --> 00:27:18,125
+Las ardillas, por ejemplo... Así que, la
+locomoción podría ser como si tuviéramos
+
+477
+00:27:18,125 --> 00:27:21,806
+una especie de conocimiento previo
+increíble. Podrías argumentar lo mismo
+
+478
+00:27:21,806 --> 00:27:25,845
+para la visión, ¿sabes? Yo, yo creo que
+Yann LeCun hizo el comentario, como, eh,
+
+479
+00:27:25,845 --> 00:27:29,935
+los niños aprenden a conducir después de
+dieciséis ho- después de unas diez horas
+
+480
+00:27:29,935 --> 00:27:33,616
+de práctica, lo cual es cierto, pero
+nuestra visión es tan, tan buena. Al
+
+481
+00:27:33,616 --> 00:27:37,348
+menos para mí, ¿sabes?, cuando me
+recuerdo a mí mismo de cinco años, mi...
+
+482
+00:27:19,576 --> 00:27:19,761
+Sí.
+
+483
+00:27:37,376 --> 00:27:40,868
+Yo estaba, yo estaba muy emocionado con
+los coches en aquel entonces, y estoy
+
+484
+00:27:40,868 --> 00:27:44,453
+bastante seguro de que mi reconocimiento
+de coches era más que adecuado para la
+
+485
+00:27:44,453 --> 00:27:48,038
+conducción autónoma ya a los cinco años.
+No llegas a ver tantos datos siendo un
+
+486
+00:27:48,038 --> 00:27:51,668
+niño de cinco años. Pasas la mayor parte
+de tu tiempo en casa de tus padres. Así
+
+487
+00:27:51,668 --> 00:27:55,115
+que tienes muy poca diversidad de datos.
+Pero se podría decir que quizás eso
+
+488
+00:27:55,115 --> 00:27:58,103
+también es evolución. Pero luego el
+lenguaje, las matemáticas y la
+
+489
+00:27:58,103 --> 00:27:59,527
+programación, probablemente no.
+
+490
+00:28:00,516 --> 00:28:04,019
+Aún me parece mejor que los modelos.
+Quiero decir, obviamente, los modelos son
+
+491
+00:28:04,019 --> 00:28:07,205
+mejores que el humano promedio en
+lenguaje, matemáticas y programación,
+
+492
+00:28:07,205 --> 00:28:09,571
+¿pero son mejores que el humano promedio
+en aprender?
+
+493
+00:28:09,676 --> 00:28:13,927
+Oh, sí. Oh, sí. Absolutamente. Lo que
+quise decir es que el lenguaje, las
+
+494
+00:28:13,927 --> 00:28:17,825
+matemáticas y la programación, y
+especialmente las matemáticas y la
+
+495
+00:28:17,825 --> 00:28:22,313
+programación, sugieren que aquello que
+hace que las personas sean buenas para
+
+496
+00:28:22,313 --> 00:28:26,919
+aprender probablemente no es tanto un
+conocimiento previo complicado, sino algo
+
+497
+00:28:26,919 --> 00:28:28,809
+más, algo mucho más fundamental.
+
+498
+00:28:29,316 --> 00:28:31,870
+Espera. No estoy seguro de entender. ¿Por
+qué debería ser así?
+
+499
+00:28:32,436 --> 00:28:33,318
+Piensa en un talento
+
+500
+00:28:34,896 --> 00:28:39,214
+que la gente demuestre algún tipo de gran
+fiabilidad o, ya sabes, uhm...
+
+501
+00:28:39,856 --> 00:28:40,366
+Así es.
+
+502
+00:28:41,656 --> 00:28:46,410
+Si la habilidad es una que fue muy útil
+para nuestros ancestros durante muchos
+
+503
+00:28:46,410 --> 00:28:50,917
+millones de años, incluso cientos de
+millones de años, se podría decir, se
+
+504
+00:28:50,917 --> 00:28:55,610
+podría argumentar que quizás los seres
+humanos son buenos en ella debido a la
+
+505
+00:28:55,610 --> 00:29:00,117
+evolución- ... porque tenemos un
+antecedente. Un antecedente evolutivo que
+
+506
+00:29:00,117 --> 00:29:03,575
+está codificado en nosotros de una manera
+muy poco obvia.
+
+507
+00:29:03,896 --> 00:29:04,313
+Así es.
+
+508
+00:29:04,556 --> 00:29:06,274
+Eso de algún modo nos hace tan buenos en
+ello.
+
+509
+00:29:06,296 --> 00:29:06,667
+Ajá.
+
+510
+00:29:07,216 --> 00:29:12,085
+Pero si las personas demuestran una gran
+capacidad, una fiabilidad y robustez
+
+511
+00:29:12,085 --> 00:29:16,762
+notables, además de una habilidad para
+aprender en un campo o área que, en
+
+512
+00:29:16,762 --> 00:29:21,696
+realidad, no existía hasta hace muy poco
+tiempo, entonces esto es más bien una
+
+513
+00:29:21,696 --> 00:29:24,259
+señal de que las personas podrían poseer
+
+514
+00:29:26,356 --> 00:29:28,167
+Mejor aprendizaje automático, punto.
+
+515
+00:29:28,356 --> 00:29:33,178
+Mm-hmm. ¿Pero entonces cómo deberíamos
+pensar en qué es eso? ¿Es cuestión de...?
+
+516
+00:29:33,178 --> 00:29:37,817
+Sí, ¿cuál es la analogía de ML para esto?
+Hay un par de cosas interesantes al
+
+517
+00:29:37,817 --> 00:29:42,823
+respecto. Necesita menos muestras. Es más
+no supervisado. No tienes que fijar un...
+
+518
+00:29:42,823 --> 00:29:45,631
+Como un niño aprendiendo a conducir un
+coche...
+
+519
+00:29:45,636 --> 00:29:50,717
+Los niños no están aprendiendo a conducir
+un coche. Un adolescente que aprende a
+
+520
+00:29:50,717 --> 00:29:55,669
+conducir un coche no está recibiendo
+exactamente una recompensa preestablecida
+
+521
+00:29:55,669 --> 00:30:00,171
+y verificable. Viene de su interacción
+con la máquina y con el entorno.
+
+522
+00:30:01,856 --> 00:30:04,816
+Pues, la verdad es que sí, necesita una
+cantidad mucho menor de muestras, y
+
+523
+00:30:04,816 --> 00:30:07,057
+parece ser mucho más autónomo. Además, se
+ve más robusto.
+
+524
+00:30:07,436 --> 00:30:11,344
+Mucho más resistentes. La resistencia de
+las personas es verdaderamente
+
+525
+00:30:11,344 --> 00:30:12,126
+impresionante.
+
+526
+00:30:12,456 --> 00:30:16,376
+Sí. Entonces, ¿es como si...? Bien, ¿y
+tienes alguna forma unificada de pensar
+
+527
+00:30:16,376 --> 00:30:20,043
+por qué todas estas cosas están
+sucediendo a la vez? ¿Cuál es la analogía
+
+528
+00:30:20,043 --> 00:30:24,065
+de ML que podría, uh, uh, s- que podría
+ser, que podría hacer realidad algo así?
+
+529
+00:30:24,056 --> 00:30:27,928
+Bueno, entonces, eh, aquí es donde,
+sabes, una de las cosas sobre las que me
+
+530
+00:30:27,928 --> 00:30:31,645
+has estado preguntando es cómo puede,
+sabes, un conductor adolescente, de
+
+531
+00:30:31,645 --> 00:30:35,466
+alguna manera, autocorregirse y aprender
+de su propia experiencia... sin la
+
+532
+00:30:35,466 --> 00:30:39,442
+necesidad de un maestro externo? Y la
+respuesta es, bueno, que ellos tienen su
+
+533
+00:30:39,442 --> 00:30:40,681
+propia función de valor.
+
+534
+00:30:40,724 --> 00:30:41,281
+Mmm.
+
+535
+00:30:41,324 --> 00:30:44,674
+¿Verdad? Tienen un sentido, un sentido
+bastante general... Lo cual, dicho sea de
+
+536
+00:30:44,674 --> 00:30:46,711
+paso, es algo extremadamente robusto en
+la gente.
+
+537
+00:30:46,724 --> 00:30:51,829
+Sea lo que sea, la función de valor
+humana, sea cual sea la función de valor
+
+538
+00:30:51,829 --> 00:30:57,139
+humana, con algunas excepciones en torno
+a la adicción, es en realidad muy, muy
+
+539
+00:30:57,139 --> 00:30:57,683
+robusta.
+
+540
+00:30:59,204 --> 00:31:03,296
+Y así, por ejemplo, un adolescente que
+está aprendiendo a conducir, empiezan a
+
+541
+00:31:03,296 --> 00:31:07,442
+conducir, y de inmediato ya tienen una
+idea clara de cómo lo están haciendo. De
+
+542
+00:31:07,442 --> 00:31:11,588
+lo inseguros que se sienten. Y luego ven,
+okay... Y ellos... Y luego, claro, la
+
+543
+00:31:11,588 --> 00:31:15,628
+velocidad de aprendizaje de cualquier
+adolescente es tan, tan rápida. Después
+
+544
+00:31:15,628 --> 00:31:17,222
+de diez horas, ya estás listo.
+
+545
+00:31:17,264 --> 00:31:21,285
+Sí. Parece que los humanos tienen alguna
+solución, pero me pregunto, cómo lo hacen
+
+546
+00:31:21,285 --> 00:31:24,859
+y por qué es tan difícil... cómo
+necesitamos reconceptualizar la forma en
+
+547
+00:31:24,859 --> 00:31:27,341
+que entrenamos modelos para hacer algo
+así posible?
+
+548
+00:31:27,444 --> 00:31:32,418
+Sabes, esa es una excelente pregunta para
+hacer, y es una cuestión sobre la que
+
+549
+00:31:32,418 --> 00:31:37,011
+tengo muchísimas opiniones. Pero,
+desafortunadamente, vivimos en un mundo
+
+550
+00:31:37,011 --> 00:31:41,412
+donde no- no todas las ideas de
+aprendizaje automático se discuten con
+
+551
+00:31:41,412 --> 00:31:46,068
+total libertad, y esta- esta es una de
+ellas. Así que, probablemente, haya
+
+552
+00:31:46,068 --> 00:31:47,598
+alguna forma de hacerlo.
+
+553
+00:31:49,464 --> 00:31:52,896
+Yo creo firmemente que sí se puede
+lograr. El simple hecho de que existan
+
+554
+00:31:52,896 --> 00:31:56,375
+personas así, me parece una clara
+demostración de que es algo que se puede
+
+555
+00:31:56,375 --> 00:31:59,760
+hacer. Sin embargo, podría haber otro
+impedimento, que es que existe una
+
+556
+00:31:59,760 --> 00:32:00,284
+posibilidad
+
+557
+00:32:02,424 --> 00:32:06,454
+que las neuronas humanas, en realidad,
+realizan muchos más cálculos de los que
+
+558
+00:32:06,454 --> 00:32:10,485
+imaginamos. Y si eso es verdad, y si eso
+llega a jugar un papel verdaderamente
+
+559
+00:32:10,485 --> 00:32:14,516
+importante, entonces las cosas podrían
+ser mucho más difíciles. Pero, de todas
+
+560
+00:32:14,516 --> 00:32:17,238
+formas, creo que esto apunta a la
+existencia de algún
+
+561
+00:32:19,244 --> 00:32:23,073
+un principio de aprendizaje automático
+sobre el que no tengo ninguna opinión.
+
+562
+00:32:23,073 --> 00:32:26,097
+Pero desafortunadamente, las
+circunstancias hacen que sea muy
+
+563
+00:32:26,097 --> 00:32:28,717
+difícil... poder discutirlo en detalle.
+Sabes, nadie-
+
+564
+00:32:28,704 --> 00:32:30,143
+Nadie escucha este podcast, Ilya.
+
+565
+00:32:31,684 --> 00:32:32,194
+Así es.
+
+566
+00:32:32,244 --> 00:32:36,157
+Así que tengo que decir que prepararme
+para Ilya fue bastante complicado, porque
+
+567
+00:32:36,157 --> 00:32:40,070
+ni yo ni nadie más tenía la más mínima
+idea de en qué estaba trabajando él y qué
+
+568
+00:32:40,070 --> 00:32:41,903
+es lo que SSI está intentando lograr.
+
+569
+00:32:42,043 --> 00:32:45,469
+No tenía fundamentos para formular mis
+preguntas, y lo único en lo que podía
+
+570
+00:32:45,469 --> 00:32:48,986
+apoyarme, honestamente, era intentar
+pensar desde los principios básicos sobre
+
+571
+00:32:48,986 --> 00:32:52,595
+cuáles son los obstáculos para la IAG.
+Porque claramente Ilya está trabajando en
+
+572
+00:32:52,595 --> 00:32:55,701
+ellos de alguna manera. Parte de esta
+pregunta implicaba pensar en la
+
+573
+00:32:55,701 --> 00:32:58,716
+escalabilidad del RL, porque todo el
+mundo pregunta qué tan bien se
+
+574
+00:32:58,716 --> 00:33:01,594
+generalizará el RL y cómo podemos hacer
+que se generalice mejor.
+
+575
+00:33:01,664 --> 00:33:05,386
+Como parte de esto, estaba leyendo un
+artículo que salió recientemente sobre el
+
+576
+00:33:05,386 --> 00:33:09,203
+escalado de RL, y mostró que en realidad
+la curva de aprendizaje en RL parece una
+
+577
+00:33:09,203 --> 00:33:12,877
+sigmoide. Esto me pareció muy curioso.
+¿Por qué debería ser una sigmoide donde
+
+578
+00:33:12,877 --> 00:33:16,599
+aprende muy poco durante mucho tiempo y
+luego aprende mucho rápidamente y luego
+
+579
+00:33:16,599 --> 00:33:17,267
+se estabiliza?
+
+580
+00:33:17,264 --> 00:33:20,206
+Esto es muy diferente de la ley de
+potencia que se observa en el
+
+581
+00:33:20,206 --> 00:33:23,570
+pre-entrenamiento, donde el modelo
+aprende muchísimo al principio y luego
+
+582
+00:33:23,570 --> 00:33:27,120
+cada vez menos a medida que pasa el
+tiempo. De hecho, me recordó una nota que
+
+583
+00:33:27,120 --> 00:33:30,530
+había escrito después de tener una
+conversación con un amigo investigador,
+
+584
+00:33:30,530 --> 00:33:33,799
+donde él me señaló que la cantidad de
+muestras que necesitas tomar para
+
+585
+00:33:33,799 --> 00:33:37,536
+encontrar una respuesta correcta escala
+exponencialmente con cuán diferente es tu
+
+586
+00:33:37,536 --> 00:33:41,226
+distribución de probabilidad actual de la
+distribución de probabilidad objetivo.
+
+587
+00:33:41,224 --> 00:33:44,682
+Y estaba pensando en cómo estas dos ideas
+se relacionaban. Tenía esta vaga idea de
+
+588
+00:33:44,682 --> 00:33:47,500
+que debían estar conectadas, pero
+realmente no sabía cómo. No tengo
+
+589
+00:33:47,500 --> 00:33:50,233
+formación en matemáticas, así que no pude
+formalizarlo realmente.
+
+590
+00:33:50,264 --> 00:33:54,610
+Pero me pregunté si Gemini 3 podría
+ayudarme aquí. Así que tomé una foto de
+
+591
+00:33:54,610 --> 00:33:59,073
+mi cuaderno y tomé el papel y los puse
+ambos en el contexto de Gemini 3, y le
+
+592
+00:33:59,073 --> 00:34:03,655
+pedí que encontrara la conexión. Y pensó
+mucho, y luego se dio cuenta de que la
+
+593
+00:34:03,655 --> 00:34:08,294
+forma correcta de modelar la información
+que se obtiene de un único resultado de
+
+594
+00:34:08,294 --> 00:34:12,230
+sí o no en RL es como la entropía de una
+variable binaria aleatoria.
+
+595
+00:34:12,304 --> 00:34:15,758
+Hizo un gráfico que mostraba cómo los
+bits que se ganan por muestra en RL
+
+596
+00:34:15,758 --> 00:34:19,356
+frente al aprendizaje supervisado escalan
+a medida que la tasa de aprobación
+
+597
+00:34:19,356 --> 00:34:23,002
+aumenta. Y tan pronto como vi el gráfico
+que hizo Gemini 3, inmediatamente un
+
+598
+00:34:23,002 --> 00:34:25,353
+montón de cosas empezaron a tener sentido
+para mí.
+
+599
+00:34:25,384 --> 00:34:29,512
+Entonces quería ver si existía alguna
+base empírica para esta teoría, así que
+
+600
+00:34:29,512 --> 00:34:33,478
+le pedí a Gemini que programara un
+experimento para demostrar si la mejora
+
+601
+00:34:33,478 --> 00:34:36,901
+en la pérdida se ajusta de esta forma con
+la tasa de aprobación.
+
+602
+00:34:37,043 --> 00:34:40,966
+Acabo de tomar el código que Gemini
+generó, lo copié y pegué en un cuaderno
+
+603
+00:34:40,966 --> 00:34:45,102
+de Google Colab, y pude ejecutar este
+experimento de ML de juguete y visualizar
+
+604
+00:34:45,102 --> 00:34:48,920
+sus resultados sin un solo error. Es
+interesante porque los resultados se
+
+605
+00:34:48,920 --> 00:34:51,625
+parecen, pero no son idénticos a lo que
+esperábamos.
+
+606
+00:34:51,643 --> 00:34:55,007
+Así que descargué este gráfico y lo puse
+en Gemini y le pregunté: "¿Qué está
+
+607
+00:34:55,007 --> 00:34:58,506
+pasando aquí?" Me dio una hipótesis que,
+de hecho, creo que es correcta, que es
+
+608
+00:34:58,506 --> 00:35:01,691
+que estamos limitando cuánto puede
+mejorar el aprendizaje supervisado al
+
+609
+00:35:01,691 --> 00:35:04,876
+principio al tener una tasa de
+aprendizaje fija. Y, de hecho, deberíamos
+
+610
+00:35:04,876 --> 00:35:08,195
+disminuir la tasa de aprendizaje con el
+tiempo. Esto nos da una comprensión
+
+611
+00:35:08,195 --> 00:35:11,200
+intuitiva de por qué en la práctica
+tenemos programadores de tasa de
+
+612
+00:35:11,200 --> 00:35:14,027
+aprendizaje que disminuyen la tasa de
+aprendizaje con el tiempo.
+
+613
+00:35:14,104 --> 00:35:17,648
+Llevé a cabo todo este proceso, desde la
+formulación de esta vaga pregunta
+
+614
+00:35:17,648 --> 00:35:21,193
+inicial, pasando por la construcción de
+un entendimiento teórico, hasta la
+
+615
+00:35:21,193 --> 00:35:25,029
+ejecución de algunos experimentos de ML
+de juguete, todo esto con Gemini 3. Este
+
+616
+00:35:25,029 --> 00:35:28,719
+se siente como el primer modelo que
+realmente puede generar nuevas conexiones
+
+617
+00:35:28,719 --> 00:35:30,079
+que yo no habría anticipado.
+
+618
+00:35:30,144 --> 00:35:34,135
+De hecho, ahora se ha convertido en el
+lugar predeterminado al que voy cuando
+
+619
+00:35:34,135 --> 00:35:38,336
+quiero generar nuevas ideas para pensar
+en un problema. Si quieres leer más sobre
+
+620
+00:35:38,336 --> 00:35:42,432
+la escalabilidad de RL, puedes consultar
+la entrada del blog que escribí con un
+
+621
+00:35:42,432 --> 00:35:46,056
+poco de ayuda de Gemini 3. Y si quieres
+probar Gemini 3 tú mismo, ve a
+
+622
+00:35:46,056 --> 00:35:50,152
+gemini.google. Tengo curiosidad, si dices
+que estamos de vuelta en la era de la
+
+623
+00:35:50,152 --> 00:35:52,620
+investigación, tú estuviste allí de 2012
+a 2020.
+
+624
+00:35:53,344 --> 00:35:58,227
+Y tú... sí, ¿cuál crees que será el
+ambiente ahora si volvemos a la era de la
+
+625
+00:35:58,227 --> 00:36:02,660
+investigación? Por ejemplo, incluso
+después de AlexNet, la cantidad de
+
+626
+00:36:02,660 --> 00:36:07,671
+cómputo que se utilizaba para ejecutar
+experimentos no dejaba de aumentar, y el
+
+627
+00:36:07,671 --> 00:36:11,269
+tamaño de los sistemas Frontier tampoco
+dejaba de crecer.
+
+628
+00:36:12,203 --> 00:36:16,902
+¿Y crees ahora que esta era de
+investigación seguirá necesitando una
+
+629
+00:36:16,902 --> 00:36:22,093
+cantidad tremenda de capacidad de
+cómputo? [eh] ¿Crees que requerirá volver
+
+630
+00:36:22,093 --> 00:36:25,670
+a los archivos y leer viejos documentos?
+¿Cuál es...
+
+631
+00:36:26,044 --> 00:36:30,281
+Sí, quizás, ¿cuál era el ambiente, la
+atmósfera, cuando estabas en Google,
+
+632
+00:36:30,281 --> 00:36:34,809
+OpenAI y Stanford, esos lugares, cuando
+había más un ambiente de investigación?
+
+633
+00:36:34,809 --> 00:36:37,886
+¿Qué tipo de cosas deberíamos esperar en
+la comunidad?
+
+634
+00:36:38,600 --> 00:36:43,428
+Sí. Así que, una de las consecuencias de
+lo que llamamos la era de la
+
+635
+00:36:43,428 --> 00:36:48,825
+escalabilidad, es que hubo esto, la
+escalabilidad absorbió todo el aire de la
+
+636
+00:36:48,825 --> 00:36:49,606
+habitación.
+
+637
+00:36:49,640 --> 00:36:50,150
+De acuerdo.
+
+638
+00:36:51,160 --> 00:36:55,034
+Y así, como la escalada acaparó por
+completo toda la atención, todos
+
+639
+00:36:55,034 --> 00:36:57,290
+empezaron a hacer exactamente lo mismo.
+
+640
+00:36:59,660 --> 00:37:04,250
+Hemos llegado a un punto en el que, eh,
+nos encontramos en un mundo donde hay más
+
+641
+00:37:04,250 --> 00:37:08,095
+empresas que ideas... y por una
+diferencia bastante considerable. De
+
+642
+00:37:08,095 --> 00:37:12,513
+hecho, al respecto, como sabes, existe
+ese dicho tan popular en Silicon Valley
+
+643
+00:37:12,513 --> 00:37:16,874
+que afirma que las ideas son baratas,
+pero que la ejecución lo es todo. Y eso
+
+644
+00:37:16,874 --> 00:37:19,629
+es algo que la gente repite con mucha
+frecuencia.
+
+645
+00:37:19,680 --> 00:37:19,912
+Sí.
+
+646
+00:37:19,940 --> 00:37:24,519
+Y hay algo de verdad en eso. Pero luego
+vi, vi a alguien que decía en Twitter,
+
+647
+00:37:24,519 --> 00:37:29,158
+eh, algo como esto: "Si las ideas son,
+son tan baratas, ¿cómo es que nadie está
+
+648
+00:37:29,158 --> 00:37:30,110
+teniendo ideas?"
+
+649
+00:37:31,040 --> 00:37:35,532
+Y creo que esto también es verdad. Pienso
+que, si te pones a considerar el progreso
+
+650
+00:37:35,532 --> 00:37:38,656
+de la investigación en términos de los
+cuellos de botella,
+
+651
+00:37:40,560 --> 00:37:44,793
+Hay varios cuellos de botella. Si
+volvemos a ello, uno de ellos son las
+
+652
+00:37:44,793 --> 00:37:49,631
+ideas, y otro es tu capacidad de darles
+vida, que podría ser la computación, pero
+
+653
+00:37:49,631 --> 00:37:50,962
+también la ingeniería.
+
+654
+00:37:52,200 --> 00:37:55,789
+Así que, si volvemos a los 90, digamos,
+había gente que tenía ideas bastante
+
+655
+00:37:55,789 --> 00:37:59,569
+buenas. Y si hubieran tenido ordenadores
+mucho más grandes, quizás podrían haber
+
+656
+00:37:59,569 --> 00:38:03,254
+demostrado que sus ideas eran viables,
+pero no pudieron. Así que solo pudieron
+
+657
+00:38:03,254 --> 00:38:06,317
+hacer una demostración muy, muy pequeña
+que no convenció a nadie.
+
+658
+00:38:06,380 --> 00:38:06,890
+Así es.
+
+659
+00:38:07,620 --> 00:38:11,394
+Así que el cuello de botella era la
+capacidad de cómputo. Luego, en la era
+
+660
+00:38:11,394 --> 00:38:15,117
+del escalamiento, las computadoras
+aumentaron considerablemente. Y claro,
+
+661
+00:38:15,117 --> 00:38:19,253
+hay una pregunta de cuánta capacidad de
+cómputo se necesita, pero la capacidad de
+
+662
+00:38:19,253 --> 00:38:20,390
+cómputo es muy grande.
+
+663
+00:38:20,840 --> 00:38:25,728
+Entonces, la capacidad de cómputo es lo
+suficientemente grande como para que no
+
+664
+00:38:25,728 --> 00:38:29,991
+sea obvio que se necesite mucho más
+cómputo para probar una idea. Por
+
+665
+00:38:29,991 --> 00:38:34,880
+ejemplo, te daré una analogía: AlexNet
+fue construida utilizando solo dos GPUs.
+
+666
+00:38:34,880 --> 00:38:40,019
+Esa fue la cantidad total de capacidad de
+cómputo que se empleó para su desarrollo.
+
+667
+00:38:40,660 --> 00:38:41,542
+El transformador
+
+668
+00:38:43,140 --> 00:38:48,146
+fue construido con entre 8 y 64 GPUs.
+Ningún experimento de un solo paper de
+
+669
+00:38:48,146 --> 00:38:53,353
+transformadores usó más de 64 GPUs de
+2017, lo que sería, como, ¿qué? ¿Dos GPUs
+
+670
+00:38:53,353 --> 00:38:53,821
+de hoy?
+
+671
+00:38:54,800 --> 00:38:57,586
+Entonces, ¿a lo que te refieres es a la
+ResNet, no es cierto?
+
+672
+00:38:58,580 --> 00:39:04,176
+Muchos, eh, incluso, se podría argumentar
+que el razonamiento L1 no era lo más
+
+673
+00:39:04,176 --> 00:39:09,118
+intensivo en computación del mundo. Así
+que, definitivamente, para la
+
+674
+00:39:09,118 --> 00:39:14,642
+investigación, necesitas, eh, sin duda,
+cierta cantidad de cómputo, pero está
+
+675
+00:39:14,642 --> 00:39:20,457
+lejos de ser obvio que necesites la mayor
+cantidad de cómputo jamás vista para la
+
+676
+00:39:20,457 --> 00:39:21,474
+investigación.
+
+677
+00:39:21,760 --> 00:39:22,270
+Mmm.
+
+678
+00:39:22,300 --> 00:39:25,398
+Se podría argumentar, y de hecho, creo
+que es verdad, que si lo que buscas es
+
+679
+00:39:25,398 --> 00:39:28,212
+construir el sistema que sea
+absolutamente el mejor, si tu objetivo es
+
+680
+00:39:28,212 --> 00:39:31,147
+desarrollar el sistema más óptimo
+posible, entonces resulta de gran ayuda
+
+681
+00:39:31,147 --> 00:39:34,206
+disponer de una capacidad de cómputo
+significativamente mayor. Y sobre todo,
+
+682
+00:39:34,206 --> 00:39:37,141
+si todos los involucrados se encuentran
+operando bajo el mismo paradigma,
+
+683
+00:39:37,141 --> 00:39:39,995
+entonces la capacidad de cómputo se
+convierte en uno de los principales
+
+684
+00:39:39,995 --> 00:39:41,015
+factores diferenciadores.
+
+685
+00:39:42,120 --> 00:39:45,636
+Sí, supongo que, si bien fue posible
+desarrollar estas ideas, te pido la
+
+686
+00:39:45,636 --> 00:39:49,351
+historia porque tú estuviste allí, no
+estoy seguro de lo que realmente pasó,
+
+687
+00:39:49,351 --> 00:39:53,264
+pero parece que fue posible desarrollar
+estas ideas usando cantidades mínimas de
+
+688
+00:39:53,264 --> 00:39:56,632
+computación, pero no fue así... El
+transformador no se hizo famoso de
+
+689
+00:39:56,632 --> 00:40:00,396
+inmediato. Se convirtió en lo que todos
+empezaron a hacer y luego empezaron a
+
+690
+00:40:00,396 --> 00:40:04,259
+experimentar sobre ello y a construir
+sobre ello porque fue validado en niveles
+
+691
+00:40:04,259 --> 00:40:05,943
+de computación cada vez más altos.
+
+692
+00:40:06,180 --> 00:40:06,923
+Correcto.
+
+693
+00:40:07,380 --> 00:40:10,988
+Y si en SSI, ustedes tienen a su
+disposición cincuenta ideas diferentes,
+
+694
+00:40:10,988 --> 00:40:14,901
+¿cómo podrán determinar cuál de ellas
+representa el próximo gran transformador
+
+695
+00:40:14,901 --> 00:40:18,510
+y cuál es, por así decirlo, demasiado
+frágil, sin contar con el nivel de
+
+696
+00:40:18,510 --> 00:40:21,915
+capacidad computacional que poseen otros
+laboratorios de vanguardia?
+
+697
+00:40:22,240 --> 00:40:27,436
+Así que, puedo, puedo comentar sobre eso.
+Y mi comentario breve es que, sabes,
+
+698
+00:40:27,436 --> 00:40:32,566
+mencionaste el SSI, y específicamente
+para nosotros, la cantidad de capacidad
+
+699
+00:40:32,566 --> 00:40:37,695
+de cómputo que el SSI tiene disponible
+para la investigación, realmente no es
+
+700
+00:40:37,695 --> 00:40:41,744
+tan pequeña como podría parecer. Y quiero
+explicarte por qué.
+
+701
+00:40:42,620 --> 00:40:46,468
+Por ejemplo, unas matemáticas sencillas
+pueden explicar por qué la cantidad de
+
+702
+00:40:46,468 --> 00:40:49,766
+computación que tenemos es en realidad
+mucho más comparable para la
+
+703
+00:40:49,766 --> 00:40:53,115
+investigación de lo que uno podría
+pensar. Ahora, explícalo. Así que
+
+704
+00:40:55,599 --> 00:40:59,537
+SSI ha recaudado tres mil millones de
+dólares, lo cual, la verdad, no es
+
+705
+00:40:59,537 --> 00:41:04,031
+poco... es muchísimo en cualquier sentido
+absoluto. Pero podrías decir: "Pero mira
+
+706
+00:41:04,031 --> 00:41:08,137
+a las otras empresas... que están
+recaudando mucho más". Pero gran parte de
+
+707
+00:41:08,137 --> 00:41:12,131
+lo que, gran parte de su capacidad de
+cómputo se destina a la inferencia.
+
+708
+00:41:13,700 --> 00:41:16,798
+O sea, estos grandes números, estos
+grandes préstamos, se asignan
+
+709
+00:41:16,798 --> 00:41:19,412
+exclusivamente para la inferencia. Y eso
+es lo primero.
+
+710
+00:41:20,100 --> 00:41:24,780
+En segundo lugar, necesitas, si quieres
+tener un producto sobre el cual realizar
+
+711
+00:41:24,780 --> 00:41:28,691
+inferencia, necesitas un gran equipo de
+ingenieros y de vendedores.
+
+712
+00:41:28,760 --> 00:41:32,158
+Gran parte de la investigación tiene que
+estar dedicada a la creación y desarrollo
+
+713
+00:41:32,158 --> 00:41:35,053
+de todo tipo de funcionalidades y
+características relacionadas con los
+
+714
+00:41:35,053 --> 00:41:38,284
+productos. Entonces, cuando observas lo
+que realmente queda disponible para la
+
+715
+00:41:38,284 --> 00:41:41,347
+investigación pura, la brecha o la
+diferencia se reduce considerablemente.
+
+716
+00:41:41,347 --> 00:41:44,493
+Ahora bien, la otra cuestión importante
+es la siguiente: si estás intentando
+
+717
+00:41:44,493 --> 00:41:47,640
+hacer algo verdaderamente innovador o
+diferente, ¿es realmente indispensable
+
+718
+00:41:47,640 --> 00:41:50,493
+contar con la escala máxima absoluta para
+poder demostrar su validez?
+
+719
+00:41:51,180 --> 00:41:55,061
+No creo que eso sea verdad en absoluto.
+Creo que en nuestro caso, tenemos
+
+720
+00:41:55,061 --> 00:41:58,942
+suficiente capacidad de cómputo para
+probar, para convencernos a nosotros
+
+721
+00:41:58,942 --> 00:42:01,907
+mismos y a cualquiera de que lo que
+hacemos es correcto.
+
+722
+00:42:03,040 --> 00:42:07,616
+Se han hecho estimaciones públicas de que
+empresas como OpenAI gastan del orden de
+
+723
+00:42:07,616 --> 00:42:11,910
+cinco, seis mil millones de dólares al
+año, solo hasta ahora en experimentos.
+
+724
+00:42:11,920 --> 00:42:12,430
+Ajá.
+
+725
+00:42:12,500 --> 00:42:16,645
+Esto es aparte de la cantidad de dinero
+que gastan en inferencia y demás. Así
+
+726
+00:42:16,645 --> 00:42:20,791
+que, parece que gastan más al año en
+experimentos de investigación que lo que
+
+727
+00:42:20,791 --> 00:42:22,809
+ustedes tienen en financiación total.
+
+728
+00:42:23,140 --> 00:42:27,189
+Creo que es una cuestión de qué haces con
+ello. Es una cuestión de qué haces con
+
+729
+00:42:27,189 --> 00:42:31,392
+ello. Como, si cuanto más... Creo que en,
+en, en su caso, en el caso de otros, creo
+
+730
+00:42:31,392 --> 00:42:34,928
+que hay mucha más demanda en la
+computación para el entrenamiento. Hay
+
+731
+00:42:34,928 --> 00:42:36,979
+muchos más flujos de trabajo diferentes.
+
+732
+00:42:37,640 --> 00:42:42,419
+Hay, hay diferentes modalidades. Hay,
+simplemente, más contenido. Y por eso, se
+
+733
+00:42:42,419 --> 00:42:43,584
+vuelve fragmentado.
+
+734
+00:42:44,480 --> 00:42:47,173
+¿De qué forma SSI va a ganar dinero?
+¿Sabes a lo que me refiero?
+
+735
+00:42:48,589 --> 00:42:50,446
+Mi respuesta a esta pregunta es algo así
+
+736
+00:42:52,950 --> 00:42:56,599
+Ahora mismo, simplemente nos enfocamos en
+la investigación y entonces la respuesta
+
+737
+00:42:56,599 --> 00:43:00,067
+a la pregunta se revelará por sí misma.
+Pienso que habrá muchísimas respuestas
+
+738
+00:43:00,067 --> 00:43:00,473
+posibles.
+
+739
+00:43:00,490 --> 00:43:04,112
+Mmm. ¿El plan de SSI sigue siendo apuntar
+directo a la superinteligencia?
+
+740
+00:43:04,990 --> 00:43:10,260
+Puede ser. Creo que tiene su mérito.
+Pienso que tiene un gran valor, porque me
+
+741
+00:43:10,260 --> 00:43:15,462
+parece muy agradable no verse afectado
+por la competencia diaria del mercado.
+
+742
+00:43:15,462 --> 00:43:20,733
+Pero creo que hay un par de razones que
+podrían llevarnos a modificar el plan.
+
+743
+00:43:09,190 --> 00:43:09,515
+Mmm.
+
+744
+00:43:25,270 --> 00:43:29,738
+Una es pragmática, si los plazos de
+desarrollo resultan ser muy largos, lo
+
+745
+00:43:29,738 --> 00:43:34,512
+cual es una posibilidad real y debemos
+considerar. Y en segundo lugar, creo que
+
+746
+00:43:34,512 --> 00:43:38,674
+hay un valor inmenso en que la
+inteligencia artificial más avanzada y
+
+747
+00:43:38,674 --> 00:43:42,592
+potente esté disponible y ejerza un
+impacto positivo en el mundo.
+
+748
+00:43:42,630 --> 00:43:43,047
+Así es.
+
+749
+00:43:43,870 --> 00:43:45,959
+Creo que esto es algo de valor
+significativo.
+
+750
+00:43:46,150 --> 00:43:49,167
+Pero entonces, ¿por qué su plan por
+defecto es ir directo a la
+
+751
+00:43:49,167 --> 00:43:52,977
+superinteligencia? Porque, uhm, parece
+que, ya sabes, OpenAI, Anthropic, todas
+
+752
+00:43:52,977 --> 00:43:56,193
+estas otras compañías, su pensamiento
+explícito es: "Mira, tenemos
+
+753
+00:43:56,193 --> 00:44:00,200
+inteligencias cada vez más débiles a las
+que el público puede acostumbrarse y para
+
+754
+00:44:00,200 --> 00:44:04,108
+las que puede prepararse". ¿Y por qué es,
+uh, uh, potencialmente mejor construir
+
+755
+00:44:04,108 --> 00:44:05,840
+una superinteligencia directamente?
+
+756
+00:44:06,109 --> 00:44:08,245
+Por lo tanto, argumentaré a favor y en
+contra.
+
+757
+00:44:08,250 --> 00:44:08,760
+Así es.
+
+758
+00:44:08,770 --> 00:44:13,088
+La situación es que tú te encuentras...
+[pause] Así que uno de los principales
+
+759
+00:44:13,088 --> 00:44:17,126
+desafíos que la gente enfrenta cuando
+está en el mercado es que tiene que
+
+760
+00:44:17,126 --> 00:44:19,033
+participar en la carrera de ratas.
+
+761
+00:44:20,250 --> 00:44:24,937
+Y la carrera de ratas es bastante
+difícil, ya que te expone a, a, a
+
+762
+00:44:24,937 --> 00:44:30,760
+decisiones complicadas que debes tomar. Y
+es... Es, es fácil decir: "Nos aislaremos
+
+763
+00:44:30,760 --> 00:44:36,299
+de todo esto y nos centraremos solo en la
+investigación y saldremos solo cuando
+
+764
+00:44:36,299 --> 00:44:40,915
+estemos listos y no antes". Pero el
+contrapunto también es válido.
+
+765
+00:44:40,990 --> 00:44:45,244
+Y, eh, esas son, esas son fuerzas
+opuestas. El contrapunto es, oye, que es
+
+766
+00:44:45,244 --> 00:44:49,324
+muy útil para el mundo ver una
+inteligencia artificial poderosa. Es muy
+
+767
+00:44:49,324 --> 00:44:53,754
+útil para el mundo ver una inteligencia
+artificial poderosa, porque esa es la
+
+768
+00:44:53,754 --> 00:44:55,386
+única manera de comunicarlo.
+
+769
+00:44:55,390 --> 00:44:58,083
+Bueno, supongo que no solo puedas
+comunicar la idea, sino-
+
+770
+00:44:58,129 --> 00:45:02,036
+Comunica la inteligencia artificial, no
+la idea. Comunica la inteligencia
+
+771
+00:45:02,036 --> 00:45:02,633
+artificial.
+
+772
+00:45:02,890 --> 00:45:04,004
+¿Qué es comunicar IA?
+
+773
+00:45:04,049 --> 00:45:06,902
+Entonces, de acuerdo, supongamos que lees
+un ensayo sobre la inteligencia
+
+774
+00:45:06,902 --> 00:45:09,835
+artificial. Y el ensayo dice que la
+inteligencia artificial será esto. Y la
+
+775
+00:45:09,835 --> 00:45:12,966
+inteligencia artificial será aquello y
+también será esto. Y lo lees y dices, "De
+
+776
+00:45:12,966 --> 00:45:14,869
+acuerdo, este es un ensayo bastante
+interesante."
+
+777
+00:45:07,210 --> 00:45:07,442
+Sí.
+
+778
+00:45:11,549 --> 00:45:12,059
+Sí, sí.
+
+779
+00:45:14,950 --> 00:45:15,414
+Correcto.
+
+780
+00:45:15,810 --> 00:45:21,619
+Ahora, si ves a una IA haciendo esto, a
+otra haciendo aquello, es incomparable.
+
+781
+00:45:21,619 --> 00:45:26,906
+Básicamente, creo que hay un gran
+beneficio de que la IA esté al alcance
+
+782
+00:45:26,906 --> 00:45:31,971
+del público. Y esa sería una razón para
+que no fuéramos tan directos.
+
+783
+00:45:35,470 --> 00:45:39,570
+Sí. Bueno, supongo que en realidad no es
+ni siquiera eso, aunque yo... Pero sí,
+
+784
+00:45:39,570 --> 00:45:43,355
+considero que es una parte bastante
+importante de todo el asunto. La otra
+
+785
+00:45:43,355 --> 00:45:47,508
+gran cuestión es que no puedo pensar en
+ninguna otra disciplina en la ingeniería
+
+786
+00:45:47,508 --> 00:45:51,451
+y la investigación humana donde el
+artefacto final se haya hecho más seguro,
+
+787
+00:45:51,451 --> 00:45:54,185
+principalmente, solo pensando en cómo
+hacerlo seguro.
+
+788
+00:45:54,230 --> 00:45:57,202
+¿Por qué los accidentes de avión por
+milla son hoy en día tan
+
+789
+00:45:57,202 --> 00:46:01,215
+significativamente más bajos de lo que lo
+eran hace décadas? ¿Por qué es mucho más
+
+790
+00:46:01,215 --> 00:46:05,278
+difícil encontrar un error en Linux de lo
+que hubiera sido hace décadas? Y creo que
+
+791
+00:46:05,278 --> 00:46:08,994
+es principalmente porque estos sistemas
+fueron implementados en el mundo, se
+
+792
+00:46:08,994 --> 00:46:12,561
+notaron fallos, esos fallos fueron
+corregidos y los sistemas se volvieron
+
+793
+00:46:12,561 --> 00:46:13,502
+mucho más robustos.
+
+794
+00:46:13,790 --> 00:46:18,074
+Ahora, no estoy seguro de por qué la IAG
+y la inteligencia sobrehumana serían tan
+
+795
+00:46:18,074 --> 00:46:21,824
+diferentes, especialmente dado que, y
+espero que podamos llegar a esto.
+
+796
+00:46:23,150 --> 00:46:26,721
+Parece que los daños de la
+superinteligencia no se tratan solo de,
+
+797
+00:46:26,721 --> 00:46:30,952
+como, tener un malvado 'paperclipper' por
+ahí, sino que es, como, esto es algo
+
+798
+00:46:30,952 --> 00:46:34,963
+realmente poderoso y ni siquiera sabemos
+cómo conceptualizar cómo la gente
+
+799
+00:46:34,963 --> 00:46:39,304
+interactuará con ello, qué hará la gente
+con ello. Y tener acceso gradual a ella
+
+800
+00:46:39,304 --> 00:46:43,589
+parece una, eh, mejor manera de quizás
+distribuir el impacto de esto y ayudar a
+
+801
+00:46:43,589 --> 00:46:45,348
+la gente a prepararse para ello.
+
+802
+00:46:45,410 --> 00:46:50,909
+Bueno, creo, creo que en este punto,
+incluso en el escenario de un lanzamiento
+
+803
+00:46:50,909 --> 00:46:56,051
+directo, aún así harías una liberación
+gradual, es como me lo imagino. El
+
+804
+00:46:56,051 --> 00:47:01,194
+gradualismo sería un componente
+inherente, inherente a cualquier plan. Es
+
+805
+00:47:01,194 --> 00:47:06,479
+solo cuestión de cuál es la primera cosa
+que sacas por la puerta. Eso es lo
+
+806
+00:47:06,479 --> 00:47:07,050
+primero.
+
+807
+00:47:07,210 --> 00:47:12,051
+Número dos, también creo, sabes, que tú
+has abogado por el aprendizaje continuo
+
+808
+00:47:12,051 --> 00:47:13,479
+más que otras personas.
+
+809
+00:47:13,509 --> 00:47:13,926
+Así es.
+
+810
+00:47:14,190 --> 00:47:18,441
+Y de hecho, considero que esto es algo
+sumamente importante y acertado, y les
+
+811
+00:47:18,441 --> 00:47:22,972
+explicaré el porqué. Así que, entre otras
+cosas, les proporcionaré otro ejemplo de
+
+812
+00:47:22,972 --> 00:47:26,720
+cómo la forma de pensar, eh, de qué
+manera el lenguaje influye en el
+
+813
+00:47:26,720 --> 00:47:31,028
+pensamiento. Y en este caso particular,
+se trata de dos palabras, dos palabras
+
+814
+00:47:31,028 --> 00:47:35,000
+que, según mi parecer, han moldeado
+profundamente la manera de pensar de
+
+815
+00:47:35,000 --> 00:47:36,063
+todas las personas.
+
+816
+00:47:37,170 --> 00:47:40,474
+La primera palabra que vamos a mencionar
+es AGI. La segunda palabra, o el segundo
+
+817
+00:47:40,474 --> 00:47:43,448
+concepto clave, es pre-entrenamiento.
+Permítanme explicarles esto con más
+
+818
+00:47:43,448 --> 00:47:46,546
+detalle. Entonces, la palabra, o mejor
+dicho, el término AGI, ¿por qué razón
+
+819
+00:47:46,546 --> 00:47:49,726
+existe este término en particular? Es un
+término muy específico, muy peculiar,
+
+820
+00:47:49,726 --> 00:47:53,031
+¿por qué es que existe realmente? Hay una
+razón fundamental y muy importante para
+
+821
+00:47:53,031 --> 00:47:53,609
+su existencia.
+
+822
+00:47:54,649 --> 00:47:59,818
+La razón por la que el término AGI existe
+es, en mi opinión, no tanto porque sea,
+
+823
+00:47:59,818 --> 00:48:04,277
+por así decirlo, un descriptor
+verdaderamente importante y esencial de
+
+824
+00:48:04,277 --> 00:48:06,862
+un estado final de la inteligencia. Sino
+
+825
+00:48:09,649 --> 00:48:14,482
+porque es una reacción a un término
+diferente que ya existía, y ese término
+
+826
+00:48:14,482 --> 00:48:19,446
+es la IA estrecha. Si nos remontamos a la
+historia antigua de la inteligencia
+
+827
+00:48:19,446 --> 00:48:24,475
+artificial que jugaba, la IA de damas, la
+IA de ajedrez, la IA de videojuegos,
+
+828
+00:48:24,475 --> 00:48:27,807
+todos decían: "Mira esta inteligencia tan
+limitada."
+
+829
+00:48:27,850 --> 00:48:31,240
+Claro, la IA de ajedrez puede vencer a
+Kasparov, pero no es capaz de hacer
+
+830
+00:48:31,240 --> 00:48:34,537
+absolutamente nada más. Es una
+inteligencia artificial tan limitada, una
+
+831
+00:48:34,537 --> 00:48:38,020
+inteligencia artificial de alcance muy
+estrecho. Así que, en respuesta, como
+
+832
+00:48:38,020 --> 00:48:41,456
+reacción a esto, algunas personas
+comentaron: "Bueno, esto no está bien, es
+
+833
+00:48:41,456 --> 00:48:42,339
+demasiado limitado.
+
+834
+00:48:42,430 --> 00:48:47,061
+Lo que realmente necesitamos es una
+inteligencia artificial general. Una IA
+
+835
+00:48:47,061 --> 00:48:51,880
+general, una inteligencia artificial que
+simplemente puede hacer absolutamente
+
+836
+00:48:51,880 --> 00:48:55,572
+todo... lo segundo, y, y ese término
+cobró muchísima fuerza.
+
+837
+00:48:55,609 --> 00:48:55,980
+Claro.
+
+838
+00:48:57,089 --> 00:49:02,121
+La segunda cosa que obtuvo mucha tracción
+es el pre-entrenamiento, específicamente
+
+839
+00:49:02,121 --> 00:49:07,215
+la receta del pre-entrenamiento. Creo que
+la forma actual, eh, en que la gente hace
+
+840
+00:49:07,215 --> 00:49:12,185
+RL ahora quizás, um, está deshaciendo la
+huella conceptual del pre-entrenamiento.
+
+841
+00:49:12,185 --> 00:49:16,161
+Pero el pre-entrenamiento tenía la
+propiedad de que, si haces más
+
+842
+00:49:16,161 --> 00:49:20,448
+pre-entrenamiento, el modelo mejora en
+todo más o menos uniformemente.
+
+843
+00:49:20,529 --> 00:49:20,714
+Sí.
+
+844
+00:49:21,310 --> 00:49:24,978
+La Inteligencia Artificial General. El
+pre-entrenamiento resulta en AGI.
+
+845
+00:49:27,390 --> 00:49:27,668
+Pero
+
+846
+00:49:29,350 --> 00:49:34,114
+Lo que ha ocurrido con la Inteligencia
+Artificial General y el pre-entrenamiento
+
+847
+00:49:34,114 --> 00:49:38,757
+es que, en cierto modo, se excedieron en
+su objetivo. Porque, si piensas en el
+
+848
+00:49:38,757 --> 00:49:42,557
+término IAG, te darás cuenta, y
+especialmente en el contexto del
+
+849
+00:49:42,557 --> 00:49:46,718
+pre-entrenamiento, te darás cuenta de que
+el ser humano no es una IAG.
+
+850
+00:49:48,029 --> 00:49:52,447
+Porque un ser humano, sí, nosotros,
+definitivamente existe una base, una base
+
+851
+00:49:52,447 --> 00:49:57,041
+sólida de habilidades. Un ser humano, un
+ser humano, por sí mismo, carece de una
+
+852
+00:49:57,041 --> 00:50:01,343
+cantidad inmensa de conocimiento. En su
+lugar, dependemos de un aprendizaje
+
+853
+00:50:01,343 --> 00:50:02,564
+constante y continuo.
+
+854
+00:50:03,410 --> 00:50:07,147
+Nos basamos en el aprendizaje continuo. Y
+entonces, cuando uno piensa, 'vale,
+
+855
+00:50:07,147 --> 00:50:10,785
+supongamos que logramos el éxito y
+producimos una superinteligencia segura,
+
+856
+00:50:10,785 --> 00:50:14,719
+algún tipo de superinteligencia segura'.
+La pregunta es, ¿pero cómo la definimos?
+
+857
+00:50:14,719 --> 00:50:18,505
+¿En qué punto de la curva de aprendizaje
+continuo va a estar? Yo produzco, por
+
+858
+00:50:18,505 --> 00:50:22,291
+ejemplo, un superinteligente de quince
+años que está muy ansioso por empezar y
+
+859
+00:50:22,291 --> 00:50:25,143
+tú dices, 'Bueno, voy a...' No saben casi
+nada en absoluto.
+
+860
+00:50:25,310 --> 00:50:30,216
+Es un estudiante excelente, con mucho
+entusiasmo. "Ve y sé programador. Ve y sé
+
+861
+00:50:30,216 --> 00:50:34,807
+médico. Ve y aprende." Así que puedes
+imaginar que la implementación en sí
+
+862
+00:50:34,807 --> 00:50:39,273
+implicará algún tipo de período de
+aprendizaje, de prueba y error. Es un
+
+863
+00:50:39,273 --> 00:50:43,235
+proceso. A diferencia de simplemente
+entregar algo ya terminado.
+
+864
+00:50:43,569 --> 00:50:48,316
+De acuerdo. Ah, ah, ah, ah, ya, ya veo.
+Así que, estás, estás sugiriendo que esto
+
+865
+00:50:48,316 --> 00:50:52,588
+que señalas con la superinteligencia no
+es algo que ya esté completamente
+
+866
+00:50:52,588 --> 00:50:53,182
+terminado.
+
+867
+00:50:55,569 --> 00:50:59,254
+una mente que sabe hacer todos y cada uno
+de los trabajos en la economía. Porque la
+
+868
+00:50:59,254 --> 00:51:02,221
+forma en que, digamos, la carta
+fundacional de OpenAI o lo que sea,
+
+869
+00:51:02,221 --> 00:51:05,772
+define la IAG es algo así como que puede
+hacer todos y cada uno de los trabajos,
+
+870
+00:51:05,772 --> 00:51:09,143
+todas y cada una de las cosas que un ser
+humano puede hacer. Tú propones, en
+
+871
+00:51:09,143 --> 00:51:12,649
+cambio, una mente que pueda aprender a
+hacer cualquier tipo de trabajo, todos y
+
+872
+00:51:12,649 --> 00:51:13,773
+cada uno de los trabajos.
+
+873
+00:51:13,790 --> 00:51:14,300
+Por supuesto.
+
+874
+00:51:14,330 --> 00:51:18,298
+Y eso es la superinteligencia. Pero una
+vez que se tiene el algoritmo de
+
+875
+00:51:18,298 --> 00:51:22,547
+aprendizaje, se implementa en el mundo de
+la misma forma en que un trabajador
+
+876
+00:51:22,547 --> 00:51:26,739
+humano podría unirse a una organización.
+Y parece que una de estas dos cosas
+
+877
+00:51:26,739 --> 00:51:29,422
+podría suceder, o quizás ninguna de ellas
+ocurra.
+
+878
+00:51:29,790 --> 00:51:34,149
+Uno, este algoritmo de aprendizaje súper
+eficiente se vuelve sobrehumano, llega a
+
+879
+00:51:34,149 --> 00:51:37,855
+ser tan competente como tú, y,
+potencialmente, incluso superior en la
+
+880
+00:51:37,855 --> 00:51:42,052
+labor de investigación de aprendizaje
+automático. Y como consecuencia de ello,
+
+881
+00:51:42,052 --> 00:51:45,812
+el propio algoritmo se torna
+progresivamente más y más sobrehumano. La
+
+882
+00:51:45,812 --> 00:51:49,899
+otra cuestión es que, incluso si eso no
+llegara a suceder, si dispones de un
+
+883
+00:51:49,899 --> 00:51:53,660
+único modelo, es decir, esta es, esta es
+de forma explícita tu visión.
+
+884
+00:51:53,670 --> 00:51:57,341
+Si tienes un único modelo o instancias de
+un modelo que se despliegan por toda la
+
+885
+00:51:57,341 --> 00:52:00,691
+economía, haciendo diferentes trabajos,
+aprendiendo a hacer esos trabajos,
+
+886
+00:52:00,691 --> 00:52:04,225
+aprendiendo continuamente en el trabajo,
+adquiriendo todas las habilidades que
+
+887
+00:52:04,225 --> 00:52:07,851
+cualquier humano podría adquirir, pero en
+realidad adquiriéndolas todas al mismo
+
+888
+00:52:07,851 --> 00:52:10,834
+tiempo y luego amalgamando sus
+aprendizajes, básicamente tienes un
+
+889
+00:52:10,834 --> 00:52:13,221
+modelo que funcionalmente se vuelve
+superinteligente.
+
+890
+00:52:14,450 --> 00:52:18,490
+Incluso sin ningún tipo de auto-mejora
+recursiva en el software, ¿verdad?
+
+891
+00:52:19,089 --> 00:52:21,668
+Porque ahora se cuenta con un modelo
+único que puede realizar cualquier tipo
+
+892
+00:52:21,668 --> 00:52:24,317
+de trabajo en la economía. Y los humanos
+no somos capaces de fusionar nuestras
+
+893
+00:52:24,317 --> 00:52:26,897
+mentes de esa misma manera. Entonces,
+¿anticipas una especie de explosión de
+
+894
+00:52:26,897 --> 00:52:28,376
+inteligencia con su despliegue
+generalizado?
+
+895
+00:52:28,689 --> 00:52:32,222
+Considero que es muy probable que
+experimentemos un crecimiento económico
+
+896
+00:52:32,222 --> 00:52:33,007
+bastante rápido.
+
+897
+00:52:37,350 --> 00:52:39,021
+Creo que la implementación general,
+
+898
+00:52:40,810 --> 00:52:45,247
+Hay, por así decirlo, dos argumentos que
+podrías presentar, los cuales entran en
+
+899
+00:52:45,247 --> 00:52:49,122
+conflicto. Uno de ellos es que, mira, si
+realmente llegas a obtener...
+
+900
+00:52:49,129 --> 00:52:52,901
+Una vez que, de hecho, se llega a un
+punto en el que se dispone de una
+
+901
+00:52:52,901 --> 00:52:57,329
+inteligencia artificial capaz de aprender
+a hacer cosas con gran rapidez, y además
+
+902
+00:52:57,329 --> 00:53:01,539
+se cuenta con muchas de estas unidades,
+entonces, inevitablemente, surgirá una
+
+903
+00:53:01,539 --> 00:53:05,693
+fuerte presión para implementarlas y
+desplegarlas masivamente en la economía,
+
+904
+00:53:05,693 --> 00:53:10,012
+a menos que se establezca algún tipo de
+regulación o normativa que logre detener
+
+905
+00:53:10,012 --> 00:53:10,723
+este proceso.
+
+906
+00:53:11,009 --> 00:53:14,082
+Lo cual, por cierto, es una posibilidad
+real que podría materializarse. Pero, en
+
+907
+00:53:14,082 --> 00:53:16,728
+mi opinión, la perspectiva de un
+crecimiento económico extremadamente
+
+908
+00:53:16,728 --> 00:53:19,763
+rápido y sostenido por un período, creo
+que es algo muy factible y alcanzable a
+
+909
+00:53:19,763 --> 00:53:22,720
+partir de una implementación a gran
+escala. La gran incógnita es cuán veloz y
+
+910
+00:53:22,720 --> 00:53:23,965
+significativo será este proceso.
+
+911
+00:53:25,430 --> 00:53:29,237
+Así que creo que esto es complicado de
+saber, porque por un lado tienes a este
+
+912
+00:53:29,237 --> 00:53:33,193
+trabajador tan eficiente. Por otro lado,
+está... El mundo es simplemente enorme y
+
+913
+00:53:33,193 --> 00:53:36,803
+hay muchísimas cosas, y esas cosas se
+mueven a una velocidad completamente
+
+914
+00:53:36,803 --> 00:53:40,166
+distinta. Pero luego, por otro lado,
+ahora la inteligencia artificial
+
+915
+00:53:40,166 --> 00:53:41,451
+podría... Podría, sabes...
+
+916
+00:53:40,810 --> 00:53:41,088
+Así es.
+
+917
+00:53:41,509 --> 00:53:45,722
+Así que creo que un crecimiento económico
+muy rápido es posible y veremos todo tipo
+
+918
+00:53:45,722 --> 00:53:49,576
+de cosas, como países diferentes con
+reglas distintas. Y aquellos que tengan
+
+919
+00:53:49,576 --> 00:53:53,585
+las reglas más favorables, el crecimiento
+económico será más rápido. Difícil de
+
+920
+00:53:53,585 --> 00:53:54,047
+predecir.
+
+921
+00:53:54,230 --> 00:53:58,192
+Algunas personas de nuestra audiencia
+prefieren leer las transcripciones en
+
+922
+00:53:58,192 --> 00:54:02,422
+lugar de escuchar el episodio, y por eso
+nos esforzamos muchísimo en que se lean
+
+923
+00:54:02,422 --> 00:54:06,169
+como ensayos independientes. El problema
+es que si solo transcribes una
+
+924
+00:54:06,169 --> 00:54:10,453
+conversación palabra por palabra usando
+un modelo de voz a texto, estará llena de
+
+925
+00:54:10,453 --> 00:54:14,469
+todo tipo de titubeos, pausas y frases
+confusas. Mencionamos este problema a
+
+926
+00:54:14,469 --> 00:54:16,985
+Labelbox y nos preguntaron si podían
+intentarlo.
+
+927
+00:54:17,129 --> 00:54:20,278
+Trabajar con ellos en esto es
+probablemente la razón por la que estoy
+
+928
+00:54:20,278 --> 00:54:23,844
+más emocionado de recomendar Labelbox a
+la gente. No fue solo, "Oh, oye, dinos
+
+929
+00:54:23,844 --> 00:54:27,179
+qué tipo de datos necesitas y los
+conseguiremos." Nos guiaron a través de
+
+930
+00:54:27,179 --> 00:54:30,097
+todo el proceso, desde ayudarnos a
+identificar qué tipo de datos
+
+931
+00:54:30,097 --> 00:54:33,617
+necesitábamos en primer lugar, hasta
+reunir un equipo de alineadores expertos
+
+932
+00:54:33,617 --> 00:54:34,358
+para generarlos.
+
+933
+00:54:34,710 --> 00:54:37,944
+Incluso después de que recuperamos todos
+los datos, Labelbox siguió involucrado.
+
+934
+00:54:37,944 --> 00:54:41,178
+Nos ayudaron a seleccionar el modelo base
+adecuado y establecieron un control de
+
+935
+00:54:41,178 --> 00:54:44,289
+calidad automático para la salida del
+modelo, para que pudiéramos ajustarlo y
+
+936
+00:54:44,289 --> 00:54:47,482
+perfeccionarlo. Y ahora contamos con una
+nueva herramienta de transcripción que
+
+937
+00:54:47,482 --> 00:54:49,570
+podremos usar para todos nuestros futuros
+episodios.
+
+938
+00:54:49,589 --> 00:54:53,913
+Este es tan solo un ejemplo de cómo
+Labelbox se une a sus clientes en la
+
+939
+00:54:53,913 --> 00:54:58,603
+etapa de las ideas y los acompaña a lo
+largo de toda su trayectoria. Si desean
+
+940
+00:54:58,603 --> 00:55:03,171
+aprender más o si quieren probar la
+herramienta de transcripción por ustedes
+
+941
+00:55:03,171 --> 00:55:05,425
+mismos, visiten labelbox.com/barkash.
+
+942
+00:55:07,766 --> 00:55:11,444
+Me parece que nos encontramos en una
+situación muy precaria, en la que, al
+
+943
+00:55:11,444 --> 00:55:15,223
+buscar poner límites, sabemos que esto
+debería ser factible porque si posees
+
+944
+00:55:15,223 --> 00:55:19,153
+algo que es tan competente como un ser
+humano en el aprendizaje, pero que tiene
+
+945
+00:55:19,153 --> 00:55:23,234
+la capacidad de fusionar sus cerebros, de
+unirlos, existen diversas situaciones en
+
+946
+00:55:23,234 --> 00:55:25,552
+las que los seres humanos no pueden
+fusionarse.
+
+947
+00:55:26,026 --> 00:55:29,703
+Ya de por sí, esto parece algo que,
+físicamente, debería ser posible. Los
+
+948
+00:55:29,703 --> 00:55:33,226
+seres humanos son posibles. Las
+computadoras digitales también lo son.
+
+949
+00:55:33,226 --> 00:55:37,159
+Solo se necesita la combinación de ambos
+para p- producir esta cosa. Y también
+
+950
+00:55:37,159 --> 00:55:40,989
+parece que este tipo de desarrollo es
+extremadamente, eh, potente, y el gran
+
+951
+00:55:40,989 --> 00:55:43,440
+crecimiento económico es una forma de
+expresarlo.
+
+952
+00:55:43,546 --> 00:55:46,886
+O sea, la Esfera de Dyson es mucho
+crecimiento económico. Pero otra forma de
+
+953
+00:55:46,886 --> 00:55:50,404
+verlo es que podrías tener potencialmente
+un período de tiempo muy corto, porque
+
+954
+00:55:50,404 --> 00:55:53,833
+una persona en el puesto puede, sabes,
+estás contratando gente en SSI. En seis
+
+955
+00:55:53,833 --> 00:55:55,481
+meses, ya son productivos netos, ¿no?
+
+956
+00:55:55,566 --> 00:55:59,180
+Eh, un humano aprende muy rápido. Y esto
+se está volviendo cada vez más
+
+957
+00:55:59,180 --> 00:56:03,157
+inteligente muy rápido. ¿Cómo crees que
+eso salga bien? ¿Y por qué SSI está en
+
+958
+00:56:03,157 --> 00:56:07,082
+posición de hacerlo bien? ¿Cuál es el
+plan de SSI ahí, básicamente, es lo que
+
+959
+00:56:07,082 --> 00:56:08,011
+intento preguntar.
+
+960
+00:56:08,106 --> 00:56:13,822
+Sí. Así que, una de las... una de las
+formas en las que mi manera de pensar, mi
+
+961
+00:56:13,822 --> 00:56:17,486
+perspectiva, ha estado cambiando
+últimamente es que
+
+962
+00:56:19,625 --> 00:56:24,637
+Ahora le doy más importancia a que la
+inteligencia artificial se implemente de
+
+963
+00:56:24,637 --> 00:56:28,673
+forma gradual y con suficiente
+antelación. Una de las cosas más
+
+964
+00:56:28,673 --> 00:56:32,774
+desafiantes y complejas de la
+inteligencia artificial es que, en
+
+965
+00:56:32,774 --> 00:56:37,916
+realidad, estamos hablando de sistemas
+que todavía no existen en su totalidad, y
+
+966
+00:56:37,916 --> 00:56:42,473
+por eso, resulta extremadamente difícil
+poder imaginarlos con claridad.
+
+967
+00:56:43,846 --> 00:56:47,081
+Yo creo que una de las cosas que está
+sucediendo es que, en la práctica,
+
+968
+00:56:47,081 --> 00:56:50,408
+resulta muy difícil alimentar a la
+Inteligencia Artificial General. Sí, es
+
+969
+00:56:50,408 --> 00:56:53,644
+realmente muy complicado alimentar a la
+Inteligencia Artificial General.
+
+970
+00:56:54,766 --> 00:56:59,293
+Podemos hablar de ello, pero es como, es
+como hablar del, como, del futuro
+
+971
+00:56:59,293 --> 00:57:03,696
+lejano... como, imagina tener una
+conversación sobre, como, ¿cómo es ser
+
+972
+00:57:03,696 --> 00:57:08,409
+viejo? Cuando eres, como, viejo y- y
+frágil, y puedes tener una conversación.
+
+973
+00:57:08,409 --> 00:57:12,998
+Puedes intentar imaginarlo, pero es
+simplemente muy difícil, y vuelves a la
+
+974
+00:57:12,998 --> 00:57:15,106
+realidad, donde ese no es el caso.
+
+975
+00:57:15,446 --> 00:57:20,178
+Y considero que muchos de los problemas y
+los desafíos que giran en torno a la
+
+976
+00:57:20,178 --> 00:57:24,787
+Inteligencia Artificial General y el
+poder que esta podría llegar a tener en
+
+977
+00:57:24,787 --> 00:57:29,335
+el futuro, se originan en el hecho de que
+resulta extremadamente difícil de
+
+978
+00:57:29,335 --> 00:57:29,888
+imaginar.
+
+979
+00:57:30,946 --> 00:57:35,728
+La inteligencia artificial del futuro va
+a ser dife- diferente. Va a ser muy
+
+980
+00:57:35,728 --> 00:57:40,193
+poderosa. De hecho, el problema
+fundamental, ¿cuál es el problema de la
+
+981
+00:57:40,193 --> 00:57:45,167
+IA y la IAG? El problema principal es el
+poder. Sí, el problema principal es el
+
+982
+00:57:45,167 --> 00:57:49,057
+poder. Cuando el poder sea realmente
+inmenso, ¿qué va a pasar?
+
+983
+00:57:50,486 --> 00:57:55,871
+Y una de las, una de las cosas en las que
+he cambiado de opinión en el último año
+
+984
+00:57:55,871 --> 00:58:01,055
+más o menos, ese, ese cambio de opinión
+podría, podría, diré, seré un poco más
+
+985
+00:58:01,055 --> 00:58:06,037
+cauto, podría repercutir en, en los
+planes de nuestra, de nuestra compañía,
+
+986
+00:58:06,037 --> 00:58:10,548
+es que, si es difícil de imaginar, ¿qué
+haces? Tienes que mostrarlo.
+
+987
+00:58:14,746 --> 00:58:18,935
+Tienes que estar mostrando eso. Y yo
+sostengo que, creo que, creo que la
+
+988
+00:58:18,935 --> 00:58:23,596
+mayoría de las personas que trabajan con
+IA tampoco pueden imaginarlo, porque es
+
+989
+00:58:23,596 --> 00:58:26,959
+demasiado diferente de lo que la gente ve
+en su día a día.
+
+990
+00:58:28,846 --> 00:58:32,353
+Yo sí sostengo, y aquí hay algo que
+predigo que va a suceder. Eso es una
+
+991
+00:58:32,353 --> 00:58:36,206
+predicción. Mantengo firmemente que, a
+medida que la inteligencia artificial se
+
+992
+00:58:36,206 --> 00:58:40,159
+vuelva cada vez más potente y capaz, las
+personas modificarán sus comportamientos
+
+993
+00:58:40,159 --> 00:58:44,160
+y sus hábitos de vida. Y, como resultado,
+seremos testigos de una gran variedad de
+
+994
+00:58:44,160 --> 00:58:47,964
+situaciones y fenómenos completamente
+inéditos, cosas que, sin duda alguna, no
+
+995
+00:58:47,964 --> 00:58:50,533
+están ocurriendo en absoluto en este
+preciso momento.
+
+996
+00:58:51,526 --> 00:58:53,012
+Y les voy a dar algunos ejemplos.
+
+997
+00:58:53,606 --> 00:58:58,259
+Sí, creo que, para bien o para mal, las
+empresas de vanguardia desempeñarán un
+
+998
+00:58:58,259 --> 00:59:03,216
+papel muy importante en lo que suceda, al
+igual que el gobierno. Y el tipo de cosas
+
+999
+00:59:03,216 --> 00:59:08,172
+que creo que veremos, de las cuales ya se
+ven los inicios, son empresas que, siendo
+
+1000
+00:59:08,172 --> 00:59:12,403
+competidores feroces, están empezando a
+colaborar en la seguridad de la
+
+1001
+00:59:12,403 --> 00:59:13,853
+inteligencia artificial.
+
+1002
+00:59:15,946 --> 00:59:19,982
+Puede que hayan visto a OpenAI y
+Anthropic, eh, como dando un primer
+
+1003
+00:59:19,982 --> 00:59:24,801
+pequeño paso, pero eso no existía. Eso es
+algo que de hecho predije en una de mis
+
+1004
+00:59:24,801 --> 00:59:28,716
+charlas hace unos tres años, que algo así
+podría llegar a suceder.
+
+1005
+00:59:29,246 --> 00:59:34,279
+También sostengo que, a medida que la
+inteligencia artificial se vuelva más
+
+1006
+00:59:34,279 --> 00:59:39,313
+potente, más visiblemente poderosa,
+surgirá un deseo de los gobiernos y del
+
+1007
+00:59:39,313 --> 00:59:40,809
+público de hacer algo.
+
+1008
+00:59:42,526 --> 00:59:44,383
+Y creo que es una fuerza muy importante,
+
+1009
+00:59:46,286 --> 00:59:50,472
+de mostrar la inteligencia artificial.
+Esa es la primera cuestión. Número dos,
+
+1010
+00:59:50,472 --> 00:59:54,387
+bien, entonces la IA ya ha sido
+construida. ¿Qué es lo que hay que hacer?
+
+1011
+00:59:54,387 --> 00:59:58,574
+¿Qué es lo que se necesita hacer? Una
+cosa que yo sostengo que ocurrirá es que
+
+1012
+00:59:58,574 --> 01:00:02,870
+ahora mismo la gente que está trabajando
+en inteligencia artificial, yo sostengo
+
+1013
+01:00:02,870 --> 01:00:05,697
+que la IA no se siente poderosa debido a
+sus errores.
+
+1014
+01:00:06,685 --> 01:00:10,864
+Yo sí creo que, en algún momento, la
+inteligencia artificial empezará a
+
+1015
+01:00:10,864 --> 01:00:15,521
+sentirse poderosa. Y pienso que cuando
+eso ocurra, veremos un cambio muy grande
+
+1016
+01:00:15,521 --> 01:00:20,059
+en la forma en que todas las empresas de
+IA abordan la seguridad. Se volverán
+
+1017
+01:00:20,059 --> 01:00:21,313
+mucho más paranoicas.
+
+1018
+01:00:21,926 --> 01:00:25,706
+Yo creo, y lo digo como una, una
+predicción que veremos suceder. Veremos
+
+1019
+01:00:25,706 --> 01:00:29,646
+si tengo razón. Pero creo que esto es
+algo que ocurrirá porque verán que la
+
+1020
+01:00:29,646 --> 01:00:32,096
+inteligencia artificial se vuelve más
+poderosa.
+
+1021
+01:00:32,826 --> 01:00:36,977
+Todo lo que está ocurriendo ahora mismo,
+yo sostengo, es porque la gente ve la
+
+1022
+01:00:36,977 --> 01:00:40,535
+inteligencia artificial actual y les
+cuesta imaginar la del futuro.
+
+1023
+01:00:42,026 --> 01:00:45,672
+Y hay una tercera cosa que es necesario
+que ocurra. Y creo que esto es, esto-
+
+1024
+01:00:45,672 --> 01:00:49,174
+esto, y- y lo estoy planteando en
+términos mucho más amplios, no solamente
+
+1025
+01:00:49,174 --> 01:00:52,964
+desde la perspectiva de SSI, porque me
+preguntaste específicamente sobre nuestra
+
+1026
+01:00:52,964 --> 01:00:56,418
+compañía. Pero la pregunta es, okay,
+entonces ¿qué deberían, qué deberían
+
+1027
+01:00:56,418 --> 01:00:58,001
+aspirar a construir las empresas?
+
+1028
+01:00:58,026 --> 01:00:58,443
+Así es.
+
+1029
+01:00:58,466 --> 01:01:02,046
+¿A qué deberían aspirar a construir,
+entonces?... Y ha habido una gran idea,
+
+1030
+01:01:02,046 --> 01:01:05,387
+una idea realmente grande, en la que, de
+hecho, todo el mundo ha estado
+
+1031
+01:01:05,387 --> 01:01:08,538
+completamente inmerso, o más bien,
+atrapado, que es la inteligencia
+
+1032
+01:01:08,538 --> 01:01:12,070
+artificial que se auto-mejora. ¿Y por
+qué, por qué sucedió esto? Porque hay
+
+1033
+01:01:12,070 --> 01:01:15,841
+menos ideas verdaderamente innovadoras
+que empresas. Pero yo sostengo firmemente
+
+1034
+01:01:15,841 --> 01:01:19,660
+que hay algo mucho mejor que construir, y
+creo sinceramente que todo el mundo, en
+
+1035
+01:01:19,660 --> 01:01:20,710
+realidad, deseará eso.
+
+1036
+01:01:21,317 --> 01:01:25,390
+Es como si fuera la inteligencia
+artificial robustamente alineada para
+
+1037
+01:01:25,390 --> 01:01:28,282
+preocuparse por la vida sintiente
+específicamente.
+
+1038
+01:01:29,798 --> 01:01:33,363
+Creo que, en particular, será... Se
+podría argumentar que resultará más
+
+1039
+01:01:33,363 --> 01:01:36,877
+sencillo crear una inteligencia
+artificial que se interese por la vida
+
+1040
+01:01:36,877 --> 01:01:40,595
+sintiente que una que se preocupe
+únicamente por la vida humana, porque la
+
+1041
+01:01:40,595 --> 01:01:44,262
+propia inteligencia artificial será
+sintiente. Y si consideramos aspectos
+
+1042
+01:01:44,262 --> 01:01:48,234
+como las neuronas espejo y la empatía que
+los humanos sienten por los animales,
+
+1043
+01:01:48,234 --> 01:01:52,156
+que, bueno, se podría decir que no es lo
+suficientemente grande, pero que, sin
+
+1044
+01:01:52,156 --> 01:01:52,971
+embargo, existe.
+
+1045
+01:01:53,337 --> 01:01:56,770
+Considero que es una propiedad emergente
+que se deriva del hecho de que modelamos
+
+1046
+01:01:56,770 --> 01:02:00,246
+a los demás utilizando el mismo circuito
+neuronal que empleamos para comprendernos
+
+1047
+01:02:00,246 --> 01:02:02,950
+a nosotros mismos, porque es la forma más
+eficiente de proceder.
+
+1048
+01:02:03,678 --> 01:02:07,029
+Así que, incluso si consiguieras que una
+IA se preocupara por los seres
+
+1049
+01:02:07,029 --> 01:02:10,475
+sintientes, y en realidad no me resulta
+del todo claro que eso sea lo que
+
+1050
+01:02:10,475 --> 01:02:14,401
+deberías intentar hacer si resolvieras la
+alineación, seguiría siendo cierto que la
+
+1051
+01:02:14,401 --> 01:02:17,944
+mayoría de los seres sintientes serían
+IAs. Habrá billones, y eventualmente
+
+1052
+01:02:17,944 --> 01:02:21,486
+cuatrillones de IAs. Los humanos serán
+una fracción muy, muy pequeña de los
+
+1053
+01:02:21,486 --> 01:02:22,300
+seres sintientes.
+
+1054
+01:02:23,337 --> 01:02:27,364
+Así que no me queda del todo claro si el
+objetivo es un control por parte de los
+
+1055
+01:02:27,364 --> 01:02:28,027
+humanos sobre
+
+1056
+01:02:29,598 --> 01:02:33,034
+esta civilización del futuro, que este
+sea el criterio más adecuado.
+
+1057
+01:02:35,377 --> 01:02:40,610
+Es verdad. Yo... yo creo que es posible
+que no sea el mejor criterio. Voy a decir
+
+1058
+01:02:40,610 --> 01:02:44,339
+dos cosas. Creo que... La primera cosa,
+creo que si hay...
+
+1059
+01:02:49,118 --> 01:02:53,170
+Así que, creo que el cuidado de la vida
+sintiente, creo que tiene su mérito. Creo
+
+1060
+01:02:53,170 --> 01:02:57,173
+que debería ser algo a considerar. Pienso
+que sería de gran ayuda si hubiera una
+
+1061
+01:02:57,173 --> 01:03:01,074
+especie de lista corta de ideas que las
+empresas, cuando se encuentren en esta
+
+1062
+01:03:01,074 --> 01:03:03,607
+situación, pudieran utilizar. Ese es el
+número dos.
+
+1063
+01:03:10,218 --> 01:03:14,694
+En tercer lugar, creo que sería de una
+ayuda material realmente significativa si
+
+1064
+01:03:14,694 --> 01:03:18,831
+el poder de la superinteligencia más
+potente se limitara de alguna manera,
+
+1065
+01:03:18,831 --> 01:03:23,477
+porque eso abordaría una gran cantidad de
+estas preocupaciones. La cuestión de cómo
+
+1066
+01:03:23,477 --> 01:03:27,727
+lograrlo, no estoy seguro. Pero creo que
+eso sería de una ayuda material muy
+
+1067
+01:03:27,727 --> 01:03:32,091
+importante cuando hablamos de sistemas
+que son realmente, realmente poderosos.
+
+1068
+01:03:32,377 --> 01:03:36,067
+Sí. Eh, antes de que continuemos la
+discusión sobre la alineación, quiero
+
+1069
+01:03:36,067 --> 01:03:39,758
+profundizar en eso. ¿Cuánto margen hay en
+la cima? ¿Cómo piensas sobre la
+
+1070
+01:03:39,758 --> 01:03:43,244
+superinteligencia? ¿Crees... o sea,
+usando esta idea de eficiencia de
+
+1071
+01:03:43,244 --> 01:03:47,345
+aprendizaje, que quizás es extremadamente
+rápida aprendiendo nuevas habilidades o
+
+1072
+01:03:47,345 --> 01:03:51,138
+nuevos conocimientos? ¿Y acaso tiene un
+conjunto más grande de estrategias?
+
+1073
+01:03:51,178 --> 01:03:55,739
+¿Existe un "eso" único y cohesionado en
+el centro que sea más poderoso o de mayor
+
+1074
+01:03:55,739 --> 01:04:00,072
+tamaño? Y si es así, ¿llegas a imaginar
+que esto podría ser algo así como una
+
+1075
+01:04:00,072 --> 01:04:03,948
+entidad divina en comparación con el
+resto de la civilización humana?
+
+1076
+01:04:03,977 --> 01:04:07,877
+¿O simplemente se siente como otro agente
+o como otro conjunto de agentes?
+
+1077
+01:04:08,598 --> 01:04:10,966
+Entonces, este es un ámbito donde las
+intuiciones varían.
+
+1078
+01:04:11,868 --> 01:04:11,960
+Sí.
+
+1079
+01:04:12,058 --> 01:04:17,566
+Creo que será muy potente, sin lugar a
+dudas. Creo que... lo que considero más
+
+1080
+01:04:17,566 --> 01:04:22,287
+probable que suceda es que se estén
+creando múltiples inteligencias
+
+1081
+01:04:22,287 --> 01:04:26,222
+artificiales de este tipo, más o menos,
+al mismo tiempo.
+
+1082
+01:04:27,817 --> 01:04:31,323
+Yo creo que si el clúster es lo
+suficientemente grande, es decir, si el
+
+1083
+01:04:31,323 --> 01:04:35,231
+clúster es literalmente del tamaño de un
+continente, esa entidad podría ser, de
+
+1084
+01:04:35,231 --> 01:04:38,938
+hecho, increíblemente poderosa, ¿no
+crees? Si, de verdad, tienes un clúster
+
+1085
+01:04:38,938 --> 01:04:42,596
+que abarca un continente entero,
+entonces, esas inteligencias artificiales
+
+1086
+01:04:42,596 --> 01:04:44,349
+pueden ser extremadamente potentes.
+
+1087
+01:04:44,758 --> 01:04:49,489
+Y yo... todo lo que puedo decirte es que
+si estamos hablando de inteligencias
+
+1088
+01:04:49,489 --> 01:04:53,722
+artificiales extremadamente potentes,
+como, de verdad, dramáticamente
+
+1089
+01:04:53,722 --> 01:04:58,702
+poderosas, entonces sí, estaría bien si
+pudieran ser controladas de alguna manera
+
+1090
+01:04:58,702 --> 01:05:02,126
+o si hubiera algún tipo de acuerdo o algo
+por el estilo.
+
+1091
+01:05:03,798 --> 01:05:08,408
+Porque creo que si estás diciendo, oye,
+como, si tú... si tú de verdad... ¿Cuál
+
+1092
+01:05:08,408 --> 01:05:12,131
+es la preocupación de la
+superinteligencia? ¿Cómo se explica esa
+
+1093
+01:05:12,131 --> 01:05:12,900
+preocupación?
+
+1094
+01:05:13,537 --> 01:05:17,287
+Si te imaginas un sistema que sea lo
+suficientemente potente, como, de verdad,
+
+1095
+01:05:17,287 --> 01:05:21,136
+lo suficientemente potente, y pudieras
+decir: "De acuerdo, tienes que hacer algo
+
+1096
+01:05:21,136 --> 01:05:24,740
+sensato, como, por ejemplo, cuidar la
+vida sintiente, digamos, de una forma
+
+1097
+01:05:24,740 --> 01:05:28,540
+muy, muy enfocada en un solo objetivo",
+puede que los resultados no nos gusten.
+
+1098
+01:05:28,540 --> 01:05:31,901
+Eso es, en realidad, lo que sucede. Y
+entonces, quizás, por cierto, la
+
+1099
+01:05:31,901 --> 01:05:35,603
+respuesta es que no construyes un solo...
+No construyes un agente de RL en el
+
+1100
+01:05:35,603 --> 01:05:36,431
+sentido habitual.
+
+1101
+01:05:36,618 --> 01:05:40,982
+Y de hecho, señalaré varias cosas. Creo
+que los seres humanos somos un agente
+
+1102
+01:05:40,982 --> 01:05:45,576
+semi-RL. Sabes, buscamos una recompensa,
+y luego las emociones o lo que sea hacen
+
+1103
+01:05:45,576 --> 01:05:49,481
+que nos cansemos de la recompensa,
+buscamos una recompensa diferente.
+
+1104
+01:05:50,698 --> 01:05:55,350
+El mercado es como, es como una especie
+de agente con muy poca visión. Con la
+
+1105
+01:05:55,350 --> 01:06:00,308
+evolución pasa lo mismo. La evolución es
+muy inteligente en algunos aspectos, pero
+
+1106
+01:06:00,308 --> 01:06:01,472
+muy tonta en otros.
+
+1107
+01:06:01,518 --> 01:06:06,703
+El gobierno ha sido diseñado para ser una
+lucha interminable entre tres partes, lo
+
+1108
+01:06:06,703 --> 01:06:11,697
+cual tiene un efecto. Así que, pienso
+cosas como estas. Otra cosa que dificulta
+
+1109
+01:06:11,697 --> 01:06:16,818
+esta discusión es que estamos hablando de
+sistemas que no existen, que no sabemos
+
+1110
+01:06:16,818 --> 01:06:21,812
+cómo construir, ¿verdad? Esa es la otra
+cosa, y esa es en realidad mi creencia.
+
+1111
+01:06:21,897 --> 01:06:26,922
+Creo que lo que la gente está haciendo en
+este momento llegará hasta cierto punto y
+
+1112
+01:06:26,922 --> 01:06:31,886
+luego se agotará. Seguirá mejorando, sí,
+pero tampoco será la solución definitiva.
+
+1113
+01:06:31,886 --> 01:06:36,422
+Así que, esa 'solución definitiva', no
+sabemos cómo construirla, y creo que
+
+1114
+01:06:36,422 --> 01:06:39,915
+mucho, mucho depende de entender la
+generalización fiable.
+
+1115
+01:06:41,678 --> 01:06:46,385
+Y te diré algo más, que es, sabes, una de
+las cosas que se podría decir que hace
+
+1116
+01:06:46,385 --> 01:06:51,211
+que la alineación sea tan difícil es que
+los valores humanos, que es, es, eh... Tu
+
+1117
+01:06:51,211 --> 01:06:55,263
+capacidad para aprender los valores
+humanos es frágil, y por ende, tu
+
+1118
+01:06:55,263 --> 01:06:57,885
+capacidad para optimizarlos también lo
+es. Tú
+
+1119
+01:06:57,897 --> 01:07:01,804
+¿realmente aprenderás a optimizarlos? Y
+entonces, ¿no puedes decir: "¿No son
+
+1120
+01:07:01,804 --> 01:07:04,305
+todos estos casos de generalización poco
+fiable?"
+
+1121
+01:07:06,705 --> 01:07:09,972
+¿Por qué los seres humanos parecen
+generalizar mucho mejor? ¿Y si la
+
+1122
+01:07:09,972 --> 01:07:13,533
+generalización fuera mucho mejor, qué
+pasaría en este caso? ¿Cuál sería el
+
+1123
+01:07:13,533 --> 01:07:17,337
+efecto? Pero esas, no podemos, no p- no
+podemos, eh, esas preguntas ahora mismo
+
+1124
+01:07:17,337 --> 01:07:18,361
+siguen sin respuesta.
+
+1125
+01:07:18,566 --> 01:07:22,390
+Eh, ¿cómo, cómo se podría pensar en qué
+aspecto tendría una inteligencia
+
+1126
+01:07:22,390 --> 01:07:23,953
+artificial que funcione bien?
+
+1127
+01:07:24,246 --> 01:07:28,238
+Porque creo que has visualizado cómo
+podría evolucionar la IA. Tendremos este
+
+1128
+01:07:28,238 --> 01:07:32,178
+tipo de agentes de aprendizaje continuo.
+La inteligencia artificial será muy
+
+1129
+01:07:32,178 --> 01:07:35,803
+poderosa. Quizás habrá muchas IAs
+diferentes. ¿Qué piensas de que haya
+
+1130
+01:07:35,803 --> 01:07:40,006
+tantas inteligencias con una capacidad de
+cómputo a escala continental circulando
+
+1131
+01:07:40,006 --> 01:07:44,314
+por ahí? ¿Qué tan peligroso es eso? ¿Cómo
+podemos hacer que sea menos peligroso? ¿Y
+
+1132
+01:07:44,314 --> 01:07:46,258
+cómo hacemos eso de una manera que...
+
+1133
+01:07:48,705 --> 01:07:53,227
+¿protege un equilibrio donde podría haber
+inteligencias artificiales desalineadas y
+
+1134
+01:07:53,227 --> 01:07:54,881
+también malos actores por ahí?
+
+1135
+01:07:56,326 --> 01:07:59,948
+Una de las razones por las que me gustó
+la IA que cuida la vida sensible-
+
+1136
+01:07:59,966 --> 01:08:00,198
+Mmm
+
+1137
+01:08:00,645 --> 01:08:06,514
+Sabes, y podemos debatir si esto es bueno
+o malo. Pero si los primeros 'n' de estos
+
+1138
+01:08:06,514 --> 01:08:11,740
+sistemas tan dramáticos realmente se
+preocupan por, ya sabes, si aman a la
+
+1139
+01:08:11,740 --> 01:08:16,607
+humanidad o algo así, ya sabes, si se
+preocupan por la vida sensible,
+
+1140
+01:08:16,607 --> 01:08:21,403
+obviamente esto también tiene que
+lograrse. Esto tiene que lograrse.
+
+1141
+01:08:22,586 --> 01:08:27,076
+Así que, si esto se logra con los
+primeros 'n' de esos sistemas, entonces,
+
+1142
+01:08:27,076 --> 01:08:31,812
+entonces puedo ver que irá bien, al menos
+por un tiempo considerable. Y luego,
+
+1143
+01:08:31,812 --> 01:08:36,425
+¿cuál es la pregunta de qué sucede a
+largo plazo? ¿Qué sucede a largo plazo?
+
+1144
+01:08:36,466 --> 01:08:41,508
+¿De qué manera se logra un equilibrio a
+largo plazo? Y creo que en ese sentido,
+
+1145
+01:08:41,508 --> 01:08:46,551
+también existe una respuesta. Y aunque no
+me agrada esta respuesta, es algo que
+
+1146
+01:08:46,551 --> 01:08:49,654
+definitivamente debe ser tomado en
+consideración.
+
+1147
+01:08:51,845 --> 01:08:55,951
+A largo plazo, uno podría decir, 'vale,
+si tienes un mundo donde existen
+
+1148
+01:08:55,951 --> 01:09:00,578
+inteligencias artificiales potentes,' a
+corto plazo, podrías decir, 'vale, tienes
+
+1149
+01:09:00,578 --> 01:09:04,974
+un ingreso alto universal, tienes un
+ingreso alto universal, y a todos nos va
+
+1150
+01:09:04,974 --> 01:09:07,866
+bien.' Pero sabemos que... ¿Qué dicen los
+budistas?
+
+1151
+01:09:07,885 --> 01:09:12,352
+El cambio es la única constante. Y así
+las cosas cambian, y siempre hay alguna
+
+1152
+01:09:12,352 --> 01:09:16,471
+especie de estructura política
+gubernamental, y esta cambia porque, como
+
+1153
+01:09:16,471 --> 01:09:20,823
+sabes, estas cosas tienen una vida útil.
+Alguna nueva estructura de gobierno
+
+1154
+01:09:20,823 --> 01:09:25,464
+aparece y funciona, y luego, después de
+un tiempo, deja de funcionar. Eso es algo
+
+1155
+01:09:25,464 --> 01:09:29,874
+que ves ocurrir todo el tiempo. Y así que
+creo que para el equilibrio a largo
+
+1156
+01:09:29,874 --> 01:09:30,222
+plazo,
+
+1157
+01:09:32,246 --> 01:09:37,449
+Un enfoque, podrías decir, bien, quizás
+cada persona tendrá una IA que hará su
+
+1158
+01:09:37,449 --> 01:09:42,382
+voluntad, y eso es bueno. Y si eso
+pudiera mantenerse indefinidamente, eso
+
+1159
+01:09:42,382 --> 01:09:47,653
+es cierto. Pero el inconveniente de eso
+es, bien, entonces la IA va y, digamos,
+
+1160
+01:09:47,653 --> 01:09:52,721
+gana dinero para la persona y, sabes,
+aboga por sus necesidades en la esfera
+
+1161
+01:09:52,721 --> 01:09:53,329
+política.
+
+1162
+01:09:55,566 --> 01:09:59,668
+Y quizás luego escribe un pequeño informe
+diciendo: "De acuerdo, esto es lo que he
+
+1163
+01:09:59,668 --> 01:10:03,365
+hecho. Esta es la situación." Y la
+persona dice: "Genial, sigue así." Pero
+
+1164
+01:10:03,365 --> 01:10:06,910
+la persona ya no es un participante. Y
+entonces puedes decir que es una
+
+1165
+01:10:06,910 --> 01:10:07,872
+situación precaria.
+
+1166
+01:10:08,706 --> 01:10:11,771
+Pero, eh, antes de que sigamos adelante,
+quiero decirles que
+
+1167
+01:10:13,806 --> 01:10:17,521
+No me agrada la solución, pero no deja de
+ser una solución.
+
+1168
+01:10:18,966 --> 01:10:22,192
+Y la solución a esto es que las personas
+se conviertan en parte inteligencia
+
+1169
+01:10:22,192 --> 01:10:25,547
+artificial con algún tipo de Neuralink, o
+algo similar, mejorado, porque lo que
+
+1170
+01:10:25,547 --> 01:10:28,945
+ocurrirá como consecuencia de esto es que
+la inteligencia artificial comprenderá
+
+1171
+01:10:28,945 --> 01:10:32,473
+algo, y nosotros también lo entenderemos.
+Es como, porque ahora el entendimiento se
+
+1172
+01:10:32,473 --> 01:10:35,871
+transmite de forma completa e íntegra.
+Así que, si la inteligencia artificial se
+
+1173
+01:10:35,871 --> 01:10:39,054
+encuentra en alguna situación, es como si
+tú mismo estuvieras completamente
+
+1174
+01:10:39,054 --> 01:10:40,560
+involucrado en esa misma situación.
+
+1175
+01:10:41,826 --> 01:10:44,426
+Y considero que esta es la respuesta al
+equilibrio.
+
+1176
+01:10:44,866 --> 01:10:50,037
+Me pregunto si, eh, el hecho de que las
+emociones, que se desarrollaron hace
+
+1177
+01:10:50,037 --> 01:10:55,209
+millones de años, o en muchos casos,
+miles de millones de años en un entorno
+
+1178
+01:10:55,209 --> 01:11:00,519
+completamente distinto, sigan guiando
+nuestras acciones con tanta fuerza es un
+
+1179
+01:11:00,519 --> 01:11:03,070
+ejemplo de un éxito en la alineación.
+
+1180
+01:11:03,106 --> 01:11:07,751
+Uh, y para quizás explicar lo que quiero
+decir, el tronco encefálico tiene
+
+1181
+01:11:07,751 --> 01:11:08,260
+estas...
+
+1182
+01:11:10,486 --> 01:11:13,581
+No sé si es más preciso llamarla una
+función de valle o una función de
+
+1183
+01:11:13,581 --> 01:11:16,677
+recompensa, pero el tronco encefálico
+tiene una directriz que le dice:
+
+1184
+01:11:16,677 --> 01:11:19,773
+"Apáreate con alguien que sea más
+exitoso". La corteza es la parte que
+
+1185
+01:11:19,773 --> 01:11:22,913
+comprende qué significa el éxito en el
+contexto moderno. Pero el tronco
+
+1186
+01:11:22,913 --> 01:11:26,503
+encefálico es capaz de alinear la corteza
+y decir: "Como sea que tú reconozcas el
+
+1187
+01:11:26,503 --> 01:11:30,182
+éxito, y yo, yo no soy lo suficientemente
+inteligente para entender qué es eso, aún
+
+1188
+01:11:30,182 --> 01:11:31,662
+así vas a seguir esta directriz".
+
+1189
+01:11:31,906 --> 01:11:36,295
+Creo que, creo que hay... [pausa]
+Entonces, creo que hay un punto más
+
+1190
+01:11:36,295 --> 01:11:41,394
+general. Creo que es realmente misterioso
+cómo el cerebro codifica los deseos de
+
+1191
+01:11:41,394 --> 01:11:45,977
+alto nivel. Perdón, cómo la evolución
+codifica los deseos de alto nivel.
+
+1192
+01:11:36,306 --> 01:11:36,491
+Mmm.
+
+1193
+01:11:45,986 --> 01:11:46,450
+Mmm.
+
+1194
+01:11:46,766 --> 01:11:50,458
+Resulta bastante sencillo de entender
+cómo la evolución nos habría dotado con
+
+1195
+01:11:50,458 --> 01:11:54,102
+el anhelo de alimentos que desprenden un
+buen aroma, ya que el olfato es, en
+
+1196
+01:11:54,102 --> 01:11:57,940
+esencia, una reacción química, y por lo
+tanto, simplemente seguiríamos esa señal
+
+1197
+01:11:57,940 --> 01:11:58,329
+química.
+
+1198
+01:11:58,346 --> 01:12:02,483
+Es muy fácil imaginar una evolución
+mecánica haciendo algo así. Pero la
+
+1199
+01:12:02,483 --> 01:12:07,211
+evolución también nos ha, nos ha dotado
+de todos estos deseos sociales, como que,
+
+1200
+01:12:07,211 --> 01:12:11,349
+que realmente nos importa ser vistos
+positivamente por la sociedad. Nos
+
+1201
+01:12:11,349 --> 01:12:15,545
+importa estar en una buena posición
+social. Como todas estas intuiciones
+
+1202
+01:12:15,545 --> 01:12:19,801
+sociales que tenemos, siento firmemente
+que están arraigadas en nosotros.
+
+1203
+01:12:22,346 --> 01:12:26,560
+Y no sé cómo la evolución consiguió
+hacerlo, porque es un concepto de alto
+
+1204
+01:12:26,560 --> 01:12:28,754
+nivel que se representa en el cerebro.
+
+1205
+01:12:29,925 --> 01:12:35,165
+Como lo que la gente piensa... Digamos
+que te preocupas por algo social. No es
+
+1206
+01:12:35,165 --> 01:12:40,542
+una señal de bajo nivel como el olfato.
+No es algo para lo que exista un sensor.
+
+1207
+01:12:40,542 --> 01:12:45,374
+El cerebro necesita hacer mucho
+procesamiento para unir muchas piezas de
+
+1208
+01:12:45,374 --> 01:12:50,138
+información y entender lo que ocurre
+socialmente. Y de alguna manera la
+
+1209
+01:12:50,138 --> 01:12:53,609
+evolución dijo: "Eso es lo que te debería
+importar".
+
+1210
+01:12:53,866 --> 01:12:54,423
+Por supuesto.
+
+1211
+01:12:54,626 --> 01:12:58,016
+¿Cómo lo hizo? Y además lo hizo muy
+rápido. Porque yo creo que todas estas
+
+1212
+01:12:58,016 --> 01:13:01,684
+cosas sociales tan sofisticadas que, uh,
+a nosotros nos importan tanto, creo que
+
+1213
+01:13:01,684 --> 01:13:03,867
+han evolucionado en un tiempo bastante
+reciente.
+
+1214
+01:12:57,026 --> 01:12:57,443
+Así es.
+
+1215
+01:13:03,866 --> 01:13:04,283
+Así es.
+
+1216
+01:13:04,306 --> 01:13:09,275
+Así que a la evolución le resultó fácil
+codificar este deseo de alto nivel, y
+
+1217
+01:13:09,275 --> 01:13:14,114
+yo... yo sostengo, o, bueno, al menos
+diría que no soy consciente de buenas
+
+1218
+01:13:14,114 --> 01:13:19,345
+hipótesis sobre cómo se hace. Yo te- yo
+tenía algunas ideas que estaba barajando,
+
+1219
+01:13:19,345 --> 01:13:23,857
+pero ninguna de ellas, ninguna de ellas,
+um, me resulta satisfactoria.
+
+1220
+01:13:23,846 --> 01:13:28,452
+Sí. Y, y lo más impresionante es que si
+fuera un deseo que aprendiste en tu vida,
+
+1221
+01:13:28,452 --> 01:13:32,712
+tendría sentido, ya que tu cerebro es
+inteligente, por qué podrías aprender
+
+1222
+01:13:32,712 --> 01:13:37,145
+deseos inteligentes. Pero tu punto es que
+el deseo es... Quizás este no sea tu
+
+1223
+01:13:37,145 --> 01:13:41,636
+punto, pero una forma de entenderlo es
+que el deseo está integrado en el genoma
+
+1224
+01:13:41,636 --> 01:13:44,976
+y el genoma no es inteligente, ¿verdad?
+Pero es capaz de...
+
+1225
+01:13:44,986 --> 01:13:48,321
+De algún modo puedes describir esta
+característica que requiere... ni
+
+1226
+01:13:48,321 --> 01:13:51,999
+siquiera está claro cómo defines esa
+característica, y puedes meterlo en los
+
+1227
+01:13:51,999 --> 01:13:53,716
+g- puedes incorporarlo a los genes.
+
+1228
+01:13:53,766 --> 01:13:57,211
+Sí, esencialmente. O tal vez lo exprese
+de otra forma. Si consideramos las
+
+1229
+01:13:57,211 --> 01:14:00,846
+herramientas que tiene a su disposición
+el genoma, dice: "De acuerdo, aquí hay
+
+1230
+01:14:00,846 --> 01:14:04,480
+una receta para construir un cerebro". Y
+se podría decir: "Aquí hay una receta
+
+1231
+01:14:04,480 --> 01:14:08,162
+para conectar las neuronas de dopamina
+con, por ejemplo, el sensor del olfato".
+
+1232
+01:14:09,075 --> 01:14:09,167
+Sí.
+
+1233
+01:14:09,206 --> 01:14:13,587
+Y si el olor es de un tipo, ya sabes, de
+buen olor, querrás comerlo. Podría
+
+1234
+01:14:13,587 --> 01:14:17,910
+imaginar al genoma haciendo eso. Estoy,
+estoy afirmando que es más difícil
+
+1235
+01:14:17,910 --> 01:14:22,292
+imaginar, es más difícil imaginar al
+genoma diciendo: "Deberías preocuparte
+
+1236
+01:14:22,292 --> 01:14:26,792
+por alguna computación complicada que tu
+cerebro entero... que, como, un gran
+
+1237
+01:14:26,792 --> 01:14:29,871
+trozo de tu cerebro hace". Eso es todo lo
+que afirmo.
+
+1238
+01:14:30,106 --> 01:14:34,299
+Puedo darte una especulación. Me
+preguntaba cómo se haría. Y te daré una,
+
+1239
+01:14:34,299 --> 01:14:36,979
+luego explicaré por qué es probablemente
+falsa.
+
+1240
+01:14:37,866 --> 01:14:40,742
+Así que la especulación que se está
+haciendo, o lo que se plantea, es...
+
+1241
+01:14:40,742 --> 01:14:43,984
+Bueno, entonces, el cerebro, es como si
+dijéramos que... El cerebro tiene, posee,
+
+1242
+01:14:43,984 --> 01:14:46,132
+esas regiones específicas de las que
+estamos hablando.
+
+1243
+01:14:46,146 --> 01:14:48,655
+Saben cuáles son las regiones del
+cerebro. Tenemos nuestra corteza
+
+1244
+01:14:48,655 --> 01:14:49,350
+cerebral, ¿verdad?
+
+1245
+01:14:49,406 --> 01:14:49,823
+Así es.
+
+1246
+01:14:49,925 --> 01:14:53,534
+Tiene todas esas regiones cerebrales. Y
+la corteza es uniforme, pero las regiones
+
+1247
+01:14:53,534 --> 01:14:56,691
+cerebrales... Y, y, y las neuronas en la
+corteza, tienden a comunicarse
+
+1248
+01:14:56,691 --> 01:15:00,075
+principalmente con sus vecinas. Y eso es
+lo que explica la existencia de las
+
+1249
+01:15:00,075 --> 01:15:00,977
+regiones cerebrales.
+
+1250
+01:15:01,206 --> 01:15:04,097
+Porque si quieres hacer algún tipo de
+procesamiento del habla, todas las
+
+1251
+01:15:04,097 --> 01:15:07,111
+neuronas que se encargan del habla
+necesitan comunicarse entre sí. Y pue- Y
+
+1252
+01:15:07,111 --> 01:15:10,165
+porque las neuronas solo pueden hablar
+con sus vecinos cercanos, en su mayor
+
+1253
+01:15:10,165 --> 01:15:11,469
+parte- tiene que ser una región.
+
+1254
+01:15:11,546 --> 01:15:15,337
+Todas las regiones se ubican mayormente
+en el mismo lugar de persona a persona.
+
+1255
+01:15:15,337 --> 01:15:18,837
+Así que quizás la evolución programó
+literalmente una zona en el cerebro.
+
+1256
+01:15:21,446 --> 01:15:25,269
+Así que dice: "Oh, como cuando, ya sabes,
+el GPS del cerebro, coordenadas GPS tales
+
+1257
+01:15:25,269 --> 01:15:28,952
+y cuales, cuando eso se activa, eso es lo
+que te debería importar". Como, quizás
+
+1258
+01:15:28,952 --> 01:15:32,682
+eso es lo que hizo la evolución, porque
+eso estaría dentro de las herramientas de
+
+1259
+01:15:32,682 --> 01:15:33,288
+la evolución.
+
+1260
+01:15:33,346 --> 01:15:38,925
+Sí. Aunque, existen casos en los que, por
+ejemplo, las personas que nacen ciegas
+
+1261
+01:15:38,925 --> 01:15:43,516
+tienen esa parte de su corteza cerebral
+adoptada por otro sentido.
+
+1262
+01:15:44,106 --> 01:15:48,540
+Y no tengo la menor idea, pero me
+sorprendería mucho si los deseos o las
+
+1263
+01:15:48,540 --> 01:15:52,911
+funciones de recompensa que requieren una
+señal visual ya no estuvieran
+
+1264
+01:15:52,911 --> 01:15:57,471
+funcionando. P- ya sabes, la gente que
+tiene sus... diferentes áreas de su
+
+1265
+01:15:57,471 --> 01:15:58,595
+corteza cooptadas.
+
+1266
+01:15:58,646 --> 01:16:02,924
+Por ejemplo, si ya no tuvieras la vista,
+¿seguirías sintiendo esa necesidad de que
+
+1267
+01:16:02,924 --> 01:16:06,991
+la gente a tu alrededor te aprecie y te
+quiera, y cosas por el estilo? Para lo
+
+1268
+01:16:06,991 --> 01:16:09,791
+cual, usualmente, también hay muchas
+señales visuales.
+
+1269
+01:16:09,826 --> 01:16:13,999
+Así que, de hecho, estoy completamente de
+acuerdo con eso. Yo, yo creo que hay un
+
+1270
+01:16:13,999 --> 01:16:18,225
+contraargumento aún más fuerte para esta
+teoría. Y es que, si te pones a pensar en
+
+1271
+01:16:18,225 --> 01:16:22,034
+la gente, hay personas a las que les
+extirpan la mitad de su cerebro en la
+
+1272
+01:16:22,034 --> 01:16:22,504
+infancia.
+
+1273
+01:16:13,786 --> 01:16:14,250
+Mmm.
+
+1274
+01:16:22,586 --> 01:16:23,468
+Sí, así es, claro.
+
+1275
+01:16:23,486 --> 01:16:26,517
+Y aún conservan todas sus regiones
+cerebrales, pero de alguna manera todas
+
+1276
+01:16:26,517 --> 01:16:29,881
+se trasladan a un solo hemisferio, lo que
+sugiere que las regiones del cerebro, su
+
+1277
+01:16:29,881 --> 01:16:32,995
+ubicación, no es fija. Y por lo tanto,
+esa teoría no es cierta. Hubiera sido
+
+1278
+01:16:32,995 --> 01:16:36,068
+genial si fuera verdad, pero resulta que
+no lo es. Y por eso creo que es un
+
+1279
+01:16:36,068 --> 01:16:39,307
+misterio, pero es un misterio bastante
+interesante. Es como, el hecho es que de
+
+1280
+01:16:39,307 --> 01:16:39,972
+alguna manera...
+
+1281
+01:16:31,726 --> 01:16:31,911
+Sí.
+
+1282
+01:16:41,506 --> 01:16:45,348
+La evolución fue capaz de dotarnos para
+preocuparnos por las cosas sociales de
+
+1283
+01:16:45,348 --> 01:16:49,090
+forma muy, muy fiable. E incluso las
+personas que tienen, como, todo tipo de
+
+1284
+01:16:49,090 --> 01:16:52,434
+extrañas condiciones mentales,
+deficiencias y problemas emocionales,
+
+1285
+01:16:52,434 --> 01:16:54,230
+también suelen preocuparse por esto.
+
+1286
+01:16:54,266 --> 01:16:57,718
+Las herramientas de inteligencia
+artificial, como los deepfakes, los
+
+1287
+01:16:57,718 --> 01:17:00,862
+clones de voz y los agentes, han
+incrementado drásticamente la
+
+1288
+01:17:00,862 --> 01:17:02,718
+sofisticación del fraude y el abuso.
+
+1289
+01:17:02,806 --> 01:17:06,769
+Así que es más importante que nunca
+entender realmente la identidad y la
+
+1290
+01:17:06,769 --> 01:17:11,123
+intención de quienquiera o lo que sea que
+esté utilizando tu plataforma. Eso es
+
+1291
+01:17:11,123 --> 01:17:15,421
+exactamente lo que Sardine te ayuda a
+lograr. Sardine combina miles de señales
+
+1292
+01:17:15,421 --> 01:17:19,272
+de dispositivos, comportamiento e
+identidad para ayudarte a evaluar el
+
+1293
+01:17:19,272 --> 01:17:19,663
+riesgo.
+
+1294
+01:17:19,726 --> 01:17:23,936
+Todo, desde cómo un usuario escribe o
+mueve su ratón o sostiene su dispositivo,
+
+1295
+01:17:23,936 --> 01:17:28,039
+hasta si están ocultando su verdadera
+ubicación detrás de una VPN, o si están
+
+1296
+01:17:28,039 --> 01:17:32,088
+inyectando una señal de cámara falsa
+durante las verificaciones de identidad
+
+1297
+01:17:32,088 --> 01:17:32,682
+con selfie.
+
+1298
+01:17:32,686 --> 01:17:36,206
+Sardine combina estas señales con la
+información obtenida de su red de casi
+
+1299
+01:17:36,206 --> 01:17:39,869
+cuatro mil millones de dispositivos,
+como, por ejemplo, el historial de fraude
+
+1300
+01:17:39,869 --> 01:17:43,627
+de un usuario o sus conexiones con otras
+cuentas de alto riesgo, para que puedas
+
+1301
+01:17:43,627 --> 01:17:47,148
+identificar a los actores maliciosos
+antes de que puedan causar algún daño.
+
+1302
+01:17:47,148 --> 01:17:50,763
+Esto sería, literalmente, una tarea
+imposible si te limitaras a usar solo los
+
+1303
+01:17:50,763 --> 01:17:52,190
+datos de tu propia aplicación.
+
+1304
+01:17:52,226 --> 01:17:55,523
+Sardine no se detiene en la detección.
+Ofrecen un conjunto de agentes para
+
+1305
+01:17:55,523 --> 01:17:58,820
+agilizar los controles de incorporación y
+automatizar las investigaciones.
+
+1306
+01:17:58,866 --> 01:18:03,818
+Así que, mientras los estafadores usan la
+IA para escalar sus ataques, tú puedes
+
+1307
+01:18:03,818 --> 01:18:08,770
+usar la IA para escalar tus defensas. Ve
+a sardine.ai/swarkeish para saber más y
+
+1308
+01:18:08,770 --> 01:18:13,472
+descargar su guía sobre detección de
+fraude con IA. ¿Qué planea hacer SSI de
+
+1309
+01:18:13,472 --> 01:18:17,421
+forma diferente? Así que,
+presumiblemente, tu plan es ser una de
+
+1310
+01:18:17,421 --> 01:18:20,367
+las empresas pioneras cuando llegue ese
+momento.
+
+1311
+01:18:22,046 --> 01:18:22,556
+Y luego ¿qué?
+
+1312
+01:18:25,026 --> 01:18:28,645
+Presumiblemente, empezaste SSI porque
+pensaste: "Creo que tengo una forma de
+
+1313
+01:18:28,645 --> 01:18:32,024
+abordar esto de manera segura, de una
+manera que las otras compañías no
+
+1314
+01:18:32,024 --> 01:18:33,617
+tienen." ¿Cuál es esa diferencia?
+
+1315
+01:18:34,326 --> 01:18:39,082
+Así que, la forma en que yo lo
+describiría es que hay algunas ideas que
+
+1316
+01:18:39,082 --> 01:18:43,907
+me parecen prometedoras, y quiero
+investigarlas para ver si realmente lo
+
+1317
+01:18:43,907 --> 01:18:48,800
+son o no. Es así de simple. Es un
+intento. Creo que si las ideas resultan
+
+1318
+01:18:48,800 --> 01:18:53,693
+ser correctas, estas ideas que discutimos
+en torno a la comprensión de la
+
+1319
+01:18:53,693 --> 01:18:54,713
+generalización.
+
+1320
+01:18:55,126 --> 01:18:55,729
+Mmm.
+
+1321
+01:18:56,246 --> 01:18:58,196
+Si estas ideas resultasen ser correctas,
+
+1322
+01:19:00,726 --> 01:19:03,716
+Entonces creo que tendremos algo que
+valga la pena. ¿Se demostrará que son
+
+1323
+01:19:03,716 --> 01:19:06,789
+correctos? Estamos llevando a cabo
+investigación. Somos una empresa dedicada
+
+1324
+01:19:06,789 --> 01:19:10,066
+enteramente a la investigación. Estamos
+logrando avances. De hecho, hemos logrado
+
+1325
+01:19:10,066 --> 01:19:13,057
+un progreso bastante significativo
+durante el último año, pero necesitamos
+
+1326
+01:19:13,057 --> 01:19:14,286
+seguir haciendo más progresos.
+
+1327
+01:19:14,306 --> 01:19:14,677
+Ajá.
+
+1328
+01:19:14,726 --> 01:19:17,744
+Se necesita más investigación al
+respecto... y así es como yo lo veo.
+
+1329
+01:19:17,926 --> 01:19:22,709
+Lo veo como un intento de ser... un
+intento de ser una voz y un participante.
+
+1330
+01:19:26,606 --> 01:19:30,866
+Eh, la gente ha preguntado, eh, su
+cofundador y el anterior director
+
+1331
+01:19:30,866 --> 01:19:35,698
+ejecutivo se marchó a Meta hace poco, y
+la gente ha preguntado: "Bueno, si se
+
+1332
+01:19:35,698 --> 01:19:40,531
+estaban haciendo muchos descubrimientos,
+eso parece algo que no debería haber
+
+1333
+01:19:40,531 --> 01:19:43,138
+pasado". Me pregunto cómo responde usted.
+
+1334
+01:19:43,306 --> 01:19:48,869
+Sí, entonces, para esto, simplemente
+recordaré algunos hechos que quizás se
+
+1335
+01:19:48,869 --> 01:19:54,358
+hayan olvidado. Y creo que estos hechos,
+que aportan el contexto, creo que
+
+1336
+01:19:54,358 --> 01:19:59,621
+explican la situación. Así que el
+contexto era que estábamos recaudando
+
+1337
+01:19:59,621 --> 01:20:05,185
+fondos con una valoración de 32 mil
+millones, y luego Meta, eh, se acercó y
+
+1338
+01:20:05,185 --> 01:20:06,990
+nos ofreció adquirirnos.
+
+1339
+01:20:07,926 --> 01:20:14,295
+Y yo dije que no, pero mi antiguo
+cofundador, en cierto sentido, sí aceptó.
+
+1340
+01:20:14,295 --> 01:20:20,407
+Y como resultado, él también pudo
+disfrutar de una gran liquidez a corto
+
+1341
+01:20:20,407 --> 01:20:24,969
+plazo, y fue la única persona de SSI en
+unirse a Meta.
+
+1342
+01:20:25,626 --> 01:20:29,232
+Parece que el plan de SSI es el de ser
+una compañía que se encuentre a la
+
+1343
+01:20:29,232 --> 01:20:32,939
+vanguardia cuando lleguemos a este
+período tan crucial en la historia de la
+
+1344
+01:20:32,939 --> 01:20:36,696
+humanidad, donde ya contaremos con una
+inteligencia sobrehumana y se tendrán
+
+1345
+01:20:36,696 --> 01:20:40,353
+ideas sobre cómo lograr que esta
+inteligencia sobrehumana se desarrolle de
+
+1346
+01:20:40,353 --> 01:20:44,060
+manera óptima. Pero otras empresas
+estarán probando sus propias ideas. ¿Qué
+
+1347
+01:20:44,060 --> 01:20:47,917
+distingue el enfoque de SSI para hacer
+que la superinteligencia funcione bien?
+
+1348
+01:20:48,286 --> 01:20:52,399
+Lo, lo principal que verdaderamente
+distingue a SSI es su particular enfoque
+
+1349
+01:20:52,399 --> 01:20:56,732
+técnico. Así que tenemos una metodología
+técnica diferente que, a mi parecer, es
+
+1350
+01:20:56,732 --> 01:21:00,406
+muy valiosa, y por eso la estamos
+implementando con gran dedicación.
+
+1351
+01:21:01,606 --> 01:21:06,242
+Sostengo que, al final, habrá una
+convergencia de estrategias. Así que creo
+
+1352
+01:21:06,242 --> 01:21:11,317
+que habrá una convergencia de estrategias
+donde, en algún momento, a medida que la
+
+1353
+01:21:11,317 --> 01:21:16,079
+inteligencia artificial se vuelva más
+potente, se hará más o menos claro para
+
+1354
+01:21:16,079 --> 01:21:21,029
+todos cuál debería ser la estrategia. Y
+debería ser algo así como, sí, necesitan
+
+1355
+01:21:21,029 --> 01:21:25,290
+encontrar alguna manera de hablar entre
+ustedes, y quieren su primera
+
+1356
+01:21:27,026 --> 01:21:31,467
+que una inteligencia artificial que sea
+verdaderamente superinteligente esté
+
+1357
+01:21:31,467 --> 01:21:33,481
+alineada y de alguna manera sea...
+
+1358
+01:21:35,706 --> 01:21:40,635
+Sabes, la preocupación por la vida
+sensible, el cuidado de las personas, ser
+
+1359
+01:21:40,635 --> 01:21:45,762
+democrático, una de esas cualidades, o
+quizás una combinación de todas ellas. Y
+
+1360
+01:21:45,762 --> 01:21:50,823
+creo que esta es la condición a la que
+todos deberían aspirar, y eso es lo que
+
+1361
+01:21:50,823 --> 01:21:52,006
+SSI está buscando.
+
+1362
+01:21:52,826 --> 01:21:55,880
+Y yo creo que con el tiempo, si es que no
+lo han hecho ya, todas las demás
+
+1363
+01:21:55,880 --> 01:21:59,061
+compañías se darán cuenta y estarán
+esforzándose por conseguir lo mismo. Y ya
+
+1364
+01:21:59,061 --> 01:22:01,990
+lo veremos. Pienso que el mundo
+verdaderamente cambiará a medida que la
+
+1365
+01:22:01,990 --> 01:22:03,832
+inteligencia artificial se haga más
+poderosa.
+
+1366
+01:22:03,846 --> 01:22:04,310
+Así es.
+
+1367
+01:22:04,406 --> 01:22:08,074
+Y creo que muchas de estas predicciones
+van a... [pausa] Es decir, creo que las
+
+1368
+01:22:08,074 --> 01:22:11,743
+cosas serán muy diferentes y la gente se
+comportará de una manera muy distinta.
+
+1369
+01:22:12,166 --> 01:22:16,323
+¿Qué, eh, hablando de pronósticos, cuáles
+son tus pronósticos para este sistema que
+
+1370
+01:22:16,323 --> 01:22:19,720
+nos estás describiendo, que puede
+aprender tan bien como lo haría un
+
+1371
+01:22:19,720 --> 01:22:23,218
+humano, y, eh, consecuentemente, como
+resultado, volverse sobrehumano?
+
+1372
+01:22:23,826 --> 01:22:26,287
+Yo creo que, aproximadamente, estaríamos
+hablando de entre cinco y veinte.
+
+1373
+01:22:26,706 --> 01:22:27,495
+¿Cinco a veinte?
+
+1374
+01:22:27,486 --> 01:22:27,950
+Ajá.
+
+1375
+01:22:28,466 --> 01:22:31,650
+Pero, solo quiero que me des tu
+perspectiva, que me cuentes cómo ves el
+
+1376
+01:22:31,650 --> 01:22:34,926
+mundo que se avecina. Es como si
+tuviéramos un par de años más en los que
+
+1377
+01:22:34,926 --> 01:22:38,248
+estas otras compañías van a seguir con el
+enfoque actual y, de repente, se
+
+1378
+01:22:38,248 --> 01:22:41,660
+estancará todo. Y que se estanque aquí
+significa que no van a generar más de
+
+1379
+01:22:41,660 --> 01:22:45,027
+unos pocos cientos de miles de millones
+en ingresos, o ¿cómo piensas tú qué
+
+1380
+01:22:45,027 --> 01:22:46,438
+significa realmente estancarse?
+
+1381
+01:22:46,946 --> 01:22:50,707
+Sí. Creo que podría, sí, creo que podría
+perder el impulso.
+
+1382
+01:22:53,726 --> 01:22:57,880
+Creo que el estancamiento tendrá el
+aspecto de... Todo tendrá un aspecto muy
+
+1383
+01:22:57,880 --> 01:22:58,323
+similar-
+
+1384
+01:22:58,386 --> 01:22:58,525
+Sí
+
+1385
+01:22:59,006 --> 01:23:03,002
+entre todas las diferentes compañías,
+algo así. No estoy seguro, porque creo,
+
+1386
+01:23:03,002 --> 01:23:07,261
+creo que incluso si se estancan, creo que
+estas compañías podrían generar ingresos
+
+1387
+01:23:07,261 --> 01:23:10,994
+estupendos, estupendos. Quizás no
+ganancias, porque tendrán que, tendrán
+
+1388
+01:23:10,994 --> 01:23:14,465
+que esforzarse mucho para diferenciarse
+entre ellas. Pero ingresos,
+
+1389
+01:23:14,465 --> 01:23:15,306
+definitivamente.
+
+1390
+01:23:18,386 --> 01:23:21,218
+Pero hay al- algo en el modelo que tú
+tienes que implica que
+
+1391
+01:23:22,886 --> 01:23:27,491
+Cuando surja la solución correcta, habrá
+convergencia entre todas las empresas. Y
+
+1392
+01:23:27,491 --> 01:23:29,851
+tengo curiosidad por qué crees que es
+así.
+
+1393
+01:23:29,986 --> 01:23:33,598
+Bueno, yo hablaba más de la convergencia
+en sus estrategias más amplias. Creo que
+
+1394
+01:23:33,598 --> 01:23:37,075
+una convergencia eventual en el enfoque
+técnico probablemente también se dará.
+
+1395
+01:23:37,075 --> 01:23:40,237
+Pero yo estaba aludiendo a la
+convergencia hacia la estrategia general.
+
+1396
+01:23:40,237 --> 01:23:43,082
+Entonces, ¿qué, qué, qué es exactamente
+lo que se debería hacer?
+
+1397
+01:23:32,866 --> 01:23:33,237
+Mmm.
+
+1398
+01:23:43,726 --> 01:23:46,893
+Yo, solo quiero entender mejor cómo ves
+el futuro desplegándose. Así que
+
+1399
+01:23:46,893 --> 01:23:50,194
+actualmente tenemos estas diferentes
+empresas y esperas que su enfoque siga
+
+1400
+01:23:50,194 --> 01:23:52,781
+generando ingresos. Pero sin llegar a
+este aprendiz humano.
+
+1401
+01:23:50,806 --> 01:23:51,084
+Sí.
+
+1402
+01:23:52,806 --> 01:23:53,084
+Sí.
+
+1403
+01:23:54,206 --> 01:23:57,112
+Así que ahora tenemos estas distintas
+ramas de empresas. Tenemos la tuya.
+
+1404
+01:23:57,112 --> 01:23:59,453
+Tenemos Thinking Machines. Y hay muchos
+otros laboratorios.
+
+1405
+01:23:59,506 --> 01:24:00,063
+Por supuesto.
+
+1406
+01:24:00,086 --> 01:24:02,222
+Y quizás uno de ellos descubra la forma
+correcta.
+
+1407
+01:24:02,246 --> 01:24:02,756
+Ajá.
+
+1408
+01:24:03,186 --> 01:24:06,743
+Pero luego el lanzamiento del producto
+les deja claro a otras personas cómo
+
+1409
+01:24:06,743 --> 01:24:07,272
+hacer esto.
+
+1410
+01:24:07,406 --> 01:24:12,739
+Uh, creo que no estará claro cómo hacer
+lo suyo, pero sí estará claro que algo
+
+1411
+01:24:12,739 --> 01:24:17,104
+diferente es posible. Y eso es
+información. Y creo que la gente,
+
+1412
+01:24:17,104 --> 01:24:22,437
+entonces, estará intentando averiguar
+cómo, cómo funciona eso. Sin embargo, sí
+
+1413
+01:24:22,437 --> 01:24:27,910
+creo que una de las cosas que, que creo
+que no se aborda aquí, no se discute, es
+
+1414
+01:24:27,910 --> 01:24:28,118
+que
+
+1415
+01:24:12,446 --> 01:24:12,910
+Correcto.
+
+1416
+01:24:30,206 --> 01:24:35,207
+Con cada avance en las capacidades de la
+inteligencia artificial, creo que habrá
+
+1417
+01:24:35,207 --> 01:24:39,766
+algún tipo de cambios, pero no sé
+exactamente cuáles serán en la forma en
+
+1418
+01:24:39,766 --> 01:24:44,767
+que se hacen las cosas. Así que, pienso
+que va a ser importante, aunque no puedo
+
+1419
+01:24:44,767 --> 01:24:47,110
+especificar qué es eso con exactitud.
+
+1420
+01:24:40,786 --> 01:24:41,157
+Bueno,
+
+1421
+01:24:47,326 --> 01:24:51,664
+Y cómo... Por defecto, uno esperaría que
+la empresa de modelos que posee ese
+
+1422
+01:24:51,664 --> 01:24:55,598
+modelo obtenga todas estas ganancias,
+porque tiene el modelo que está
+
+1423
+01:24:55,598 --> 01:25:00,168
+aprendiendo a hacer todo, desarrollando
+habilidades y conocimientos en el mundo.
+
+1424
+01:25:00,168 --> 01:25:04,217
+¿Cuál es la razón para pensar que los
+beneficios de eso se distribuirán
+
+1425
+01:25:04,217 --> 01:25:08,614
+ampliamente y no terminarán solo en la
+compañía de modelos que inicie primero
+
+1426
+01:25:08,614 --> 01:25:10,638
+este ciclo de aprendizaje continuo?
+
+1427
+01:25:11,206 --> 01:25:15,186
+Verán, yo creo que, empíricamente
+hablando, lo que su- lo que va a suceder,
+
+1428
+01:25:15,186 --> 01:25:19,329
+o sea, esto es lo que, en mi opinión, va
+a ocurrir. Primero que nada, creo que
+
+1429
+01:25:19,329 --> 01:25:23,417
+empíricamente, cuando... Permítanme,
+permítanme, permítanme que analicemos...
+
+1430
+01:25:23,417 --> 01:25:27,236
+Analicemos cómo han ido las cosas hasta
+ahora con, eh, las inteligencias
+
+1431
+01:25:27,236 --> 01:25:28,528
+artificiales del pasado.
+
+1432
+01:25:28,538 --> 01:25:33,624
+Así que una empresa produjo un avance y
+la otra compañía se apresuró y produjo
+
+1433
+01:25:33,624 --> 01:25:38,578
+algunas cosas compe- algunas, algunas
+cosas bastante similares después de un
+
+1434
+01:25:38,578 --> 01:25:43,863
+cierto período de tiempo, y comenzaron a
+competir en el mercado y a impulsar sus-
+
+1435
+01:25:43,938 --> 01:25:44,170
+Mmm
+
+1436
+01:25:44,358 --> 01:25:48,443
+bajar los precios. Y así, creo que desde
+la perspectiva del mercado, algo similar
+
+1437
+01:25:48,443 --> 01:25:51,864
+sucederá allí también. Incluso si
+alguien... Así que, bueno, estamos
+
+1438
+01:25:51,864 --> 01:25:55,745
+hablando del mundo ideal, por cierto,
+donde... ¿Cuál es el mundo ideal? ¿Cuál
+
+1439
+01:25:55,745 --> 01:25:56,664
+es el mundo ideal?
+
+1440
+01:26:01,158 --> 01:26:05,384
+Donde tenemos a estos potentes
+aprendices, similares a los humanos, que
+
+1441
+01:26:05,384 --> 01:26:10,274
+además son como... Y por cierto, quizás,
+hay algo más que no hemos discutido sobre
+
+1442
+01:26:10,274 --> 01:26:14,922
+la, sobre la, la especificación de la
+inteligencia artificial superinteligente
+
+1443
+01:26:14,922 --> 01:26:18,665
+que creo que vale la pena considerar, es
+que la hagas estrecha.
+
+1444
+01:26:19,978 --> 01:26:23,096
+Puede ser útil y especializado al mismo
+tiempo. Así que puedes tener muchas IAs
+
+1445
+01:26:23,096 --> 01:26:26,015
+superinteligentes y especializadas. Pero
+supón que tienes muchas de ellas.
+
+1446
+01:26:28,818 --> 01:26:32,879
+y tienes alguna... y tienes alguna
+empresa que está produciendo muchos, uh,
+
+1447
+01:26:32,879 --> 01:26:37,215
+beneficios de ello. Y luego viene otra
+empresa que entra y empieza a competir. Y
+
+1448
+01:26:37,215 --> 01:26:40,617
+la forma en que la competencia va a
+funcionar es a través de la
+
+1449
+01:26:40,617 --> 01:26:41,496
+especialización.
+
+1450
+01:26:42,398 --> 01:26:47,116
+Creo que lo que va a ocurrir es que, de
+alguna manera... La competencia, sí, la
+
+1451
+01:26:47,116 --> 01:26:51,229
+competencia realmente ama la
+especialización. Y esto lo puedes ver en
+
+1452
+01:26:51,229 --> 01:26:54,193
+el mercado, y también lo observas en la
+evolución.
+
+1453
+01:26:54,198 --> 01:26:57,996
+Así que vas a tener muchísimos nichos
+diferentes, y vas a tener muchísimas
+
+1454
+01:26:57,996 --> 01:27:01,846
+empresas distintas que están ocupando
+nichos diferentes en, en este tipo de
+
+1455
+01:27:01,846 --> 01:27:05,904
+mundo. Donde podrías decir, "Sí, como una
+empresa de inteligencia artificial es
+
+1456
+01:27:05,904 --> 01:27:09,859
+realmente bastante mejor en alguna área
+de actividad económica verdaderamente
+
+1457
+01:27:09,859 --> 01:27:13,969
+complicada, y una empresa diferente es
+mejor en otra área, y una tercera empresa
+
+1458
+01:27:13,969 --> 01:27:15,374
+es muy buena en litigios y"
+
+1459
+01:27:15,358 --> 01:27:18,772
+Pero no, pero mira, esto se contradice
+con lo que implica el aprendizaje humano.
+
+1460
+01:27:18,772 --> 01:27:19,723
+Es que puede aprender-
+
+1461
+01:27:19,778 --> 01:27:23,123
+Puede, pero, pero has acumulado
+conocimiento. Tienes una gran inversión.
+
+1462
+01:27:23,123 --> 01:27:26,610
+Invertiste una gran cantidad de cómputo
+para volverte realmente, realmente,
+
+1463
+01:27:26,610 --> 01:27:30,333
+realmente bueno. Realmente fenomenal en
+esto. Y otra persona invirtió una enorme
+
+1464
+01:27:30,333 --> 01:27:34,103
+cantidad de cómputo y una enorme cantidad
+de experiencia para volverse realmente,
+
+1465
+01:27:34,103 --> 01:27:35,799
+realmente buena en alguna otra cosa.
+
+1466
+01:27:35,858 --> 01:27:36,229
+Claro.
+
+1467
+01:27:36,478 --> 01:27:39,033
+Aplicas muchísimo conocimiento y
+aprendizaje humano para llegar hasta ahí,
+
+1468
+01:27:39,033 --> 01:27:41,763
+pero ahora, como tú, te encuentras en un
+punto tan elevado donde cualquier otra
+
+1469
+01:27:41,763 --> 01:27:44,249
+persona diría, "Mira, yo no quiero
+empezar a aprender todo lo que tú has
+
+1470
+01:27:44,249 --> 01:27:45,719
+aprendido y tener que pasar por todo
+esto."
+
+1471
+01:27:45,838 --> 01:27:50,043
+Supongo que eso exigiría que muchísimas
+empresas distintas, uh, empezaran a
+
+1472
+01:27:50,043 --> 01:27:54,249
+trabajar en un agente de aprendizaje
+continuo con capacidades humanas, y lo
+
+1473
+01:27:54,249 --> 01:27:58,739
+hicieran al mismo tiempo, para que así
+pudieran iniciar sus diferentes líneas de
+
+1474
+01:27:58,739 --> 01:28:03,286
+investigación en distintas ramas. Pero si
+una empresa, sabes, consigue ese agente
+
+1475
+01:28:03,286 --> 01:28:07,379
+primero o ese sistema de aprendizaje
+primero, entonces parece que, bueno,
+
+1476
+01:28:07,379 --> 01:28:08,686
+sabes, ellos podrían...
+
+1477
+01:28:08,878 --> 01:28:13,189
+Solo pensamos en cada puesto de trabajo
+en la economía. Basta con tener
+
+1478
+01:28:13,189 --> 01:28:17,562
+aprendizaje por instancia, y cada uno
+parece abordable para una empresa.
+
+1479
+01:28:17,598 --> 01:28:22,706
+Sí. Es un argumento válido. Mi fuerte
+intuición es que no va a pasar así.
+
+1480
+01:28:22,718 --> 01:28:23,135
+Ajá.
+
+1481
+01:28:24,458 --> 01:28:27,856
+Mi fuerte intuición es que sí, como el
+argumento lo plantea, irá por este
+
+1482
+01:28:27,856 --> 01:28:31,584
+camino. Pero mi fuerte intuición me dice
+que no, que no irá por este camino. Que
+
+1483
+01:28:31,584 --> 01:28:35,218
+esto es el... Sabes, en teoría, no hay
+ninguna diferencia entre la teoría y la
+
+1484
+01:28:35,218 --> 01:28:38,947
+práctica. En la práctica, sí la hay. Y
+creo que este va a ser uno de esos casos.
+
+1485
+01:28:28,018 --> 01:28:28,435
+Así es.
+
+1486
+01:28:39,498 --> 01:28:43,080
+Muchos modelos de auto-mejora recursiva,
+de la gente, literalmente,
+
+1487
+01:28:43,080 --> 01:28:47,260
+explícitamente, afirman: "Tendremos un
+millón de Ilias en un servidor. Estarán
+
+1488
+01:28:47,260 --> 01:28:51,331
+generando ideas muy diferentes, y esto
+conducirá a que una superinteligencia
+
+1489
+01:28:51,331 --> 01:28:55,510
+emerja de forma muy rápida." ¿Tienes
+alguna intuición sobre cuán paralelizable
+
+1490
+01:28:55,510 --> 01:28:59,581
+es lo que estás haciendo? ¿Cuánto,
+cuánto, cuáles son las ganancias de hacer
+
+1491
+01:28:59,581 --> 01:29:00,395
+copias de Ilia?
+
+1492
+01:29:00,878 --> 01:29:04,501
+No lo sé. Yo creo, sinceramente creo que
+definitivamente se llegará a un punto de
+
+1493
+01:29:04,501 --> 01:29:08,125
+rendimientos decrecientes, porque lo que
+uno busca, lo que realmente se desea, es
+
+1494
+01:29:08,125 --> 01:29:11,748
+gente que aporte ideas distintas, no que
+sean todos iguales. Pienso que si fueran
+
+1495
+01:29:11,748 --> 01:29:14,964
+réplicas exactas de mi persona, no estoy
+del todo seguro de cuánto valor
+
+1496
+01:29:14,964 --> 01:29:18,316
+incremental o adicional se podría obtener
+de ellos. Yo creo que... Pero, en
+
+1497
+01:29:18,316 --> 01:29:21,895
+definitiva, lo que se necesita es gente
+que piense de forma diferente, eso es lo
+
+1498
+01:29:21,895 --> 01:29:22,936
+que realmente se busca.
+
+1499
+01:29:23,218 --> 01:29:26,886
+¿Por qué ha sucedido que, si uno observa
+los distintos modelos, incluso aquellos
+
+1500
+01:29:26,886 --> 01:29:30,416
+lanzados por empresas completamente
+diferentes, y que han sido entrenados con
+
+1501
+01:29:30,416 --> 01:29:33,992
+conjuntos de datos potencialmente no
+superpuestos, es verdaderamente increíble
+
+1502
+01:29:33,992 --> 01:29:35,896
+la similitud que tienen los LLM entre sí?
+
+1503
+01:29:35,918 --> 01:29:38,565
+Quizás los conjuntos de datos no son tan
+disjuntos como parece.
+
+1504
+01:29:39,498 --> 01:29:42,993
+Pero hay, hay ciertos aspectos en los
+que, incluso si un ser humano individual
+
+1505
+01:29:42,993 --> 01:29:46,399
+fuera menos productivo que la IA del
+futuro, quizás haya algo en el hecho de
+
+1506
+01:29:46,399 --> 01:29:49,713
+que los equipos humanos tienen más
+diversidad que la que podrían tener los
+
+1507
+01:29:49,713 --> 01:29:53,209
+equipos de IA. Pero, ¿cómo logramos una
+diversidad significativa entre las IAs
+
+1508
+01:29:53,209 --> 01:29:53,708
+para que...
+
+1509
+01:29:53,718 --> 01:29:56,599
+Creo que simplemente aumentar la
+temperatura solo produce ton- tonterías.
+
+1510
+01:29:56,599 --> 01:29:59,401
+Creo que lo que buscas es algo más
+parecido a científicos distintos con
+
+1511
+01:29:59,401 --> 01:30:02,523
+diferentes, diferentes prejuicios o ideas
+diversas. ¿Cómo se logra esa clase de
+
+1512
+01:30:02,523 --> 01:30:04,724
+diversidad entre los agentes de
+inteligencia artificial?
+
+1513
+01:30:04,760 --> 01:30:08,248
+Así que la razón por la que no ha habido
+diversidad, creo, se debe al
+
+1514
+01:30:08,248 --> 01:30:09,171
+pre-entrenamiento.
+
+1515
+01:30:10,840 --> 01:30:14,346
+Todos los modelos pre-entrenados son, en
+gran medida, iguales, porque han sido
+
+1516
+01:30:14,346 --> 01:30:17,761
+pre-entrenados con los mismos datos.
+Ahora bien, el aprendizaje por refuerzo
+
+1517
+01:30:17,761 --> 01:30:20,721
+(RL) y el post-entrenamiento es donde
+comienza a surgir una cierta
+
+1518
+01:30:20,721 --> 01:30:24,000
+diferenciación, ya que distintas personas
+desarrollan diferentes tipos de
+
+1519
+01:30:24,000 --> 01:30:24,911
+entrenamiento de RL.
+
+1520
+01:30:24,920 --> 01:30:30,263
+Sí. Y te he oído insinuar en el pasado
+sobre el auto-juego como una forma de
+
+1521
+01:30:30,263 --> 01:30:35,535
+obtener datos o de emparejar agentes con
+otros agentes con una inteligencia
+
+1522
+01:30:35,535 --> 01:30:41,093
+equivalente para iniciar el aprendizaje.
+¿Cómo deberíamos reflexionar sobre por
+
+1523
+01:30:41,093 --> 01:30:46,508
+qué no hay propuestas públicas, eh, de
+este tipo de cosas funcionando con los
+
+1524
+01:30:46,508 --> 01:30:46,793
+LLM?
+
+1525
+01:30:46,900 --> 01:30:48,896
+Yo diría que hay un par de cosas que
+decir.
+
+1526
+01:30:49,400 --> 01:30:53,409
+Diría que la razón por la que el
+autoaprendizaje me pareció interesante es
+
+1527
+01:30:53,409 --> 01:30:57,034
+porque ofrecía una manera de crear
+modelos utilizando únicamente la
+
+1528
+01:30:57,034 --> 01:31:01,099
+computación, sin necesidad de datos,
+¿verdad? Y si consideras que los datos
+
+1529
+01:31:01,099 --> 01:31:04,779
+son el cuello de botella definitivo,
+entonces el uso exclusivo de la
+
+1530
+01:31:04,779 --> 01:31:09,063
+computación resulta muy, muy interesante.
+Así que eso es precisamente lo que lo
+
+1531
+01:31:09,063 --> 01:31:11,644
+hace tan interesante. Ahora, la, la
+cuestión es,
+
+1532
+01:31:13,700 --> 01:31:17,199
+que el juego autónomo, al menos de la
+forma en que se realizaba en el pasado
+
+1533
+01:31:17,199 --> 01:31:20,792
+cuando se tenían agentes que de alguna
+manera competían entre sí, solo es útil
+
+1534
+01:31:20,792 --> 01:31:23,591
+para el desarrollo de un determinado
+conjunto de habilidades.
+
+1535
+01:31:23,640 --> 01:31:27,782
+Es demasiado estrecho. Solo sirve para,
+por ejemplo, la negociación, el
+
+1536
+01:31:27,782 --> 01:31:32,575
+conflicto, ciertas habilidades sociales,
+la elaboración de estrategias y cosas por
+
+1537
+01:31:32,575 --> 01:31:37,013
+el estilo. Así que, si te interesan esas
+habilidades, entonces el auto-juego
+
+1538
+01:31:37,013 --> 01:31:38,315
+podría serte muy útil.
+
+1539
+01:31:38,800 --> 01:31:41,851
+Bueno, en realidad, yo creo firmemente
+que el autoaprendizaje sí que ha
+
+1540
+01:31:41,851 --> 01:31:45,252
+encontrado su propio espacio, pero lo ha
+hecho simplemente presentándose de una
+
+1541
+01:31:45,252 --> 01:31:48,129
+manera diferente. Sí, de una manera
+completamente distinta a la que
+
+1542
+01:31:48,129 --> 01:31:50,701
+esperábamos. Me refiero a cosas como el
+debate, o el sistema
+
+1543
+01:31:50,701 --> 01:31:51,617
+probador-verificador.
+
+1544
+01:31:52,160 --> 01:31:56,133
+Tienes algún tipo de LLM como juez, que
+también está incentivado a encontrar
+
+1545
+01:31:56,133 --> 01:32:00,160
+errores en tu trabajo. Se podría decir
+que esto no es exactamente auto-juego,
+
+1546
+01:32:00,160 --> 01:32:04,028
+pero es, sabes, una configuración
+adversaria relacionada que la gente está
+
+1547
+01:32:04,028 --> 01:32:07,684
+haciendo, creo. Y realmente, el
+auto-juego es un ejemplo de, eh, es un
+
+1548
+01:32:07,684 --> 01:32:11,340
+caso especial de una competencia más
+general, como, eh, entre agentes,
+
+1549
+01:32:11,340 --> 01:32:15,314
+¿verdad? La respuesta, la respuesta
+natural a la competencia es intentar ser
+
+1550
+01:32:15,314 --> 01:32:15,844
+diferente.
+
+1551
+01:32:04,260 --> 01:32:04,538
+Ajá.
+
+1552
+01:32:16,520 --> 01:32:21,377
+Y así, si pusieras a varios agentes y les
+dijeras, sabes, "Todos ustedes necesitan
+
+1553
+01:32:21,377 --> 01:32:25,876
+trabajar en algún problema", y tú eres un
+agente e inspeccionas en qué están
+
+1554
+01:32:25,876 --> 01:32:30,554
+trabajando los demás, dirías, "Bueno, si
+ya están tomando este enfoque, no está
+
+1555
+01:32:30,554 --> 01:32:35,052
+claro que deba seguirlo. Debería buscar
+algo diferente". Y creo que algo así
+
+1556
+01:32:35,052 --> 01:32:38,950
+también podría crear un incentivo para
+una diversidad de enfoques.
+
+1557
+01:32:38,980 --> 01:32:43,453
+Sí. Eh, tengo una última pregunta. ¿Cómo
+definirías el gusto de investigación? Tú,
+
+1558
+01:32:43,453 --> 01:32:45,110
+por tu experiencia, obviamente
+
+1559
+01:32:47,160 --> 01:32:52,490
+la persona en el mundo que se considera
+que tiene el mejor gusto para investigar
+
+1560
+01:32:52,490 --> 01:32:57,686
+en IA. Usted es, uh, coautor de muchas de
+las cosas más grandes, las cosas más
+
+1561
+01:32:57,686 --> 01:33:02,679
+importantes que han sucedido en la
+historia del aprendizaje profundo, desde
+
+1562
+01:33:02,679 --> 01:33:08,077
+AlexNet hasta GPT-3 y así sucesivamente.
+¿Qué es lo que... Cómo caracteriza usted
+
+1563
+01:33:08,077 --> 01:33:10,844
+la forma en que se le ocurren estas
+ideas?
+
+1564
+01:33:11,280 --> 01:33:15,621
+Puedo... eh... así que puedo dar mi
+opinión sobre esto por mí mismo. Creo que
+
+1565
+01:33:15,621 --> 01:33:20,247
+cada persona lo hace de forma diferente.
+Pero hay algo que, eh, a mí personalmente
+
+1566
+01:33:20,247 --> 01:33:21,961
+me guía, y eso es la estética.
+
+1567
+01:33:14,280 --> 01:33:14,512
+Mmm.
+
+1568
+01:33:26,400 --> 01:33:29,961
+de cómo la inteligencia artificial
+debería ser- ... al pensar en cómo son
+
+1569
+01:33:29,961 --> 01:33:32,483
+los seres humanos. Pero pensando de
+manera correcta.
+
+1570
+01:33:28,420 --> 01:33:28,884
+Mmm
+
+1571
+01:33:32,520 --> 01:33:33,030
+Mmm.
+
+1572
+01:33:33,080 --> 01:33:37,350
+Es muy fácil pensar en cómo la gente se
+equivoca. Pero, ¿qué significa pensar co-
+
+1573
+01:33:37,350 --> 01:33:38,792
+rrectamente sobre la gente?
+
+1574
+01:33:38,860 --> 01:33:39,324
+Así es.
+
+1575
+01:33:39,460 --> 01:33:43,016
+Así que, les daré algunos ejemplos. La
+idea de la neurona artificial está
+
+1576
+01:33:43,016 --> 01:33:46,325
+directamente inspirada en el cerebro
+humano, y es una idea realmente
+
+1577
+01:33:46,325 --> 01:33:49,930
+brillante. ¿Por qué? Porque uno dice:
+"Claro, el cerebro tiene todos estos
+
+1578
+01:33:49,930 --> 01:33:53,585
+órganos tan diferentes. Tiene los
+pliegues, pero los pliegues probablemente
+
+1579
+01:33:53,585 --> 01:33:54,227
+no importan".
+
+1580
+01:33:54,220 --> 01:33:54,916
+Mmm.
+
+1581
+01:33:54,940 --> 01:33:58,747
+¿Por qué creemos que las neuronas son
+importantes? Porque hay muchísimas. Se
+
+1582
+01:33:58,747 --> 01:34:02,757
+siente como lo correcto, así que quieres
+la neurona. Quieres algún tipo de regla
+
+1583
+01:34:02,757 --> 01:34:06,310
+de aprendizaje local que modifique las
+conexiones. Quieres una regla de
+
+1584
+01:34:06,310 --> 01:34:09,915
+aprendizaje local que cambie las
+conexiones entre las neuronas. ¿Verdad?
+
+1585
+01:34:09,915 --> 01:34:14,026
+Parece plausible que el cerebro lo haga.
+La idea de la representación distribuida.
+
+1586
+01:34:01,020 --> 01:34:01,298
+Sí.
+
+1587
+01:34:15,600 --> 01:34:19,097
+La idea de que el cerebro, ya sabes, el
+cerebro reacciona a la experiencia. Una
+
+1588
+01:34:19,097 --> 01:34:22,236
+red neuronal debería aprender de la
+experiencia, no de la respuesta. El
+
+1589
+01:34:22,236 --> 01:34:25,464
+cerebro aprende de la experiencia. La red
+neuronal debería aprender de la
+
+1590
+01:34:25,464 --> 01:34:26,002
+experiencia.
+
+1591
+01:34:26,880 --> 01:34:30,399
+Y uno se pregunta a sí mismo, ¿es algo
+fundamental o no fundamental? Cómo
+
+1592
+01:34:30,399 --> 01:34:31,523
+deberían ser las cosas.
+
+1593
+01:34:31,660 --> 01:34:32,077
+Así es.
+
+1594
+01:34:32,380 --> 01:34:37,083
+Y creo que eso me ha estado guiando en
+gran medida. Pensando desde múltiples
+
+1595
+01:34:37,083 --> 01:34:40,971
+ángulos y buscando casi la belleza. La
+belleza, la simplicidad.
+
+1596
+01:34:41,360 --> 01:34:45,170
+Fealdad, no hay cabida para la fealdad.
+Es solo belleza, simplicidad, elegancia,
+
+1597
+01:34:45,170 --> 01:34:48,691
+una inspiración correcta que proviene del
+cerebro, y todas esas cualidades
+
+1598
+01:34:48,691 --> 01:34:52,116
+necesitan estar presentes al mismo
+tiempo. Y cuanto más presentes estén,
+
+1599
+01:34:52,116 --> 01:34:55,733
+mayor será la confianza que podrás
+depositar en una creencia de arriba hacia
+
+1600
+01:34:55,733 --> 01:34:59,448
+abajo. Y es precisamente esa creencia de
+arriba hacia abajo la que te sostiene
+
+1601
+01:34:59,448 --> 01:35:01,329
+cuando los experimentos te contradicen.
+
+1602
+01:35:01,980 --> 01:35:05,041
+Porque si uno solo confía en los datos
+todo el tiempo, [pause] a veces puedes
+
+1603
+01:35:05,041 --> 01:35:08,144
+estar haciendo algo correcto, pero en
+realidad hay un error. Pero no sabes que
+
+1604
+01:35:08,144 --> 01:35:11,125
+existe un error. ¿Cómo puedes darte
+cuenta de que hay un error? ¿Cómo sabes
+
+1605
+01:35:11,125 --> 01:35:14,147
+si debes seguir depurando o si concluyes
+que vas en la dirección equivocada?
+
+1606
+01:35:14,540 --> 01:35:17,486
+Pues, es el enfoque de arriba hacia
+abajo. Pues, cómo debería... Puedes
+
+1607
+01:35:17,486 --> 01:35:20,391
+decir: "Las cosas tienen que ser así".
+"Algo así tiene que funcionar".
+
+1608
+01:35:18,420 --> 01:35:18,791
+Claro.
+
+1609
+01:35:20,700 --> 01:35:23,580
+Por lo tanto, tenemos que seguir
+adelante. Ese es el enfoque que viene de
+
+1610
+01:35:23,580 --> 01:35:26,700
+arriba hacia abajo, y se basa en esta,
+digamos, una belleza tan multifacética y
+
+1611
+01:35:26,700 --> 01:35:28,780
+la inspiración que nos proporciona el
+propio cerebro.
+
+1612
+01:35:29,620 --> 01:35:31,570
+De acuerdo. Lo daremos por terminado
+aquí.
+
+1613
+01:35:31,620 --> 01:35:32,270
+Muchas gracias.
+
+1614
+01:35:32,240 --> 01:35:33,911
+Ilya, te lo agradezco mucho. ¡Vaya!
+
+1615
+01:35:34,840 --> 01:35:35,722
+De acuerdo, gracias.
+
+1616
+01:35:35,720 --> 01:35:36,323
+Excelente.
+
+1617
+01:35:36,360 --> 01:35:37,706
+Sí, la verdad es que lo disfruté.
+
+1618
+01:35:37,760 --> 01:35:41,478
+Sí, yo también. Hola a todos. Espero que
+hayan disfrutado este episodio. Si lo
+
+1619
+01:35:41,478 --> 01:35:45,051
+hicieron, lo más útil que pueden hacer es
+simplemente compartirlo con otras
+
+1620
+01:35:45,051 --> 01:35:48,480
+personas que crean que podrían
+disfrutarlo. También es útil si dejan una
+
+1621
+01:35:48,480 --> 01:35:52,295
+calificación o un comentario en cualquier
+plataforma en la que estén escuchando.
+
+1622
+01:35:52,740 --> 01:35:56,504
+Si te interesa patrocinar el podcast,
+puedes contactarnos en
+
+1623
+01:35:56,504 --> 01:36:00,588
+dwarkesh.com/advertise. De lo contrario,
+nos vemos en el próximo.
+

@@ -1,0 +1,7591 @@
+1
+00:00:00,080 --> 00:00:03,229
+Quizás después de la Revolución
+Industrial, esto es el acontecimiento más
+
+2
+00:00:03,229 --> 00:00:06,553
+grande. Pero al mismo tiempo, tengo los
+pies en la tierra con el hecho de que
+
+3
+00:00:06,553 --> 00:00:08,346
+esto todavía está en sus primeras etapas.
+
+4
+00:00:08,400 --> 00:00:13,318
+Si eres una empresa modelo, podrías tener
+la maldición del ganador. Puede que hayas
+
+5
+00:00:13,318 --> 00:00:17,636
+hecho todo el trabajo duro, una
+innovación increíble, pero está a un paso
+
+6
+00:00:17,636 --> 00:00:21,655
+de que se convierta en un producto
+básico. No queríamos ser solo una
+
+7
+00:00:21,655 --> 00:00:26,333
+estrella anfitriona para una empresa y
+tener una cartera de negocios masiva con
+
+8
+00:00:26,333 --> 00:00:28,972
+un solo cliente. Eso... eso no es un
+negocio.
+
+9
+00:00:29,040 --> 00:00:32,672
+No puedes construir una infraestructura
+optimizada para un solo modelo. Si haces
+
+10
+00:00:32,672 --> 00:00:35,984
+eso, estás a un pequeño ajuste de que
+ocurra un avance tipo MOE y toda tu
+
+11
+00:00:35,984 --> 00:00:39,387
+topología de red se vaya por la ventana.
+Y eso es algo realmente aterrador.
+
+12
+00:00:39,387 --> 00:00:43,019
+Nuestro negocio, que hoy es un negocio de
+herramientas para usuarios finales, se
+
+13
+00:00:43,019 --> 00:00:46,790
+convertirá esencialmente en un negocio de
+infraestructura para apoyar a los agentes
+
+14
+00:00:46,790 --> 00:00:47,894
+que realizan el trabajo.
+
+15
+00:00:48,020 --> 00:00:52,030
+Lo que tienes que considerar no es lo que
+haces en los próximos cinco años, sino lo
+
+16
+00:00:52,030 --> 00:00:53,546
+que haces para los próximos 50.
+
+17
+00:00:54,100 --> 00:00:58,047
+Hoy, estamos entrevistando a Satya
+Nadella. Los que lo entrevistamos somos
+
+18
+00:00:58,047 --> 00:01:01,994
+yo y Dilin Patel, quien es el fundador de
+SemiAnalysis. Satya, bienvenido.
+
+19
+00:01:02,020 --> 00:01:04,667
+Muchas gracias. Es estupendo. Gracias por
+haber venido a Atlanta.
+
+20
+00:01:04,700 --> 00:01:08,043
+Sí. Gracias por darnos el recorrido de la
+nueva instalación. Ha sido genial verlo.
+
+21
+00:01:08,100 --> 00:01:08,889
+Absolutamente.
+
+22
+00:01:09,660 --> 00:01:12,450
+Satya y Scott Guthrie, vicepresidente
+ejecutivo de Nube e Inteligencia
+
+23
+00:01:12,450 --> 00:01:15,685
+Artificial de Microsoft, nos ofrecen un
+recorrido por su flamante nuevo centro de
+
+24
+00:01:15,685 --> 00:01:18,112
+datos Fairwater 2, el más potente del
+mundo en la actualidad.
+
+25
+00:01:19,380 --> 00:01:23,420
+Intentamos multiplicar por diez la
+capacidad de entrenamiento cada 18 a 24
+
+26
+00:01:23,420 --> 00:01:27,627
+meses, lo que sería un aumento de diez
+veces, diez veces más de lo que se usó
+
+27
+00:01:27,627 --> 00:01:31,944
+para entrenar a GPT-5. Y para ponerlo en
+perspectiva, la cantidad de óptica, la
+
+28
+00:01:31,944 --> 00:01:36,261
+óptica de red en este edificio, es casi
+tanta como todo Azure en todos nuestros
+
+29
+00:01:36,261 --> 00:01:38,420
+centros de datos hace dos años y medio.
+
+30
+00:01:38,440 --> 00:01:41,551
+Son, ¿qué?, como cinco millones de
+conexiones de red.
+
+31
+00:01:41,660 --> 00:01:44,791
+Tienes todo este ancho de banda entre
+diferentes sitios en la región y entre
+
+32
+00:01:44,791 --> 00:01:48,130
+las dos regiones. Entonces, ¿se trata de
+una gran apuesta por la escalabilidad en
+
+33
+00:01:48,130 --> 00:01:51,387
+el futuro, que anticipas que en el futuro
+se necesitará algún modelo enorme que
+
+34
+00:01:51,387 --> 00:01:53,641
+requiera dos regiones enteras diferentes
+para entrenar?
+
+35
+00:01:53,680 --> 00:01:53,912
+Eh-
+
+36
+00:01:53,920 --> 00:01:58,511
+El objetivo es poder, de alguna manera,
+agregar estos FLOPs para un gran trabajo
+
+37
+00:01:58,511 --> 00:02:02,985
+de entrenamiento, y luego unir estas
+cosas en diferentes sitios. Y la realidad
+
+38
+00:02:02,985 --> 00:02:07,635
+es que lo usarás para, eh, entrenamiento,
+y luego lo usarás para la generación de
+
+39
+00:02:07,635 --> 00:02:11,819
+datos, lo usarás para inferencia de
+muchas maneras. No es como si fuera a
+
+40
+00:02:11,819 --> 00:02:14,725
+usarse solo para una carga de trabajo
+para siempre.
+
+41
+00:02:02,160 --> 00:02:02,485
+Claro.
+
+42
+00:02:14,740 --> 00:02:18,777
+Fairwater 4, que verán en construcción
+cerca de aquí- ... sí, también estaremos
+
+43
+00:02:18,777 --> 00:02:22,866
+en esa red de un peta- petabits. Para que
+podamos conectar ambos a una velocidad
+
+44
+00:02:22,866 --> 00:02:27,007
+muy alta, y luego, básicamente, haremos
+la WAN de IA conectada a Milwaukee, donde
+
+45
+00:02:27,007 --> 00:02:29,647
+tenemos múltiples otros Fairwaters en
+construcción."
+
+46
+00:02:20,960 --> 00:02:21,285
+Claro.
+
+47
+00:02:29,760 --> 00:02:34,821
+Literalmente, puedes ver el paralelismo
+de los modelos y el de los datos.
+
+48
+00:02:35,180 --> 00:02:38,597
+Está construido, digamos, para, eh,
+esencialmente las tareas de
+
+49
+00:02:38,597 --> 00:02:42,951
+entrenamiento, los pods, los super pods,
+que se encuentran distribuidos por todo
+
+50
+00:02:42,951 --> 00:02:47,249
+este campus. Y luego, utilizando la red
+de área extensa, puedes ir al centro de
+
+51
+00:02:47,249 --> 00:02:51,107
+datos de Wisconsin y literalmente
+ejecutar un trabajo de entrenamiento,
+
+52
+00:02:51,107 --> 00:02:54,359
+logrando que todos ellos se agreguen y
+trabajen en conjunto.
+
+53
+00:02:54,440 --> 00:02:57,510
+Lo que estamos viendo justo aquí es, esta
+es una celda sin servidores aún en su
+
+54
+00:02:57,510 --> 00:02:58,573
+interior, ni tampoco racks.
+
+55
+00:02:58,600 --> 00:03:00,504
+¿Cuántos anaqueles hay en una celda?
+
+56
+00:03:00,620 --> 00:03:04,195
+Nosotros... Piénsalo. Eh, no compartimos
+eso necesariamente per se, pero- pero
+
+57
+00:03:04,195 --> 00:03:04,520
+déjame-
+
+58
+00:03:04,540 --> 00:03:05,375
+Por eso pregunté.
+
+59
+00:03:06,700 --> 00:03:10,376
+Eh, lo verás arriba, y entonces... Puedes
+empezar a contar. Te dejaremos empezar a
+
+60
+00:03:10,376 --> 00:03:10,693
+contar.
+
+61
+00:03:08,860 --> 00:03:09,138
+Empiezo.
+
+62
+00:03:10,680 --> 00:03:11,608
+¿Cuántas celdas hay aquí?
+
+63
+00:03:11,640 --> 00:03:12,847
+Tampoco te la puedo decir.
+
+64
+00:03:12,980 --> 00:03:14,651
+Bueno, la división es fácil, ¿verdad?
+
+65
+00:03:18,200 --> 00:03:19,825
+¡Dios mío, está algo ruidoso!
+
+66
+00:03:21,480 --> 00:03:24,034
+¿Estás viendo esto como, "Ahora veo
+adónde va mi dinero"?
+
+67
+00:03:24,800 --> 00:03:28,490
+Es algo así como, dirijo una empresa de
+software. Bienvenido a la empresa de
+
+68
+00:03:28,490 --> 00:03:28,933
+software.
+
+69
+00:03:29,580 --> 00:03:33,573
+¿Qué tan grande es el espacio de diseño
+una vez que decides usar GB200s y NVLink?
+
+70
+00:03:33,573 --> 00:03:35,570
+¿Cuántas otras decisiones hay que tomar?
+
+71
+00:03:35,620 --> 00:03:42,017
+Existe un acoplamiento que va desde la
+arquitectura del modelo hasta el plan
+
+72
+00:03:42,017 --> 00:03:43,979
+físico que se optimiza.
+
+73
+00:03:44,500 --> 00:03:48,480
+Y también es aterrador en ese sentido,
+que es, oye, va a salir un nuevo chip. Lo
+
+74
+00:03:48,480 --> 00:03:52,562
+cual, obviamente, quiero decir, si tomas
+el Vera Rubin Ultra, me refiero, eso va a
+
+75
+00:03:52,562 --> 00:03:55,939
+tener una densidad de potencia tan, tan
+diferente, con requisitos de
+
+76
+00:03:55,939 --> 00:03:58,710
+refrigeración que van a ser tan, tan
+distintos. ¿Verdad?
+
+77
+00:03:49,400 --> 00:03:49,678
+Claro.
+
+78
+00:03:58,020 --> 00:03:58,391
+Cierto.
+
+79
+00:03:58,740 --> 00:04:04,490
+Así que, no quieres construir todo bajo
+un único estándar. Esto nos lleva un poco
+
+80
+00:04:04,490 --> 00:04:09,880
+a, creo, el diálogo que tendremos, que
+es, quieres estar escalando... con el
+
+81
+00:04:09,880 --> 00:04:13,043
+tiempo. A diferencia de escalar una sola
+vez.
+
+82
+00:04:10,200 --> 00:04:10,292
+Sí
+
+83
+00:04:13,340 --> 00:04:14,315
+y luego aguantarlo.
+
+84
+00:04:14,320 --> 00:04:14,691
+Ajá.
+
+85
+00:04:15,080 --> 00:04:19,385
+Cuando observas todas las transiciones
+tecnológicas pasadas, ya sean, sabes, los
+
+86
+00:04:19,385 --> 00:04:22,764
+ferrocarriles o internet o, sabes, las
+piezas reemplazables, la
+
+87
+00:04:22,764 --> 00:04:26,633
+industrialización, eh, la nube, todas
+estas cosas, cada revolución se ha
+
+88
+00:04:26,633 --> 00:04:30,230
+acelerado mucho en el tiempo que
+transcurre desde el descubrimiento
+
+89
+00:04:30,230 --> 00:04:33,609
+tecnológico hasta su expansión... y
+penetración en la economía.
+
+90
+00:04:33,820 --> 00:04:37,736
+Muchas de las personas que han
+participado en el podcast de Rakesh creen
+
+91
+00:04:37,736 --> 00:04:41,874
+que esta es la última revolución o
+transición tecnológica, y que esta vez es
+
+92
+00:04:41,874 --> 00:04:42,922
+muy, muy diferente.
+
+93
+00:04:43,020 --> 00:04:46,290
+Eh, y al menos hasta ahora en los
+mercados, es como que, sabes, en tres
+
+94
+00:04:46,290 --> 00:04:49,840
+años, ya nos hemos disparado a, sabes,
+los hiperescaladores están invirtiendo
+
+95
+00:04:49,840 --> 00:04:53,251
+quinientos mil millones de dólares en
+CapEx el próximo año, lo cual es una
+
+96
+00:04:53,251 --> 00:04:56,708
+escala inigualable a revoluciones
+anteriores en términos de velocidad. Y el
+
+97
+00:04:56,708 --> 00:04:58,670
+estado final parece ser bastante
+diferente.
+
+98
+00:04:58,720 --> 00:05:03,779
+Cómo... cómo es que tu enfoque de esto
+parece muy distinto al del, diría yo, el
+
+99
+00:05:03,779 --> 00:05:08,969
+"AI bro", que es... que es bastante, eh,
+sabes, "la IAG está llegando". Y, sabes,
+
+100
+00:05:08,969 --> 00:05:10,980
+me gustaría entender eso mejor.
+
+101
+00:05:11,000 --> 00:05:15,703
+Sí. Quiero decir, mira, yo... yo parto de
+la emoción que también siento, porque
+
+102
+00:05:15,703 --> 00:05:19,684
+quizás después de la Revolución
+Industrial, esto sea lo más grande.
+
+103
+00:05:19,780 --> 00:05:24,624
+Eh, y por lo tanto, parto de esa premisa.
+Eh, pero al mismo tiempo, tengo los pies
+
+104
+00:05:24,624 --> 00:05:29,348
+en la tierra en el sentido de que, eh,
+esto aún está en sus primeras etapas. Eh,
+
+105
+00:05:29,348 --> 00:05:33,415
+hemos construido cosas muy útiles.
+Estamos viendo algunas propiedades
+
+106
+00:05:33,415 --> 00:05:38,319
+excelentes. Las leyes de escalado parecen
+estar funcionando. Eh, y soy optimista de
+
+107
+00:05:38,319 --> 00:05:40,352
+que seguirán funcionando, ¿verdad?
+
+108
+00:05:40,360 --> 00:05:45,860
+Parte de ello, claro, sí requiere avances
+científicos reales, pero también es mucha
+
+109
+00:05:45,860 --> 00:05:51,159
+ingeniería y demás. Dicho esto, también
+soy de la opinión de que, incluso lo que
+
+110
+00:05:51,159 --> 00:05:56,056
+ha estado ocurriendo en los últimos 70
+años de la informática, ha sido una
+
+111
+00:05:56,056 --> 00:05:59,075
+marcha que nos ha ayudado a avanzar, con
+el...
+
+112
+00:06:02,620 --> 00:06:07,054
+Como dije, sabes, me gusta una de las
+cosas que Raj Reddy... uh, tiene como
+
+113
+00:06:07,054 --> 00:06:11,729
+metáfora de lo que es la IA, ¿verdad? Él
+es un, es un ganador del Premio Turing
+
+114
+00:06:11,729 --> 00:06:16,284
+de, uh, CMU, um, y siempre ha... Y él
+tenía esto incluso antes de la IAG, uh,
+
+115
+00:06:16,284 --> 00:06:20,839
+pero tenía esta metáfora de que, uh, la
+IA debería ser un ángel guardián o un
+
+116
+00:06:20,839 --> 00:06:22,217
+amplificador cognitivo.
+
+117
+00:06:22,752 --> 00:06:25,848
+Me encanta esa idea. Es una forma
+bastante sencilla de reflexionar sobre lo
+
+118
+00:06:25,848 --> 00:06:28,903
+que esto realmente significa. En última
+instancia, ¿cuál es su verdadera y
+
+119
+00:06:28,903 --> 00:06:31,916
+profunda utilidad para el ser humano? Va
+a funcionar como un amplificador
+
+120
+00:06:31,916 --> 00:06:35,180
+cognitivo, y también como un verdadero
+ángel guardián. Y si lo contemplo de esa
+
+121
+00:06:35,180 --> 00:06:37,566
+manera, entonces lo considero simplemente
+una herramienta.
+
+122
+00:06:37,712 --> 00:06:40,737
+Pero también puedes ponerte muy místico
+al respecto y decir: "Guau, esto es,
+
+123
+00:06:40,737 --> 00:06:43,722
+sabes, más que una herramienta. Hace
+todas estas cosas que solo los humanos
+
+124
+00:06:43,722 --> 00:06:46,989
+hacían hasta ahora." Pero ese ha sido el
+caso con muchas tecnologías en el pasado.
+
+125
+00:06:46,989 --> 00:06:49,934
+Solo los humanos hacían muchas cosas y
+luego añadimos herramientas que las
+
+126
+00:06:49,934 --> 00:06:50,297
+hicieron.
+
+127
+00:06:50,352 --> 00:06:53,483
+Mm. Supongo, eh, no tenemos que
+enredarnos en la definición aquí, pero
+
+128
+00:06:53,483 --> 00:06:57,113
+tal vez una forma de pensarlo es que, tal
+vez, tome cinco años, diez años, veinte
+
+129
+00:06:57,113 --> 00:07:00,607
+años. En algún momento, eventualmente una
+máquina estará produciendo tokens de
+
+130
+00:07:00,607 --> 00:07:04,237
+Satya, ¿verdad? Y la junta de Microsoft
+cree que los tokens de Satya valen mucho.
+
+131
+00:07:04,492 --> 00:07:08,710
+¿Cuánto, cuánto estás desperdiciando de
+este valor económico al entrevistar a
+
+132
+00:07:08,710 --> 00:07:09,043
+Satya?
+
+133
+00:07:09,652 --> 00:07:13,759
+No puedes permitirte el costo de la API
+de los tokens de Satya. Pero, sabes, como
+
+134
+00:07:13,759 --> 00:07:17,712
+quieras llamarlo, ¿son los tokens de
+Satya una herramienta o un agente, lo que
+
+135
+00:07:17,712 --> 00:07:17,918
+sea?
+
+136
+00:07:18,052 --> 00:07:22,708
+Ahora mismo, si tienes modelos que
+cuestan del orden de dólares o incluso
+
+137
+00:07:22,708 --> 00:07:27,817
+centavos por cada millón de tokens, hay
+un enorme espacio para la expansión, una
+
+138
+00:07:27,817 --> 00:07:32,668
+expansión de margen donde un millón de
+tokens de Satya valen muchísimo. Y la
+
+139
+00:07:32,668 --> 00:07:37,712
+pregunta que tengo es: ¿a dónde va ese
+margen y en qué nivel de ese margen está
+
+140
+00:07:37,712 --> 00:07:39,135
+involucrado Microsoft?
+
+141
+00:07:39,292 --> 00:07:43,794
+Así que creo que, eh, en cierto sentido,
+esto nos lleva de nuevo a la pregunta
+
+142
+00:07:43,794 --> 00:07:48,414
+fundamental de cómo se verá realmente el
+panorama del crecimiento económico. Eh,
+
+143
+00:07:48,414 --> 00:07:52,741
+¿cómo se verá la empresa? ¿Cómo se verá
+la productividad? Y para mí, ahí es
+
+144
+00:07:52,741 --> 00:07:57,068
+donde, de nuevo, si la revolución
+industrial, después de, no sé, 70 años de
+
+145
+00:07:57,068 --> 00:08:01,629
+difusión, fue cuando se empezó a ver el
+crecimiento económico, ¿verdad? Tomó...
+
+146
+00:08:01,672 --> 00:08:05,481
+Esa es otra cosa a recordar, eh, que
+incluso si la tecnología se está
+
+147
+00:08:05,481 --> 00:08:09,459
+difundiendo rápidamente, eh, esta vez,
+para que el verdadero crecimiento
+
+148
+00:08:09,459 --> 00:08:13,941
+económico aparezca, tiene que difundirse
+hasta un punto en el que el trabajo, los
+
+149
+00:08:13,941 --> 00:08:17,415
+productos del trabajo y el flujo de
+trabajo tengan que cambiar.
+
+150
+00:08:17,392 --> 00:08:22,418
+Y ese es un punto en el que creo que la
+gestión del cambio necesaria para que una
+
+151
+00:08:22,418 --> 00:08:25,936
+corporación cambie de verdad, no
+deberíamos subestimarla.
+
+152
+00:08:26,172 --> 00:08:30,761
+Entonces, creo que de aquí en adelante,
+¿los seres humanos y los tokens que ellos
+
+153
+00:08:30,761 --> 00:08:34,834
+producen, uh, consiguen un mayor
+apalancamiento, verdad? Uh, ya sean los
+
+154
+00:08:34,834 --> 00:08:39,251
+tokens de Dwarkesh o los de Dillon del
+futuro. Es decir, piensa en la cantidad
+
+155
+00:08:39,251 --> 00:08:42,808
+de tecnolo- ¿podrías tú dirigir
+SemiAnalysis o este podcast sin
+
+156
+00:08:42,808 --> 00:08:46,996
+tecnología? De ninguna manera. ¿Verdad?
+Es decir, la escala que has podido
+
+157
+00:08:46,996 --> 00:08:48,602
+alcanzar, de ninguna manera.
+
+158
+00:08:43,892 --> 00:08:44,077
+Sí.
+
+159
+00:08:48,732 --> 00:08:52,362
+Así que la pregunta es, ¿de qué tamaño es
+esa escala? ¿Se va a multiplicar por diez
+
+160
+00:08:52,362 --> 00:08:53,468
+con algo que se presente?
+
+161
+00:08:53,712 --> 00:08:58,978
+Eh, absolutamente. Y por lo tanto, con
+ello, alcanzarás una cifra de ingresos, o
+
+162
+00:08:58,978 --> 00:09:03,845
+una cifra de audiencia, o lo que sea. Y
+eso creo que es lo que va a pasar,
+
+163
+00:09:03,845 --> 00:09:09,311
+¿verdad? Quiero decir, el punto es que lo
+que tomó 70 años, quizás 150 años para la
+
+164
+00:09:09,311 --> 00:09:12,845
+revolución industrial, podría ocurrir en
+20 o 25 años.
+
+165
+00:09:12,952 --> 00:09:16,465
+Esa es una mejor manera de... Me
+encantaría, por ejemplo, comprimir todo
+
+166
+00:09:16,465 --> 00:09:20,176
+lo que sucedió en doscientos años de la
+revolución industrial en un lapso de
+
+167
+00:09:20,176 --> 00:09:22,007
+apenas veinte años, si tienes suerte.
+
+168
+00:09:22,032 --> 00:09:22,496
+Ajá.
+
+169
+00:09:22,552 --> 00:09:27,330
+Así que Microsoft históricamente ha sido,
+quizás, la compañía de software más
+
+170
+00:09:27,330 --> 00:09:32,172
+grande, la mayor empresa de software como
+servicio, ¿sabes? Han pasado por una
+
+171
+00:09:32,172 --> 00:09:36,825
+transición en el pasado donde solían
+vender licencias y discos de Windows o
+
+172
+00:09:36,825 --> 00:09:40,849
+Microsoft, y ahora venden, ya sabes,
+suscripciones a 365 o, eh...
+
+173
+00:09:40,892 --> 00:09:45,097
+A medida que pasamos de esa especie de
+transición, sabes, a donde tu negocio
+
+174
+00:09:45,097 --> 00:09:48,461
+está hoy, también hay una transición
+después de eso, ¿verdad?
+
+175
+00:09:48,572 --> 00:09:51,784
+Eh, el software como servicio tiene un
+costo incremental increíblemente bajo por
+
+176
+00:09:51,784 --> 00:09:54,386
+usuario. Hay mucha investigación y
+desarrollo, y un alto costo de
+
+177
+00:09:54,386 --> 00:09:57,355
+adquisición de clientes. Por eso, no
+Microsoft, sino las empresas SaaS han
+
+178
+00:09:57,355 --> 00:10:00,160
+tenido un rendimiento masivamente
+inferior en los mercados, porque los
+
+179
+00:10:00,160 --> 00:10:03,007
+costos operativos de la IA son
+simplemente demasiado altos. Y eso rompe
+
+180
+00:10:03,007 --> 00:10:05,569
+por completo la forma en que funcionan
+estos modelos de negocio.
+
+181
+00:10:06,072 --> 00:10:10,243
+¿C- cómo ustedes, como la, quizás, la
+compañía de software más grande, uhm, la
+
+182
+00:10:10,243 --> 00:10:14,578
+compañía de software como servicio, hacen
+la transición de Microsoft a esta nueva
+
+183
+00:10:14,578 --> 00:10:18,695
+era donde los COGS importan mucho, uhm, y
+el costo incremental por usuario es
+
+184
+00:10:18,695 --> 00:10:22,867
+diferente, ¿verdad? Porque ahora mismo
+están cobrando, oye, son 20 dólares por
+
+185
+00:10:22,867 --> 00:10:23,301
+Copilot.
+
+186
+00:10:23,392 --> 00:10:24,692
+Sí. Creo que esto es un...
+
+187
+00:10:24,832 --> 00:10:28,529
+Es una excelente pregunta, porque en
+cierto sentido, los propios modelos de
+
+188
+00:10:28,529 --> 00:10:32,177
+negocio, creo que los mecanismos o
+palancas van a seguir siendo similares,
+
+189
+00:10:32,177 --> 00:10:35,975
+¿no? Es decir, si observamos el, el...
+Si, si uno mira el abanico de modelos,
+
+190
+00:10:35,975 --> 00:10:39,373
+eh, empezando desde, digamos, el
+consumidor hasta el final, ¿verdad?,
+
+191
+00:10:39,373 --> 00:10:43,071
+habrá alguna unidad publicitaria, eh,
+habrá alguna transacción, habrá algún
+
+192
+00:10:43,071 --> 00:10:46,519
+margen bruto de dispositivo para quien
+construya un dispositivo de IA.
+
+193
+00:10:46,572 --> 00:10:50,761
+Bueno, uh, habrá suscripciones, tanto
+para consumidores como para empresas. Uh,
+
+194
+00:10:50,761 --> 00:10:55,058
+y luego habrá consumo, ¿verdad? Así que
+sigo pensando que así es como... Esos son
+
+195
+00:10:55,058 --> 00:10:58,925
+todos los medidores. A lo que te
+refieres, ¿qué es una suscripción? Hasta
+
+196
+00:10:58,925 --> 00:11:02,040
+ahora, a la gente le gustan las
+suscripciones porque pueden
+
+197
+00:11:02,040 --> 00:11:03,383
+presupuestarlas, ¿verdad?
+
+198
+00:11:03,412 --> 00:11:08,099
+Son esencialmente derechos a ciertos
+privilegios de consumo que vienen
+
+199
+00:11:08,099 --> 00:11:13,670
+incluidos en una suscripción. Así que, en
+cierto modo, se convierte en una decisión
+
+200
+00:11:13,670 --> 00:11:14,418
+de precios.
+
+201
+00:11:14,492 --> 00:11:18,039
+Bueno, ¿a cuánto consumo, eh, tienes
+derecho? Si observas todas las
+
+202
+00:11:18,039 --> 00:11:22,447
+suscripciones de programación, así es más
+o menos como funcionan, ¿verdad? Y sueles
+
+203
+00:11:22,447 --> 00:11:26,317
+tener la categoría profesional, la
+categoría estándar, y todo lo demás. Y
+
+204
+00:11:26,317 --> 00:11:30,133
+entonces, creo que así es como se
+establecerán los precios, eh, sabes, y
+
+205
+00:11:30,133 --> 00:11:32,928
+las estructuras de margen se organizarán
+por niveles.
+
+206
+00:11:33,292 --> 00:11:38,510
+Eh, lo interesante es que, en Microsoft,
+la buena noticia para nosotros es que ya
+
+207
+00:11:38,510 --> 00:11:43,793
+estamos, por así decirlo, metidos en ese
+negocio, cubriendo todas esas métricas de
+
+208
+00:11:43,793 --> 00:11:48,425
+monetización. Y de hecho, a nivel de
+cartera, prácticamente contamos con
+
+209
+00:11:48,425 --> 00:11:53,121
+consumo y suscripciones para todas las
+demás palancas de consumo también.
+
+210
+00:11:53,512 --> 00:11:57,315
+Eh, y luego creo que el tiempo dirá cuál
+de estos modelos tiene sentido en qué
+
+211
+00:11:57,315 --> 00:12:01,069
+categorías. Eh, una cosa del lado de
+SaaS, ya que lo sacaste a colación, y en
+
+212
+00:12:01,069 --> 00:12:04,676
+lo que pienso mucho es, eh, toma, eh,
+Office trescientos sesenta y cinco o
+
+213
+00:12:04,676 --> 00:12:08,529
+Microsoft trescientos sesenta y cinco.
+Quiero decir, hombre, tener un ARPU bajo
+
+214
+00:12:08,529 --> 00:12:11,344
+es genial porque aquí, aquí hay algo
+interesante, ¿verdad?
+
+215
+00:12:11,352 --> 00:12:15,580
+Durante la transición de servidor a la
+nube, una de las preguntas que solíamos
+
+216
+00:12:15,580 --> 00:12:19,919
+hacernos era: "Ay, Dios mío, si lo único
+que hicimos fue simplemente trasladar a
+
+217
+00:12:19,919 --> 00:12:23,764
+los mismos usuarios que estaban
+utilizando, digamos, nuestras licencias
+
+218
+00:12:23,764 --> 00:12:28,048
+de Office y nuestros servidores en ese
+momento, servidores de Office, ¿verdad?,
+
+219
+00:12:28,048 --> 00:12:29,695
+a la nube." Y teníamos costes.
+
+220
+00:12:29,788 --> 00:12:33,370
+Esto básicamente no solo va a reducir
+nuestros márgenes, sino que
+
+221
+00:12:33,370 --> 00:12:37,569
+fundamentalmente será una empresa no
+rentable o incluso menos rentable. Pero
+
+222
+00:12:37,569 --> 00:12:42,048
+lo que ocurrió fue que ese paso a la nube
+expandió el mercado de forma increíble.
+
+223
+00:12:42,588 --> 00:12:46,040
+Eh, ¿verdad? Es decir, vendimos unos
+pocos servidores en India, no tuvimos
+
+224
+00:12:46,040 --> 00:12:49,493
+muchas ventas. Pero en la nube, de
+repente todos en India también pudieron
+
+225
+00:12:49,493 --> 00:12:52,851
+permitirse comprar de forma fraccionada,
+eh, servidores. El costo de TI.
+
+226
+00:12:52,868 --> 00:12:57,872
+Y de hecho, lo principal que no me había
+dado cuenta, por ejemplo, era la cantidad
+
+227
+00:12:57,872 --> 00:13:02,876
+de dinero que la gente gastaba comprando
+almacenamiento para SharePoint. De hecho,
+
+228
+00:13:02,876 --> 00:13:07,695
+el segmento más grande de EMC pudo haber
+sido servidores de almacenamiento para
+
+229
+00:13:07,695 --> 00:13:12,576
+SharePoint. Todo eso, de alguna manera,
+desapareció en la nube porque nadie tuvo
+
+230
+00:13:12,576 --> 00:13:13,626
+que ir a comprar.
+
+231
+00:13:13,648 --> 00:13:18,282
+De hecho, era capital de trabajo... Es
+decir, básicamente era salida de
+
+232
+00:13:18,282 --> 00:13:23,248
+efectivo, ¿verdad? Y así expandió el
+mercado masivamente. Así que esto de la
+
+233
+00:13:23,248 --> 00:13:28,610
+IA será eso, ¿verdad? Así que si tomas la
+programación, eh, lo que construimos con
+
+234
+00:13:28,610 --> 00:13:33,708
+GitHub y VS Code y durante lo que sea,
+décadas, eh, de repente el asistente de
+
+235
+00:13:33,708 --> 00:13:36,357
+codificación es así de grande en un año.
+
+236
+00:13:36,888 --> 00:13:40,606
+Y creo que eso es lo que va a pasar
+también, que el mercado se expande
+
+237
+00:13:40,606 --> 00:13:41,253
+masivamente.
+
+238
+00:13:41,248 --> 00:13:45,778
+Mm. Supongo que la pregunta es si el
+mercado se expandirá, pero ¿se expandirán
+
+239
+00:13:45,778 --> 00:13:50,485
+las porciones de los ingresos que están
+relacionadas con Microsoft? Copilot es un
+
+240
+00:13:50,485 --> 00:13:54,957
+ejemplo donde, si miras, a principios de
+este año, creo, según los números de
+
+241
+00:13:54,957 --> 00:13:59,370
+Dylan, los ingresos de Copilot, los
+ingresos de GitHub Copilot, eran de unos
+
+242
+00:13:59,370 --> 00:14:03,724
+500 millones o algo así. Y entonces, no
+había, como, competidores cercanos.
+
+243
+00:14:03,728 --> 00:14:07,564
+Mientras que ahora tienes Claude Code,
+Cursor y Copilot con ingresos similares,
+
+244
+00:14:07,564 --> 00:14:11,154
+unos mil millones. Y luego Codex se está
+poniendo al día con unos 700, 800
+
+245
+00:14:11,154 --> 00:14:14,941
+millones. Y entonces la pregunta es, a
+través de todos los servicios a los que
+
+246
+00:14:14,941 --> 00:14:18,531
+Microsoft tiene acceso, ¿cuál es la
+ventaja que tienen los equivalentes de
+
+247
+00:14:18,531 --> 00:14:19,564
+Copilot de Microsoft?
+
+248
+00:14:19,668 --> 00:14:23,647
+Sí. Por cierto, me encanta este gráfico.
+Sabes, me encanta este gráfico por muchas
+
+249
+00:14:23,647 --> 00:14:25,612
+razones. Una es que seguimos en la cima.
+
+250
+00:14:26,548 --> 00:14:30,569
+Eh, en segundo lugar, todas estas
+empresas que se enumeran aquí son
+
+251
+00:14:30,569 --> 00:14:34,164
+compañías que han nacido en los últimos
+cuatro o cinco años.
+
+252
+00:14:34,168 --> 00:14:34,911
+Ajá. Ajá.
+
+253
+00:14:34,968 --> 00:14:38,295
+Esa para mí es la mejor señal, ¿no crees?
+Que es si tienes nuevos competidores,
+
+254
+00:14:38,295 --> 00:14:41,623
+nuevos problemas existenciales, cuando
+dices, 'hombre, ¿quién es el que viene?'
+
+255
+00:14:41,623 --> 00:14:43,884
+Ahora, oh, Claude te va a matar, Cursor
+te va a matar.
+
+256
+00:14:43,928 --> 00:14:44,020
+Sí.
+
+257
+00:14:44,048 --> 00:14:48,297
+No es Borland, ¿verdad? Así que, gracias
+a Dios. Eso significa que vamos en la
+
+258
+00:14:48,297 --> 00:14:52,215
+dirección correcta. Pero esto es,
+¿verdad? El hecho de que pasamos de la
+
+259
+00:14:52,215 --> 00:14:56,078
+nada a esta escala es la expansión del
+mercado. Así que esto es como lo
+
+260
+00:14:56,078 --> 00:14:59,775
+relacionado con la nube. Esto...
+fundamentalmente, esta categoría de
+
+261
+00:14:59,775 --> 00:15:03,914
+codificación e IA probablemente será una
+de las más grandes, ¿verdad? Es una
+
+262
+00:15:03,914 --> 00:15:05,735
+categoría de fábrica de software.
+
+263
+00:15:05,768 --> 00:15:09,133
+De hecho, podría ser más grande que el
+trabajo de conocimiento. Así que quiero
+
+264
+00:15:09,133 --> 00:15:12,236
+mantenerme con la mente abierta sobre...
+Quiero decir, vamos a tener una
+
+265
+00:15:12,236 --> 00:15:15,427
+competencia dura. Creo que ese es tu
+punto. Lo cual creo que es excelente.
+
+266
+00:15:08,208 --> 00:15:08,533
+Claro.
+
+267
+00:15:15,688 --> 00:15:19,743
+Pero, la verdad, hombre, me alegra mucho
+que hayamos podido transformar, o sea,
+
+268
+00:15:19,743 --> 00:15:23,798
+convertir lo que teníamos en algo como
+esto. Y ahora, claro, nos toca competir.
+
+269
+00:15:23,798 --> 00:15:27,802
+Y en el ámbito de la competencia, uh,
+incluso en el último trimestre, acabamos
+
+270
+00:15:27,802 --> 00:15:30,037
+de, sí, de hacer nuestro anuncio
+trimestral.
+
+271
+00:15:30,088 --> 00:15:34,215
+Creo que crecimos de 20 a 26 millones de
+suscriptores, ¿verdad? Así que me siento
+
+272
+00:15:34,215 --> 00:15:37,827
+bastante bien con el crecimiento de
+nuestros suscriptores, eh, y con la
+
+273
+00:15:37,827 --> 00:15:41,955
+dirección que está tomando. Pero lo más
+interesante que ha sucedido es, adivina a
+
+274
+00:15:41,955 --> 00:15:45,722
+dónde van todos los repositorios de todos
+estos otros tipos, eh, que están
+
+275
+00:15:45,722 --> 00:15:48,663
+generando muchísimas líneas de código?
+Todos van a GitHub.
+
+276
+00:15:49,108 --> 00:15:52,352
+Así que, GitHub está en un máximo
+histórico en cuanto a la creación de
+
+277
+00:15:52,352 --> 00:15:55,784
+repositorios, las solicitudes de
+extracción y todo lo demás. Así que... en
+
+278
+00:15:55,784 --> 00:15:59,310
+cierto sentido, queremos mantener eso
+abierto, por cierto. Eso significa que
+
+279
+00:15:59,310 --> 00:16:00,439
+queremos tener eso, ¿no?
+
+280
+00:16:00,468 --> 00:16:03,605
+Porque no queremos confundir eso con
+nuestro propio crecimiento, ¿verdad?
+
+281
+00:16:03,605 --> 00:16:06,785
+Curiosamente, estamos sumando un
+desarrollador a GitHub por segundo o algo
+
+282
+00:16:06,785 --> 00:16:08,223
+así. Esa es la estadística, creo.
+
+283
+00:16:08,328 --> 00:16:12,076
+Y luego el 80% de ellos simplemente caen
+en algún flujo de trabajo de GitHub
+
+284
+00:16:12,076 --> 00:16:15,675
+Copilot, solo porque existen. Y por
+cierto, muchas de estas cosas incluso
+
+285
+00:16:15,675 --> 00:16:19,474
+usarán algunos de nuestros agentes de
+revisión de código, que están activados
+
+286
+00:16:19,474 --> 00:16:21,424
+por defecto solo porque puedes usarlos.
+
+287
+00:16:21,588 --> 00:16:26,680
+Así que tendremos muchísimos enfoques
+estructurales para esto. Lo que también
+
+288
+00:16:26,680 --> 00:16:31,906
+vamos a hacer es lo que hicimos con GIT,
+los elementos básicos de GitHub, desde
+
+289
+00:16:31,906 --> 00:16:37,334
+GIT hasta las incidencias y las acciones.
+Son cosas potentes y maravillosas porque
+
+290
+00:16:37,334 --> 00:16:40,349
+están construidas alrededor de tu
+repositorio.
+
+291
+00:16:40,968 --> 00:16:45,308
+Así que queremos extender eso. Eh, la
+semana pasada en GitHub Universe, eso es
+
+292
+00:16:45,308 --> 00:16:49,592
+más o menos lo que hicimos, ¿verdad? Así
+que dijimos que Agent HQ era la idea
+
+293
+00:16:49,592 --> 00:16:53,820
+conceptual que íbamos a desarrollar. Aquí
+es donde, por ejemplo, tienes algo
+
+294
+00:16:53,820 --> 00:16:57,597
+llamado control de misión. Y vas al
+control de misión, y ahora puedo
+
+295
+00:16:57,597 --> 00:16:58,104
+lanzar...
+
+296
+00:16:58,127 --> 00:17:01,823
+A veces lo describo como si fuera la
+televisión por cable de todos estos
+
+297
+00:17:01,823 --> 00:17:05,676
+agentes de inteligencia artificial,
+porque tendré, en esencia, empaquetados
+
+298
+00:17:05,676 --> 00:17:09,632
+en una única suscripción a Codex, a
+Claude, eh, ya sabes, todo lo relacionado
+
+299
+00:17:09,632 --> 00:17:13,172
+con la cognición, los agentes de
+cualquier persona, Grok, todos ellos
+
+300
+00:17:13,172 --> 00:17:17,025
+estarán disponibles allí. Así que obtengo
+un solo paquete, y entonces puedo
+
+301
+00:17:17,025 --> 00:17:19,628
+literalmente ir a asignarles una tarea,
+dirigirlos.
+
+302
+00:17:19,907 --> 00:17:23,236
+Así que todos ellos estarán trabajando en
+sus propias sucursales independientes.
+
+303
+00:17:23,236 --> 00:17:24,458
+Uh, y yo podré supervisarlos.
+
+304
+00:17:24,548 --> 00:17:28,328
+Eh, pues, literal- Porque creo que ese va
+a ser uno de los mayores focos de
+
+305
+00:17:28,328 --> 00:17:32,212
+innovación, ¿verdad? Porque ahora mismo,
+quiero poder usar múltiples agentes,
+
+306
+00:17:32,212 --> 00:17:36,350
+quiero poder digerir el resultado de esos
+múltiples agentes, quiero poder mantener
+
+307
+00:17:36,350 --> 00:17:39,927
+el control de mi repositorio. Así que, si
+hay algún tipo de pantalla de
+
+308
+00:17:39,927 --> 00:17:43,401
+visualización frontal que deba
+construirse, y luego para que yo pueda
+
+309
+00:17:43,401 --> 00:17:47,489
+dirigir y clasificar rápidamente lo que
+los agentes de codificación han generado.
+
+310
+00:17:47,548 --> 00:17:52,163
+Para mí, entre VS Code, GitHub y todos
+estos nuevos primitivos que construiremos
+
+311
+00:17:52,163 --> 00:17:56,954
+como control de misión, creo, uh, con una
+observabilidad del plano de control... Es
+
+312
+00:17:56,954 --> 00:18:01,278
+decir, piensen en todos los que van a
+desplegar todo esto. Requeriremos una
+
+313
+00:18:01,278 --> 00:18:05,777
+gran cantidad de observabilidad de qué
+agente hizo qué, en qué momento, en qué
+
+314
+00:18:05,777 --> 00:18:09,049
+base de código. Así que siento que esa es
+la oportunidad.
+
+315
+00:18:09,128 --> 00:18:12,893
+Eh, y al final del día, tu observación es
+acertada, que es que más nos vale ser
+
+316
+00:18:12,893 --> 00:18:16,417
+competitivos e innovar. Y si no lo
+hacemos, sí, seremos superados. Pero me
+
+317
+00:18:16,417 --> 00:18:19,554
+gusta el gráfico al menos mientras
+estemos en la cima, incluso con
+
+318
+00:18:19,554 --> 00:18:20,134
+competencia.
+
+319
+00:18:20,228 --> 00:18:23,685
+El punto clave aquí es que GitHub seguirá
+creciendo independientemente de qué
+
+320
+00:18:23,685 --> 00:18:27,142
+agente de codificación gane. Pero ese
+mercado solo crece a, digamos, un diez,
+
+321
+00:18:27,142 --> 00:18:30,736
+un quince, un veinte por ciento, lo cual
+está muy por encima del PIB. Es un gran
+
+322
+00:18:30,736 --> 00:18:31,373
+multiplicador.
+
+323
+00:18:31,388 --> 00:18:35,576
+Pero estos agentes de codificación de IA
+han crecido de, digamos, una tasa de
+
+324
+00:18:35,576 --> 00:18:39,764
+ejecución de quinientos millones de
+dólares a finales del año pasado, que era
+
+325
+00:18:39,764 --> 00:18:43,787
+básicamente solo GitHub Copilot, a la
+tasa de ejecución actual que abarca,
+
+326
+00:18:43,787 --> 00:18:47,700
+sabes, GitHub Copilot, Claude Code,
+Cursor, Cognition, Windsurf, Replit,
+
+327
+00:18:47,700 --> 00:18:48,802
+Codex, OpenAI Codex.
+
+328
+00:18:48,848 --> 00:18:53,577
+Eso está proyectado a cinco, seis mil
+millones de dólares ahora. Para el cuarto
+
+329
+00:18:53,577 --> 00:18:58,307
+trimestre de este año. Eso es un 10X,
+¿verdad? Y cuando miras, oye, ¿cuál es el
+
+330
+00:18:58,307 --> 00:19:03,098
+TAM de los agentes de software? ¿Son los
+dos billones de dólares en salarios que
+
+331
+00:19:03,098 --> 00:19:05,705
+pagas a la gente, o es algo más allá de
+eso?
+
+332
+00:19:05,876 --> 00:19:09,504
+Uh, porque cada empresa en el mundo ahora
+será capaz de... ya sabes, desarrollar
+
+333
+00:19:09,504 --> 00:19:10,102
+más software.
+
+334
+00:19:08,316 --> 00:19:08,501
+Sí.
+
+335
+00:19:11,156 --> 00:19:15,348
+Es innegable que Microsoft se lleva una
+porción de eso, pero han pasado de estar
+
+336
+00:19:15,348 --> 00:19:19,382
+cerca del 100% o, sin duda, muy por
+encima del 50% a, sabes, menos del 25% de
+
+337
+00:19:19,382 --> 00:19:23,416
+la cuota de mercado en tan solo un año.
+¿Qué tipo de confianza puede tener la
+
+338
+00:19:23,416 --> 00:19:24,902
+gente de que Microsoft será-
+
+339
+00:19:24,896 --> 00:19:28,684
+Mira, quiero decir, no hay... De nuevo,
+volviendo un poco, Dylan, es como si no
+
+340
+00:19:28,684 --> 00:19:32,424
+hubiera un derecho de nacimiento aquí que
+debamos tener confianza, más allá de
+
+341
+00:19:32,424 --> 00:19:36,165
+decir: "Oye, deberíamos innovar". Y la
+suerte que tenemos en cierto sentido es
+
+342
+00:19:36,165 --> 00:19:39,905
+que, eh, esta categoría va a ser mucho
+más grande que cualquier cosa en la que
+
+343
+00:19:39,905 --> 00:19:43,305
+tuviéramos una alta cuota de mercado.
+Digámoslo así, ¿verdad? En cierto
+
+344
+00:19:43,305 --> 00:19:47,094
+sentido, podrías decir: "Bueno, teníamos
+una alta cuota de mercado en VS Code".
+
+345
+00:19:43,776 --> 00:19:44,054
+Ajá.
+
+346
+00:19:47,116 --> 00:19:50,691
+Teníamos una alta cuota en los
+repositorios con GitHub. Y ese era un
+
+347
+00:19:50,691 --> 00:19:54,534
+buen mercado, pero la cuestión es que,
+incluso teniendo una participación
+
+348
+00:19:54,534 --> 00:19:58,643
+decente en lo que es un mercado mucho más
+amplio, ¿no? Quiero decir, se podría
+
+349
+00:19:58,643 --> 00:20:02,859
+afirmar que teníamos una gran cuota en el
+cliente-servidor, en la computación de
+
+350
+00:20:02,859 --> 00:20:07,235
+servidores. Ahora tenemos una cuota mucho
+más baja que esa en hiperescala, ¿pero es
+
+351
+00:20:07,235 --> 00:20:10,010
+un negocio mucho más grande? Por órdenes
+de magnitud.
+
+352
+00:20:10,036 --> 00:20:14,526
+Así que, al menos, hay una prueba de que
+Microsoft está bien, aunque nuestra
+
+353
+00:20:14,526 --> 00:20:19,197
+posición en el mercado no haya sido tan
+sólida como antes, siempre y cuando los
+
+354
+00:20:19,197 --> 00:20:23,508
+mercados en los que competimos estén
+generando más valor y haya múltiples
+
+355
+00:20:23,508 --> 00:20:24,107
+ganadores.
+
+356
+00:20:24,196 --> 00:20:27,969
+Bueno, creo que eso es lo esencial. Pero
+entiendo perfectamente tu argumento de
+
+357
+00:20:27,969 --> 00:20:31,405
+que, en última instancia, todo esto
+significa que uno tiene que volverse
+
+358
+00:20:31,405 --> 00:20:35,227
+competitivo, así que estoy muy atento a
+eso cada trimestre. Y por eso mismo, soy
+
+359
+00:20:35,227 --> 00:20:39,146
+muy optimista con respecto a lo que vamos
+a lograr con la sede central de GitHub y
+
+360
+00:20:39,146 --> 00:20:42,678
+nuestra sede de agentes, convirtiendo
+GitHub en un lugar donde todos estos
+
+361
+00:20:42,678 --> 00:20:43,840
+agentes puedan reunirse.
+
+362
+00:20:43,916 --> 00:20:47,171
+Como ya mencioné, tendremos varias
+oportunidades de éxito en ese aspecto,
+
+363
+00:20:47,171 --> 00:20:50,606
+¿no? No es necesario que sea así, que
+"Oye, algunos de estos muchachos puedan
+
+364
+00:20:50,606 --> 00:20:54,133
+tener éxito junto a nosotros". Y por lo
+tanto, no es imprescindible que haya un
+
+365
+00:20:54,133 --> 00:20:55,851
+único ganador, y una sola suscripción.
+
+366
+00:20:55,856 --> 00:21:00,652
+Mmm. Supongo que la razón para enfocarse
+en esta pregunta es que no se trata solo
+
+367
+00:21:00,652 --> 00:21:04,968
+de GitHub, sino fundamentalmente de
+Office y de todo el otro software que
+
+368
+00:21:04,968 --> 00:21:09,764
+Microsoft ofrece, que es que una visión
+que podrías tener sobre cómo avanza la IA
+
+369
+00:21:09,764 --> 00:21:14,021
+es que, mira, los modelos seguirán
+estando limitados, y necesitarás esta
+
+370
+00:21:14,021 --> 00:21:17,079
+observabilidad directa, visible, eh, todo
+el tiempo.
+
+371
+00:21:17,056 --> 00:21:19,888
+Y otra de las visiones es, a lo largo del
+tiempo, estos modelos pueden...
+
+372
+00:21:19,936 --> 00:21:23,527
+Ahora están realizando tareas que les
+toman dos minutos. En el futuro, estarán
+
+373
+00:21:23,527 --> 00:21:27,165
+haciendo tareas que... luego, estarán
+haciendo tareas que duran 10, 30 minutos.
+
+374
+00:21:27,165 --> 00:21:30,849
+En el futuro, quizás estén haciendo días
+enteros de trabajo de forma autónoma, y
+
+375
+00:21:30,849 --> 00:21:34,254
+entonces las compañías de modelos
+cobrarán miles de dólares, quizás por el
+
+376
+00:21:34,254 --> 00:21:37,612
+acceso a, eh, realmente un compañero de
+trabajo que podría usar cualquier
+
+377
+00:21:37,612 --> 00:21:41,063
+interfaz para comunicarse con su humano y
+así sucesivamente, y migrar entre
+
+378
+00:21:41,063 --> 00:21:41,623
+plataformas.
+
+379
+00:21:41,656 --> 00:21:45,035
+Entonces, si nos acercáramos a eso, ¿por
+qué las empresas modelo que se están
+
+380
+00:21:45,035 --> 00:21:48,414
+volviendo cada vez más rentables no son
+las que se quedan con todo el margen?
+
+381
+00:21:48,414 --> 00:21:51,616
+¿Por qué el lugar donde ocurre el
+andamiaje, que se vuelve cada vez menos
+
+382
+00:21:51,616 --> 00:21:55,129
+relevante a medida que las IA se vuelven
+más capaces, va a ser tan importante? Y
+
+383
+00:21:55,129 --> 00:21:58,730
+eso se refiere a, sabes, Office tal como
+existe ahora versus compañeros de trabajo
+
+384
+00:21:58,730 --> 00:22:01,532
+que simplemente hacen trabajo de
+conocimiento de forma autónoma.
+
+385
+00:22:01,496 --> 00:22:05,000
+Me parece un excelente punto. Quiero
+decir, me parece una gran idea. Quiero
+
+386
+00:22:05,000 --> 00:22:08,647
+decir, por ejemplo, aquí es donde, sabes,
+¿todo el valor migra solo al modelo?
+
+387
+00:22:08,776 --> 00:22:14,286
+Eh, o sea, ¿se divide, sabes?, ¿entre el
+andamiaje, eh, y el modelo y todo lo que
+
+388
+00:22:14,286 --> 00:22:19,314
+eso implica? Yo creo que, eh, el tiempo
+lo dirá, pero mi punto fundamental
+
+389
+00:22:19,314 --> 00:22:24,136
+también es que la estructura de
+incentivos se vuelve clara, ¿no? Que es
+
+390
+00:22:24,136 --> 00:22:25,169
+si tomas, em...
+
+391
+00:22:25,296 --> 00:22:29,770
+Tomemos, eh, tomemos el trabajo de
+información, o incluso la codificación.
+
+392
+00:22:29,770 --> 00:22:34,305
+Eh, de hecho, una de las configuraciones
+favoritas que tengo, eh, en GitHub
+
+393
+00:22:34,305 --> 00:22:35,837
+Copilot, se llama "Auto".
+
+394
+00:22:35,956 --> 00:22:39,595
+Uhm, ¿no es así? Lo que hará es
+simplemente optimizar. De hecho, si
+
+395
+00:22:39,595 --> 00:22:43,399
+compro una suscripción, el sistema
+automático empezará a seleccionar y
+
+396
+00:22:43,399 --> 00:22:47,149
+optimizar en función de lo que le pida
+que haga, y podría incluso ser
+
+397
+00:22:47,149 --> 00:22:51,560
+completamente autónomo y podría, por así
+decirlo, arbitrar los tokens disponibles
+
+398
+00:22:51,560 --> 00:22:55,971
+entre múltiples modelos para realizar una
+tarea. Así que si eso es lo... Eso- eso
+
+399
+00:22:55,971 --> 00:22:56,853
+significa que...
+
+400
+00:22:56,896 --> 00:23:01,443
+Si tomas ese argumento, el bien allí
+serán los modelos. Eh, y especialmente
+
+401
+00:23:01,443 --> 00:23:06,175
+con modelos de código abierto, puedes
+elegir un punto de control y usar muchos
+
+402
+00:23:06,175 --> 00:23:11,214
+de tus datos, y lo estás viendo, ¿verdad?
+Creo que todos empezaremos, eh, ya sea de
+
+403
+00:23:11,214 --> 00:23:16,130
+Cursor o de Microsoft, eh, empezaremos a
+ver incluso modelos internos, eh, que...
+
+404
+00:23:16,130 --> 00:23:19,326
+Y luego le descargarás la mayoría de tus,
+eh, tareas.
+
+405
+00:23:19,376 --> 00:23:23,141
+Entonces, creo que un argumento es si
+logras dominar la estructura fundamental,
+
+406
+00:23:23,141 --> 00:23:27,100
+uh, que hoy en día, se encarga de abordar
+todos esos problemas que nos frenan o la,
+
+407
+00:23:27,100 --> 00:23:30,721
+uh, la complejidad intrincada de estos
+desafíos de inteligencia, lo cual, de
+
+408
+00:23:30,721 --> 00:23:32,797
+alguna manera, es algo que tienes que
+hacer.
+
+409
+00:23:33,076 --> 00:23:37,210
+Eh, si ganas eso, entonces te integrarás
+verticalmente en el modelo, simplemente
+
+410
+00:23:37,210 --> 00:23:41,448
+porque tendrás la liquidez de los datos y
+todo lo demás, y habrá suficientes y más
+
+411
+00:23:41,448 --> 00:23:43,803
+puntos de control que van a estar
+disponibles.
+
+412
+00:23:43,836 --> 00:23:48,879
+Eh, esa es la otra cosa, ¿no? Así que,
+estructuralmente, creo que siempre habrá
+
+413
+00:23:48,879 --> 00:23:54,052
+un modelo de código abierto, eh, que será
+bastante capaz en el mundo, que podrías
+
+414
+00:23:54,052 --> 00:23:59,224
+usar siempre y cuando tengas algo con lo
+que usarlo, eh, que son los datos, eh, y
+
+415
+00:23:59,224 --> 00:24:00,647
+un andamiaje, ¿verdad?
+
+416
+00:24:00,676 --> 00:24:05,323
+Así que puedo plantear el argumento de
+que, ¡Dios mío!, eh, si eres una empresa
+
+417
+00:24:05,323 --> 00:24:10,031
+modelo, puede que tengas la maldición del
+ganador. Puede que hayas hecho todo el
+
+418
+00:24:10,031 --> 00:24:14,798
+trabajo duro, una innovación increíble,
+excepto que está como a una copia, eh, de
+
+419
+00:24:14,798 --> 00:24:17,301
+que eso se convierta en un producto
+básico.
+
+420
+00:24:17,456 --> 00:24:21,340
+Y entonces la persona que dispone de los
+datos para la fundamentación y la
+
+421
+00:24:21,340 --> 00:24:25,332
+ingeniería de contexto, y la liquidez de
+los datos, puede tomar ese punto de
+
+422
+00:24:25,332 --> 00:24:29,429
+control y entrenarlo. Así que creo que el
+argumento se puede plantear de ambas
+
+423
+00:24:29,429 --> 00:24:29,855
+maneras.
+
+424
+00:24:30,336 --> 00:24:33,772
+Volviendo a lo que dijiste, hay dos
+visiones del mundo, ¿verdad? Una es que
+
+425
+00:24:33,772 --> 00:24:37,209
+los modelos... Hay muchísimos modelos
+diferentes, el código abierto existe.
+
+426
+00:24:37,476 --> 00:24:40,799
+Habrá diferencias entre los modelos que
+impulsarán un cierto nivel de, sabes,
+
+427
+00:24:40,799 --> 00:24:44,385
+quién gana y quién no, pero la estructura
+subyacente es lo que te permite ganar. La
+
+428
+00:24:44,385 --> 00:24:47,578
+otra perspectiva es que, en realidad, los
+modelos constituyen la propiedad
+
+429
+00:24:47,578 --> 00:24:50,989
+intelectual clave. Y sí, estamos en una
+carrera muy- todos están en una carrera
+
+430
+00:24:50,989 --> 00:24:54,488
+muy reñida, y hay algunos, sabes, "Oye,
+puedo usar Anthropic u OpenAI", y esto se
+
+431
+00:24:54,488 --> 00:24:56,980
+puede ver claramente en los gráficos de
+ingresos, ¿verdad?
+
+432
+00:24:45,036 --> 00:24:45,175
+Sí.
+
+433
+00:24:56,996 --> 00:25:00,821
+Los ingresos de OpenAI se dispararon
+cuando tuvieron un modelo de código, con
+
+434
+00:25:00,821 --> 00:25:04,194
+capacidades similares a Anthropic, aunque
+de diferentes maneras. Eh-
+
+435
+00:25:04,848 --> 00:25:08,666
+Eh, hay una opinión de que las empresas
+de modelos son en realidad las que
+
+436
+00:25:08,666 --> 00:25:12,746
+obtienen todo el margen, ¿verdad? Porque,
+sabes, si miras este año, al menos en
+
+437
+00:25:12,746 --> 00:25:16,407
+Anthropic, sus márgenes brutos en
+inferencia pasaron de, sabes, muy por
+
+438
+00:25:16,407 --> 00:25:20,592
+debajo del 40% a más del 60%, ¿no? Para
+finales de año, eh, los márgenes se están
+
+439
+00:25:20,592 --> 00:25:24,410
+expandiendo allí a pesar de, oye, más
+modelos chinos de código abierto que
+
+440
+00:25:24,410 --> 00:25:24,724
+nunca.
+
+441
+00:25:24,728 --> 00:25:24,820
+Sí.
+
+442
+00:25:24,848 --> 00:25:28,400
+Oye, OpenAI es competitivo. Oye, Google
+es competitivo. Oye, x- Grok ya es
+
+443
+00:25:28,400 --> 00:25:32,294
+competitivo, ¿no? Todas estas empresas ya
+son competitivas. Y aun así, a pesar de
+
+444
+00:25:32,294 --> 00:25:35,700
+esto, los márgenes se han expandido en la
+capa del modelo de manera muy
+
+445
+00:25:35,700 --> 00:25:38,036
+significativa. Eh, c- c- cómo piensas
+sobre el...
+
+446
+00:25:35,188 --> 00:25:35,327
+Sí.
+
+447
+00:25:38,088 --> 00:25:42,991
+Es una gran pregunta. Quiero decir, creo
+que lo único es que quizás hace unos años
+
+448
+00:25:42,991 --> 00:25:47,652
+la gente decía: "Oh, puedo simplemente
+tomar un modelo y construir una empresa
+
+449
+00:25:47,652 --> 00:25:52,313
+exitosa". Y eso, creo, probablemente se
+ha desmentido solo por las capacidades
+
+450
+00:25:52,313 --> 00:25:55,642
+del modelo, y con las herramientas usadas
+en particular.
+
+451
+00:25:56,628 --> 00:26:00,174
+Pero lo interesante es que no hay nada
+como... Por ejemplo, si observamos Office
+
+452
+00:26:00,174 --> 00:26:03,361
+365, tomemos incluso esta pequeña
+herramienta que desarrollamos, llamada
+
+453
+00:26:03,361 --> 00:26:06,727
+Excel Agent. Es bastante interesante, ¿no
+crees? Excel Agent no es un simple
+
+454
+00:26:06,727 --> 00:26:09,959
+envoltorio a nivel de interfaz de
+usuario. Es, de hecho, un modelo que se
+
+455
+00:26:09,959 --> 00:26:11,395
+encuentra en la capa intermedia.
+
+456
+00:26:12,288 --> 00:26:16,165
+Eh, en este caso particular, [pausa]
+porque contamos con toda la propiedad
+
+457
+00:26:16,165 --> 00:26:20,361
+intelectual que proviene de la familia
+GPT, [pausa] eh, estamos tomando todo ese
+
+458
+00:26:20,361 --> 00:26:24,610
+conocimiento y lo estamos integrando en
+el nivel intermedio principal del sistema
+
+459
+00:26:24,610 --> 00:26:28,805
+de Office [pausa] para que pueda aprender
+y comprender de forma nativa lo que es
+
+460
+00:26:28,805 --> 00:26:30,771
+Excel, [pausa] y todo lo que implica.
+
+461
+00:26:30,768 --> 00:26:34,662
+Así que no es solo, "Oye, solo tengo una
+comprensión a nivel de píxel." Tengo una
+
+462
+00:26:34,662 --> 00:26:38,119
+comprensión completa de todos los
+artefactos nativos de Excel, eh, tanto
+
+463
+00:26:38,119 --> 00:26:41,673
+cuando lo veo. Como, porque si lo
+piensas, si le voy a dar alguna tarea de
+
+464
+00:26:41,673 --> 00:26:45,520
+razonamiento, ¿verdad? Necesito incluso
+corregir los errores de razonamiento que
+
+465
+00:26:45,520 --> 00:26:45,860
+cometo.
+
+466
+00:26:45,868 --> 00:26:49,417
+Y eso significa que no solo necesito ver
+los píxeles, sino que también necesito
+
+467
+00:26:49,417 --> 00:26:52,512
+poder ver, oh, me equivoqué en esa
+fórmula y necesito comprenderlo. Y
+
+468
+00:26:52,512 --> 00:26:56,153
+entonces, hasta cierto punto, todo eso se
+está haciendo no a nivel de la interfaz
+
+469
+00:26:56,153 --> 00:26:59,430
+de usuario con un prompt, sino que se
+está haciendo en la capa intermedia
+
+470
+00:26:59,430 --> 00:27:01,796
+enseñándole todas las herramientas de
+Excel, ¿verdad?
+
+471
+00:27:01,808 --> 00:27:06,041
+Así que le estoy dando esencialmente un
+'markdown' para enseñarle las habilidades
+
+472
+00:27:06,041 --> 00:27:09,640
+de lo que significa ser un usuario
+avanzado de Excel. Así que es algo
+
+473
+00:27:09,640 --> 00:27:13,873
+extraño que... que se remonta un poco al
+cerebro de la IA, ¿verdad? Que es que no
+
+474
+00:27:13,873 --> 00:27:15,461
+estás construyendo solo Excel.
+
+475
+00:27:15,848 --> 00:27:19,113
+Ahora te conviertes en la lógica de
+negocio en su sentido más tradicional.
+
+476
+00:27:19,113 --> 00:27:22,557
+Estás tomando la lógica de negocio de
+Excel, esa que conocemos en su forma más
+
+477
+00:27:22,557 --> 00:27:26,136
+tradicional, y la estás cubriendo con una
+capa esencialmente cognitiva, empleando
+
+478
+00:27:26,136 --> 00:27:29,222
+este modelo que ya posee el conocimiento
+para utilizar la herramienta.
+
+479
+00:27:29,708 --> 00:27:33,187
+Así que, en cierto modo, Excel vendrá con
+un analista ya incorporado y con todas
+
+480
+00:27:33,187 --> 00:27:36,402
+las herramientas que se suelen utilizar.
+Ese es el tipo de cosas que serán
+
+481
+00:27:36,402 --> 00:27:39,926
+desarrolladas por absolutamente todo el
+mundo. Así que, incluso para las empresas
+
+482
+00:27:39,926 --> 00:27:42,965
+que son modelo, se les permitirá
+competir, ¿no es así? Entonces, si le
+
+483
+00:27:42,965 --> 00:27:45,079
+ponen precios muy altos, eh, ¿adivina qué
+pasará?
+
+484
+00:27:34,988 --> 00:27:35,313
+Ajá.
+
+485
+00:27:45,128 --> 00:27:48,636
+Si soy un constructor de una herramienta
+como esta, te sustituiré. Puede que te
+
+486
+00:27:48,636 --> 00:27:51,964
+use por un tiempo, y mientras haya
+competencia, siempre hay un escenario de
+
+487
+00:27:51,964 --> 00:27:55,652
+"el ganador se lo lleva todo", ¿no? Si va
+a haber un modelo que sea mucho mejor que
+
+488
+00:27:55,652 --> 00:27:59,115
+todos los demás, con una ventaja enorme,
+sí, eso es un "el ganador se lo lleva
+
+489
+00:27:59,115 --> 00:27:59,385
+todo".
+
+490
+00:27:59,408 --> 00:28:02,895
+Mientras exista competencia donde haya
+una pluralidad de modelos, tal como
+
+491
+00:28:02,895 --> 00:28:06,765
+ocurre con la competencia a hiperescala,
+y exista un contrapeso de código abierto,
+
+492
+00:28:06,765 --> 00:28:10,635
+entonces hay suficiente margen aquí para
+poder construir valor adicional sobre los
+
+493
+00:28:10,635 --> 00:28:11,017
+modelos.
+
+494
+00:28:11,028 --> 00:28:11,399
+Mm.
+
+495
+00:28:11,568 --> 00:28:16,221
+Eh, pero en Microsoft, la forma en que lo
+veo y lo expreso es: vamos a estar en el
+
+496
+00:28:16,221 --> 00:28:19,323
+negocio de hiperescala que soportará
+múltiples modelos.
+
+497
+00:28:19,908 --> 00:28:24,829
+Tendremos acceso a modelos de OpenAI por,
+eh, eh, sabes, siete años más, sobre los
+
+498
+00:28:24,829 --> 00:28:29,325
+que innovaremos, así que libre de
+regalías— Quiero decir, esencialmente nos
+
+499
+00:28:29,325 --> 00:28:33,517
+consideramos con un modelo de clase
+fronteriza, eh, que podemos usar e
+
+500
+00:28:33,517 --> 00:28:38,196
+innovar con total, eh, flexibilidad. Y
+construiremos nuestros propios modelos,
+
+501
+00:28:38,196 --> 00:28:41,781
+eh, con MAI, um, y así siempre tendremos
+un nivel de modelo.
+
+502
+00:28:42,028 --> 00:28:45,906
+Y entonces construiremos estas cosas, ya
+sea en el ámbito de la seguridad, ya sea
+
+503
+00:28:45,906 --> 00:28:49,638
+en el trabajo de conocimiento, ya sea en
+la programación o en la señalización,
+
+504
+00:28:49,638 --> 00:28:53,420
+construiremos nuestro propio andamiaje de
+aplicación... que estará orientado al
+
+505
+00:28:53,420 --> 00:28:57,055
+modelo, ¿verdad? No será una capa sobre
+un modelo, sino que el modelo estará
+
+506
+00:28:57,055 --> 00:28:58,607
+integrado en, uh, la aplicación.
+
+507
+00:28:58,668 --> 00:29:02,251
+Tengo muchísimas preguntas sobre... las
+otras cosas que mencionaste, pero antes
+
+508
+00:29:02,251 --> 00:29:05,605
+de pasar a esos temas, eh, me sigo
+preguntando si esto no es como no tener
+
+509
+00:29:05,605 --> 00:29:09,189
+una visión a futuro de las capacidades de
+la IA, donde estás imaginando modelos
+
+510
+00:29:09,189 --> 00:29:12,727
+como existen hoy, donde, sí, puedo...
+Tienes que, digamos, toma una captura de
+
+511
+00:29:12,727 --> 00:29:16,265
+pantalla de tu monitor, pero no puede,
+por ejemplo, ver dentro de cada celda y
+
+512
+00:29:16,265 --> 00:29:19,849
+cuál es la fórmula. Y creo que el mejor
+m- modelo mental aquí es como, mira, un
+
+513
+00:29:19,849 --> 00:29:20,262
+humano...
+
+514
+00:29:20,348 --> 00:29:24,625
+Imaginen que estos modelos realmente
+podrán usar una computadora tan bien como
+
+515
+00:29:24,625 --> 00:29:28,458
+un humano. Y un trabajador del
+conocimiento humano que usa Excel puede
+
+516
+00:29:28,458 --> 00:29:32,679
+ver las fórmulas, puede, sabes, usar
+software alternativo, puede migrar datos
+
+517
+00:29:32,679 --> 00:29:36,623
+entre Office 365 y otro programa si la
+migración es necesaria, etcétera.
+
+518
+00:29:36,623 --> 00:29:37,623
+Entonces, ¿qué es-
+
+519
+00:29:37,588 --> 00:29:39,166
+Eso no es lo que estoy diciendo. ¿Y qué?
+
+520
+00:29:39,148 --> 00:29:42,438
+Pero si ese es el caso, entonces la
+integración con Excel no importa tanto.
+
+521
+00:29:42,438 --> 00:29:43,327
+Eh, porque entonces-
+
+522
+00:29:42,628 --> 00:29:46,572
+No, no, no. Yo... yo... No te preocupes
+por la integración de Excel. A- al fin y
+
+523
+00:29:46,572 --> 00:29:50,367
+al cabo, Excel fue concebido como una
+herramienta para analistas. Genial. Así
+
+524
+00:29:50,367 --> 00:29:53,813
+que, quienquiera que sea esta
+inteligencia artificial que es analista,
+
+525
+00:29:53,813 --> 00:29:56,559
+debería disponer de las herramientas que
+pueda utilizar.
+
+526
+00:29:56,548 --> 00:29:59,566
+Tienen una computadora, ¿verdad? Es su
+herramienta, como la de un humano.
+
+527
+00:29:59,668 --> 00:30:03,450
+La- la- la- la herramienta es la
+computadora. Está bien. Así que, lo que
+
+528
+00:30:03,450 --> 00:30:07,764
+estoy diciendo es que estoy construyendo
+un analista que es, en esencia, un agente
+
+529
+00:30:07,764 --> 00:30:11,813
+de inteligencia artificial, que ya viene
+con un conocimiento a priori de cómo
+
+530
+00:30:11,813 --> 00:30:14,157
+utilizar todas estas herramientas
+analíticas.
+
+531
+00:30:01,428 --> 00:30:01,799
+Claro.
+
+532
+00:30:14,248 --> 00:30:18,427
+Eh, pero es- es algo... Eh, bueno, quizás
+solo para asegurarnos de que hablamos de
+
+533
+00:30:18,427 --> 00:30:22,555
+lo mismo, eh, ¿es algo que, por ejemplo,
+yo, usando Excel? Como podcaster, no soy
+
+534
+00:30:22,555 --> 00:30:24,000
+experto en Excel, pero como-
+
+535
+00:30:23,968 --> 00:30:27,253
+No, no, no. Será au-to- un sistema
+completamente autónomo. Así que imaginen
+
+536
+00:30:27,253 --> 00:30:30,627
+que yo trabajo, como así que quizás
+deberíamos ahora exponer cómo creo que es
+
+537
+00:30:30,627 --> 00:30:34,179
+el futuro de la empresa, ¿verdad? Eh, el
+futuro de la empresa sería el negocio de
+
+538
+00:30:34,179 --> 00:30:36,088
+las herramientas, que tengo una
+computadora.
+
+539
+00:30:36,348 --> 00:30:40,159
+Yo uso Excel. Y de hecho, en el futuro,
+incluso tendré un copiloto. Uh, y ese
+
+540
+00:30:40,159 --> 00:30:43,871
+copiloto también tendrá agentes, ¿verdad?
+Eso es todavía en lo que estoy...
+
+541
+00:30:43,948 --> 00:30:47,750
+Yo, sabes, todavía soy yo quien lo
+controla todo. Y todo está regresando.
+
+542
+00:30:47,750 --> 00:30:49,335
+Así que es como un solo mundo.
+
+543
+00:30:46,688 --> 00:30:46,966
+Claro.
+
+544
+00:30:49,328 --> 00:30:50,024
+Sí.
+
+545
+00:30:50,048 --> 00:30:53,783
+Entonces, el segundo escenario es que la
+empresa simplemente proporciona un
+
+546
+00:30:53,783 --> 00:30:57,013
+recurso de computación para un agente de
+inteligencia artificial.
+
+547
+00:30:57,008 --> 00:30:57,425
+Así es.
+
+548
+00:30:57,608 --> 00:30:59,558
+Y eso funciona totalmente autónomo.
+
+549
+00:30:59,588 --> 00:31:00,005
+Así es.
+
+550
+00:31:00,288 --> 00:31:04,976
+Ese agente completamente autónomo tendrá
+esencialmente un conjunto incorporado de
+
+551
+00:31:04,976 --> 00:31:09,430
+esas mismas herramientas, uh, que están
+disponibles para él, ¿verdad? Así que
+
+552
+00:31:09,430 --> 00:31:14,060
+esta herramienta de IA que llega también
+tiene no solo una computadora en bruto,
+
+553
+00:31:14,060 --> 00:31:18,631
+uh, porque será más eficiente en tokens
+usar herramientas para hacer las cosas.
+
+554
+00:31:06,468 --> 00:31:06,700
+Bien
+
+555
+00:31:19,088 --> 00:31:22,517
+De hecho, yo lo veo de esta manera y
+digo, nuestro negocio, que hoy en día es
+
+556
+00:31:22,517 --> 00:31:25,315
+un negocio de herramientas para el
+usuario final, se convertirá
+
+557
+00:31:25,315 --> 00:31:28,428
+esencialmente en un negocio de
+infraestructura en apoyo de agentes que
+
+558
+00:31:28,428 --> 00:31:31,993
+realizan su trabajo. ... es otra forma de
+pensarlo, ¿no creen? Así que si una de
+
+559
+00:31:31,993 --> 00:31:33,437
+las cosas que nos verán hacer...
+
+560
+00:31:33,616 --> 00:31:38,441
+De hecho, como todo lo que construimos
+debajo de M365, seguirá siendo muy
+
+561
+00:31:38,441 --> 00:31:43,736
+relevante. Eh, necesitas un lugar para
+almacenarlo, un lugar para archivarlo, un
+
+562
+00:31:43,736 --> 00:31:48,896
+lugar para el descubrimiento, un lugar
+para gestionar todas estas actividades,
+
+563
+00:31:48,896 --> 00:31:51,309
+eh, incluso si eres un agente de IA.
+
+564
+00:31:51,356 --> 00:31:51,913
+De acuerdo.
+
+565
+00:31:51,916 --> 00:31:54,330
+Así que eso es... Es como una nueva
+infraestructura.
+
+566
+00:31:54,515 --> 00:31:58,443
+Entonces, para asegurarme de entender
+bien, dices que, mira, teóricamente, una
+
+567
+00:31:58,443 --> 00:32:01,963
+IA futura que tenga un uso real de
+computadoras, en lo que todas estas
+
+568
+00:32:01,963 --> 00:32:05,840
+empresas de modelos están trabajando
+ahora mismo, podría usar, aunque no esté
+
+569
+00:32:05,840 --> 00:32:09,411
+asociada con Microsoft o bajo nuestro
+paraguas, podría usar software de
+
+570
+00:32:09,411 --> 00:32:11,604
+Microsoft, pero dices que les vamos a
+dar...
+
+571
+00:32:11,916 --> 00:32:14,864
+Si, si trabajas con nuestra
+infraestructura, te vamos a dar un acceso
+
+572
+00:32:14,864 --> 00:32:18,203
+de bajo nivel que te hará más eficiente
+para que hagas las mismas cosas que de
+
+573
+00:32:18,203 --> 00:32:19,764
+todas formas ya podrías haber hecho?
+
+574
+00:32:19,795 --> 00:32:23,711
+Cien por ciento. Cien por ciento. Quiero
+decir, todo el asunto en sí... De hecho,
+
+575
+00:32:23,711 --> 00:32:27,628
+la manera en que... sabes, lo que ocurrió
+fue que teníamos servidores, luego hubo
+
+576
+00:32:27,628 --> 00:32:31,202
+virtualización y después tuvimos
+muchísimos más servidores. Así que esa es
+
+577
+00:32:31,202 --> 00:32:34,482
+otra forma de pensar en esto, que es,
+oye, no pienses en esto, en la
+
+578
+00:32:34,482 --> 00:32:36,048
+herramienta, como el fin último.
+
+579
+00:32:36,055 --> 00:32:39,666
+¿Cuál es la totalidad del sustrato que se
+encuentra debajo de esa herramienta que
+
+580
+00:32:39,666 --> 00:32:40,884
+utilizan los seres humanos?
+
+581
+00:32:40,956 --> 00:32:45,668
+Y todo ese sustrato es la base para el
+agente de IA también, porque el agente de
+
+582
+00:32:45,668 --> 00:32:50,141
+IA necesita una computadora, eso es
+fundamental, sabes. De hecho, una de las
+
+583
+00:32:50,141 --> 00:32:54,317
+cosas fascinantes donde vemos un
+crecimiento significativo es que todos
+
+584
+00:32:54,317 --> 00:32:58,850
+estos que crean artefactos de oficina y
+demás como agentes autónomos, quieren
+
+585
+00:32:58,850 --> 00:33:00,878
+aprovisionar Windows 365, ¿verdad?
+
+586
+00:33:00,876 --> 00:33:04,874
+Realmente quieren poder proporcionar un
+ordenador para estos agentes. Eh, y
+
+587
+00:33:04,874 --> 00:33:09,198
+entonces... Absolutamente. Y ahí es donde
+creo que vamos a tener esencialmente un
+
+588
+00:33:09,198 --> 00:33:13,629
+negocio de infraestructura de computación
+para el usuario final que, en mi opinión,
+
+589
+00:33:13,629 --> 00:33:15,736
+seguirá creciendo porque, ¿adivina qué?
+
+590
+00:33:15,735 --> 00:33:19,790
+Va a crecer más rápido que el número de
+usuarios. De hecho, esa es una de las
+
+591
+00:33:19,790 --> 00:33:23,685
+preguntas que la gente me hace: "¿Qué
+pasa con el negocio por usuario?" Al
+
+592
+00:33:23,685 --> 00:33:28,061
+menos las primeras señales indican que la
+forma de pensar en el negocio por usuario
+
+593
+00:33:28,061 --> 00:33:32,170
+no es solo por usuario, sino por agente.
+Y si decimos que es por usuario y por
+
+594
+00:33:32,170 --> 00:33:35,425
+agente, la clave es ¿qué hay que
+provisionar para cada agente?
+
+595
+00:33:35,416 --> 00:33:39,556
+Una computadora, eh, un conjunto de
+elementos de seguridad que la rodean, una
+
+596
+00:33:39,556 --> 00:33:43,913
+identidad asociada a ella, y todas esas
+cosas, nuestra capacidad de observación y
+
+597
+00:33:43,913 --> 00:33:48,326
+demás, constituyen las capas de gestión y
+eso, creo, se va a integrar en todo eso.
+
+598
+00:33:48,576 --> 00:33:52,325
+La forma de plantearlo, o al menos como
+yo lo veo ahora mismo, y me gustaría
+
+599
+00:33:52,325 --> 00:33:55,875
+escuchar tu opinión, es que estas
+empresas de modelos están construyendo
+
+600
+00:33:55,875 --> 00:33:59,024
+entornos para... entrenar a sus modelos
+para que utilicen Excel.
+
+601
+00:33:59,275 --> 00:34:03,134
+o para comprar en Amazon o lo que sea, lo
+que sea que necesites, reservar vuelos.
+
+602
+00:34:03,134 --> 00:34:06,704
+Pero, al mismo tiempo, también están
+entrenando estos modelos para realizar
+
+603
+00:34:06,704 --> 00:34:10,419
+migraciones desde... Porque eso, eso es
+probablemente lo más inmediato, lo más
+
+604
+00:34:10,419 --> 00:34:13,989
+valioso que hay, ¿verdad? Convertir
+sistemas que están basados en mainframe
+
+605
+00:34:13,989 --> 00:34:14,182
+a...
+
+606
+00:34:14,775 --> 00:34:18,198
+sistemas estándar en la nube.
+Convirtiendo, eh, las bases de datos de
+
+607
+00:34:18,198 --> 00:34:21,369
+Excel en verdaderas bases de datos, eh,
+con ese-cu-ele. ¿Verdad?
+
+608
+00:34:20,935 --> 00:34:21,074
+Sí.
+
+609
+00:34:21,435 --> 00:34:25,791
+O, o convertir lo que se hace en Word y
+Excel en algo más programático y más
+
+610
+00:34:25,791 --> 00:34:30,089
+eficiente en un sentido clásico... que de
+hecho puede ser hecho por humanos
+
+611
+00:34:30,089 --> 00:34:34,678
+también. Simplemente no es rentable para
+el desarrollador de software hacer eso.
+
+612
+00:34:34,678 --> 00:34:39,324
+Eso parece ser lo que todos van a hacer
+con la IA en los próximos años, al menos,
+
+613
+00:34:39,324 --> 00:34:41,357
+para impulsar masivamente el valor.
+
+614
+00:34:41,456 --> 00:34:45,921
+Eh, ¿cómo encaja Microsoft en todo esto
+si los modelos pueden utilizar las
+
+615
+00:34:45,921 --> 00:34:48,979
+herramientas por sí mismos para migrar a
+otra cosa?
+
+616
+00:34:49,016 --> 00:34:52,635
+Y sí, Microsoft tiene, sabes, una
+posición de liderazgo en bases de datos y
+
+617
+00:34:52,635 --> 00:34:56,498
+en almacenamiento y en todas estas otras
+categorías, pero el uso de, digamos, un
+
+618
+00:34:56,498 --> 00:34:59,824
+ecosistema de Office va a ser
+significativamente menor, al igual que,
+
+619
+00:34:59,824 --> 00:35:03,590
+potencialmente, el uso de un ecosistema
+de mainframe podría ser potencialmente
+
+620
+00:35:03,590 --> 00:35:07,258
+menor. Ahora, los mainframes han crecido
+durante las últimas dos décadas, de
+
+621
+00:35:07,258 --> 00:35:10,192
+hecho, aunque ya nadie hable de ellos,
+han seguido creciendo.
+
+622
+00:35:10,196 --> 00:35:11,728
+Sí, totalmente. Coincido con eso.
+
+623
+00:35:11,716 --> 00:35:12,691
+¿Cómo progresa eso? Sí.
+
+624
+00:35:12,676 --> 00:35:16,275
+Sí, quiero decir, al final del día, esto
+no se trata de, oye, uhm, va a haber una
+
+625
+00:35:16,275 --> 00:35:19,964
+cantidad significativa de tiempo donde va
+a haber un mundo híbrido, ¿verdad? Porque
+
+626
+00:35:19,964 --> 00:35:23,069
+la gente va a estar usando las
+herramientas que van a estar trabajando
+
+627
+00:35:23,069 --> 00:35:26,173
+con agentes que tienen que usar
+herramientas, y por cierto, tienen que
+
+628
+00:35:26,173 --> 00:35:27,118
+comunicarse entre sí.
+
+629
+00:35:27,196 --> 00:35:30,618
+¿Cuál es el artefacto que genero que
+luego un humano necesita ver? Así que,
+
+630
+00:35:30,618 --> 00:35:34,179
+todas estas cosas serán consideraciones
+reales en cualquier lugar. Así que las
+
+631
+00:35:34,179 --> 00:35:37,556
+salidas, las entradas, así que no creo
+que se trate solo de, oh, me migré,
+
+632
+00:35:37,556 --> 00:35:41,071
+¿verdad? Pero la conclusión es que tengo
+que vivir en este mundo híbrido. Así
+
+633
+00:35:41,071 --> 00:35:44,817
+que... Pero eso no responde completamente
+a tu pregunta porque pueden estar en una
+
+634
+00:35:44,817 --> 00:35:48,517
+nueva frontera eficiente real donde, eh,
+son solo agentes trabajando con agentes,
+
+635
+00:35:48,517 --> 00:35:49,997
+eh, y optimizando completamente.
+
+636
+00:35:49,996 --> 00:35:50,413
+Ajá.
+
+637
+00:35:50,516 --> 00:35:54,313
+Y aun cuando los agentes trabajan con
+agentes, ¿cuáles son las primitivas
+
+638
+00:35:54,313 --> 00:35:58,269
+necesarias? Eh, ¿necesitas un sistema de
+almacenamiento? Eh, ¿ese sistema de
+
+639
+00:35:58,269 --> 00:36:02,542
+almacenamiento necesita tener eDiscovery?
+¿Ese eDiscovery...? Eh, ¿necesitas tener
+
+640
+00:36:02,542 --> 00:36:03,333
+observabilidad?
+
+641
+00:36:03,356 --> 00:36:07,686
+¿Necesitas un sistema de identidad que
+use múltiples modelos, pero que todos
+
+642
+00:36:07,686 --> 00:36:12,306
+tengan un mismo sistema de identidad? Así
+que estos son los pilares fundamentales
+
+643
+00:36:12,306 --> 00:36:16,752
+que tenemos hoy para los sistemas de
+Office o lo que sea, y eso es lo que creo
+
+644
+00:36:16,752 --> 00:36:18,774
+que tendremos en el futuro también.
+
+645
+00:36:18,895 --> 00:36:22,428
+Hablaste de bases de datos, ¿verdad?
+Quiero decir, sabes, me encantaría que
+
+646
+00:36:22,428 --> 00:36:26,201
+todo Excel tuviera un backend de base de
+datos, ¿no? De hecho, me encantaría que
+
+647
+00:36:26,201 --> 00:36:27,347
+eso pasara de inmediato.
+
+648
+00:36:27,356 --> 00:36:27,866
+Ajá.
+
+649
+00:36:27,956 --> 00:36:31,485
+Eh, y esa base de datos es una buena base
+de datos. Es decir, las bases de datos,
+
+650
+00:36:31,485 --> 00:36:33,250
+de hecho, serán algo grande que crecerá.
+
+651
+00:36:33,316 --> 00:36:36,719
+De hecho, si pienso en todos los
+artefactos de Office, uh, mejor
+
+652
+00:36:36,719 --> 00:36:40,880
+estructurados, la capacidad de unir mejor
+lo estructurado y lo no estructurado
+
+653
+00:36:40,880 --> 00:36:44,878
+gracias al trabajo de los agentes. Eso
+hará crecer el negocio subyacente de
+
+654
+00:36:44,878 --> 00:36:49,309
+infraestructura, y resulta que el consumo
+de eso está siendo impulsado por agentes.
+
+655
+00:36:49,309 --> 00:36:53,577
+Se podría decir que todo eso es software
+generado justo a tiempo por una empresa
+
+656
+00:36:53,577 --> 00:36:55,792
+modelo, lo cual también podría ser
+cierto.
+
+657
+00:36:55,975 --> 00:36:59,972
+Si nosotros... Seremos una de esas
+empresas modelo también. Eh, y así
+
+658
+00:36:59,972 --> 00:37:04,557
+construiremos... La competencia podría
+ser, eh, que construiremos un modelo más
+
+659
+00:37:04,557 --> 00:37:09,378
+toda la infraestructura y la proveeremos,
+y luego habrá competencia entre varios de
+
+660
+00:37:09,378 --> 00:37:10,789
+esos que puedan hacerlo.
+
+661
+00:37:10,895 --> 00:37:13,836
+Mmm. Eh, supongo que, hablando de
+empresas de modelos, dicen, 'vale,
+
+662
+00:37:13,836 --> 00:37:17,173
+también seremos una de las... No solo
+tendremos la infraestructura, tendremos
+
+663
+00:37:17,173 --> 00:37:20,466
+el modelo en sí. Ahora mismo, el modelo
+más reciente de Microsoft AI que fue
+
+664
+00:37:20,466 --> 00:37:24,022
+lanzado hace dos meses está en el puesto
+36 en Chatbot Arena y hay una pre- quiero
+
+665
+00:37:24,022 --> 00:37:27,490
+decir, obviamente tienen los derechos de
+propiedad intelectual de OpenAI así que
+
+666
+00:37:27,490 --> 00:37:28,588
+hay una pregunta sobre...
+
+667
+00:37:28,645 --> 00:37:32,068
+Entonces, primero, en la medida en que
+estés de acuerdo con eso, parece estar
+
+668
+00:37:32,068 --> 00:37:35,447
+rezagado, ¿por qué es así? Especialmente
+dado el hecho de que podrías, em...
+
+669
+00:37:35,447 --> 00:37:38,510
+Teóricamente tienes el derecho de
+simplemente bifurcar el monorepo de
+
+670
+00:37:38,510 --> 00:37:41,708
+OpenAI o destilar sus modelos. Em, sí,
+es- especialmente si es una parte
+
+671
+00:37:41,708 --> 00:37:44,907
+importante de tu estrategia que
+necesitamos tener una empresa de modelos
+
+672
+00:37:44,907 --> 00:37:45,177
+líder.
+
+673
+00:37:45,225 --> 00:37:48,989
+Sí, quiero decir, o sea, en primer lugar,
+vamos a utilizar de forma absoluta los
+
+674
+00:37:48,989 --> 00:37:52,421
+modelos de OpenAI, eh, al máximo posible,
+eh, en la totalidad de nuestros
+
+675
+00:37:52,421 --> 00:37:56,091
+productos, ¿no es así? Quiero decir, eso
+es, en mi opinión, lo fundamental que
+
+676
+00:37:56,091 --> 00:37:59,760
+vamos a seguir haciendo durante todo el
+transcurso de los próximos siete años.
+
+677
+00:37:59,946 --> 00:38:04,194
+Eh, y no solo usarlo, eh, sino también
+añadirle valor. Ahí es precisamente donde
+
+678
+00:38:04,194 --> 00:38:08,389
+el analista y este agente de Excel entran
+en juego, y todas estas son cosas que
+
+679
+00:38:08,389 --> 00:38:12,153
+haremos, donde, ya sabes, haremos un
+ajuste fino de RL, haremos algunas
+
+680
+00:38:12,153 --> 00:38:16,133
+ejecuciones de entrenamiento intermedio
+sobre una familia GPT donde tenemos
+
+681
+00:38:16,133 --> 00:38:18,661
+activos de datos únicos y construimos
+capacidad.
+
+682
+00:38:18,725 --> 00:38:22,654
+Eh, el modelo MAI, la forma en que creo
+que lo vamos a considerar es, la buena
+
+683
+00:38:22,654 --> 00:38:26,533
+noticia aquí, de hecho, con el nuevo
+acuerdo, es que incluso podemos ser muy,
+
+684
+00:38:26,533 --> 00:38:30,309
+muy claros en que vamos a construir un
+equipo de superinteligencia de clase
+
+685
+00:38:30,309 --> 00:38:34,035
+mundial y perseguirlo con una gran
+ambición. Pero al mismo tiempo, también
+
+686
+00:38:34,035 --> 00:38:37,811
+vamos a usar este tiempo para ser
+inteligentes sobre cómo usar ambas cosas.
+
+687
+00:38:38,046 --> 00:38:41,829
+Así que eso significa que, por un lado,
+estaremos muy centrados en el desarrollo
+
+688
+00:38:41,829 --> 00:38:44,798
+de productos, y por el otro, nos
+enfocaremos intensamente en la
+
+689
+00:38:44,798 --> 00:38:48,246
+investigación. En otras palabras, dado
+que tenemos acceso, ajá, a toda la
+
+690
+00:38:48,246 --> 00:38:52,030
+familia GPT, lo último que quiero evitar
+es usar mis FLOPs de una manera que sea
+
+691
+00:38:52,030 --> 00:38:54,903
+meramente duplicativa y que no aporte un
+valor significativo.
+
+692
+00:38:54,946 --> 00:38:59,690
+Así que quiero poder tomar los FLOPs que
+utilizamos para generar una familia GPT y
+
+693
+00:38:59,690 --> 00:39:04,492
+maximizar su valor, mientras mis FLOPs de
+MAI se están empleando para... Tomemos el
+
+694
+00:39:04,492 --> 00:39:09,119
+modelo de imágenes que lanzamos, que creo
+que este lanzamiento, uh, se posiciona
+
+695
+00:39:09,119 --> 00:39:11,989
+como el número nueve en el ámbito de las
+imágenes.
+
+696
+00:39:12,145 --> 00:39:16,166
+Sabes, lo estamos usando, sabes, tanto
+para la optimización de costos, está en
+
+697
+00:39:16,166 --> 00:39:20,135
+Copilot, está en Bing, y vamos a usar
+eso. Tenemos nuestro modelo de audio en
+
+698
+00:39:20,135 --> 00:39:24,157
+Copilot, que realmente tiene personalidad
+y todo lo demás. Lo optimizamos para
+
+699
+00:39:24,157 --> 00:39:28,231
+nuestro producto. Así que haremos eso.
+Incluso en la LM Arena, empezamos con el
+
+700
+00:39:28,231 --> 00:39:30,581
+de texto, creo que fue, debutó en
+nueve-trece.
+
+701
+00:39:31,066 --> 00:39:35,429
+Y por cierto, se hizo solo con, no sé,
+¿15.000 H100? Y era un modelo muy
+
+702
+00:39:35,429 --> 00:39:40,285
+pequeño. Y, uh, fue de nuevo para probar
+la capacidad central, el seguimiento de
+
+703
+00:39:40,285 --> 00:39:44,834
+instrucciones y todo lo demás, lo cual,
+sabes, queríamos asegurarnos de que
+
+704
+00:39:44,834 --> 00:39:47,784
+podíamos igualar lo que era de última
+generación.
+
+705
+00:39:47,826 --> 00:39:51,635
+Y eso nos muestra, dadas las leyes de
+escalado, lo que somos capaces de hacer
+
+706
+00:39:51,635 --> 00:39:55,595
+si le diéramos más FLOPs, ¿verdad? Así
+que lo siguiente que haremos es un modelo
+
+707
+00:39:55,595 --> 00:39:59,505
+omni donde tomaremos el trabajo que hemos
+hecho en audio, lo que hemos hecho en
+
+708
+00:39:59,505 --> 00:40:03,615
+imagen y lo que hemos hecho en texto. Esa
+será la próxima parada en el lado de MAI.
+
+709
+00:40:03,665 --> 00:40:06,952
+Así que, cuando reflexiono sobre la hoja
+de ruta de MAI, vamos a construir un
+
+710
+00:40:06,952 --> 00:40:10,282
+equipo de superinteligencia de primera
+categoría. Vamos a continuar lanzando y
+
+711
+00:40:10,282 --> 00:40:12,488
+desarrollando abiertamente algunos de
+estos modelos.
+
+712
+00:40:12,665 --> 00:40:17,272
+Estarán en nuestros productos porque
+serán amigables con la latencia, con los
+
+713
+00:40:17,272 --> 00:40:21,333
+costos, o lo que sea, o tendrán alguna
+capacidad especial. Y haremos
+
+714
+00:40:21,333 --> 00:40:26,062
+investigación real para estar listos para
+los próximos cinco, seis, siete, ocho
+
+715
+00:40:26,062 --> 00:40:30,730
+grandes avances, que son necesarios en
+esta marcha hacia la superinteligencia.
+
+716
+00:40:30,745 --> 00:40:34,910
+Así que, creo que eso es... Y mientras
+aprovechamos la gran ventaja que tenemos
+
+717
+00:40:34,910 --> 00:40:38,862
+de contar con la familia GPT, sobre la
+cual podemos construir y desarrollar
+
+718
+00:40:38,862 --> 00:40:39,289
+también.
+
+719
+00:40:39,305 --> 00:40:39,722
+Entiendo.
+
+720
+00:40:39,785 --> 00:40:43,832
+Digamos que avanzamos siete años, [uhm]
+ya no tienes acceso a los modelos de
+
+721
+00:40:43,832 --> 00:40:47,988
+OpenAI. ¿Cómo se genera confianza, o qué
+hace Microsoft para asegurarse de que
+
+722
+00:40:47,988 --> 00:40:52,090
+lidera o tiene un laboratorio de IA
+puntero, verdad? Hoy, ya sabes, es OpenAI
+
+723
+00:40:52,090 --> 00:40:55,544
+quien ha desarrollado muchos de los
+avances, ya sea en escalado o
+
+724
+00:40:55,544 --> 00:40:59,754
+razonamiento, o Google ha desarrollado
+todos los avances como los Transformers.
+
+725
+00:40:59,846 --> 00:41:03,580
+Eh, pero- pero también es un gran juego
+de talento, ¿verdad? Sabes, has visto a
+
+726
+00:41:03,580 --> 00:41:07,076
+Meta gastar, sabes, más de 20 mil
+millones de dólares en talento, ¿verdad?
+
+727
+00:41:07,076 --> 00:41:10,811
+Eh, has visto a Anthropic, eh, robar a
+todo el equipo de razonamiento Blueshift
+
+728
+00:41:10,811 --> 00:41:14,593
+de Google el año pasado. Has visto a Meta
+robar un gran equipo de razonamiento y
+
+729
+00:41:14,593 --> 00:41:16,796
+post-entrenamiento de Google más
+recientemente.
+
+730
+00:41:16,826 --> 00:41:21,066
+Estas guerras por el talento son muy
+intensivas en capital. Son las que, se
+
+731
+00:41:21,066 --> 00:41:25,479
+podría decir, si gastas cien mil millones
+en infraestructura, deberías también
+
+732
+00:41:25,479 --> 00:41:29,949
+invertir una cantidad X de dinero en la
+gente que la usa, para que logren estos
+
+733
+00:41:29,949 --> 00:41:34,133
+nuevos avances de forma más eficiente.
+¿Qué confianza podemos tener en que
+
+734
+00:41:34,133 --> 00:41:38,374
+Microsoft tendrá un equipo de clase
+mundial que pueda lograr estos avances?
+
+735
+00:41:38,446 --> 00:41:42,164
+Y, sabes, una vez que decides abrir el
+grifo del dinero, estás siendo bastante
+
+736
+00:41:42,164 --> 00:41:45,738
+eficiente con el capital ahora, lo cual
+es inteligente, al parecer, para no
+
+737
+00:41:45,738 --> 00:41:49,070
+malgastar dinero en trabajo duplicado.
+Pero una vez que decides que es
+
+738
+00:41:49,070 --> 00:41:52,981
+necesario, ¿cómo se puede decir, "Ah sí,
+ahora podemos ascender a, somos el modelo
+
+739
+00:41:52,981 --> 00:41:54,189
+entre los cinco mejores"?
+
+740
+00:41:54,185 --> 00:41:58,025
+Bueno, mira, quiero decir, al final del
+día, vamos a construir un equipo de clase
+
+741
+00:41:58,025 --> 00:42:01,721
+mundial y ya tenemos un equipo de clase
+mundial que está empezando a formarse,
+
+742
+00:42:01,721 --> 00:42:05,562
+¿verdad? Con Mustafa llegando, tenemos a
+Karen, tenemos a Amar Subramaniam, quien
+
+743
+00:42:05,562 --> 00:42:09,402
+hizo gran parte del post-entrenamiento en
+Gemini, Tufai, quien está en Microsoft,
+
+744
+00:42:09,402 --> 00:42:13,243
+Nando, quien hizo gran parte del trabajo
+multimedia en DeepMind, está allí. Y así
+
+745
+00:42:13,243 --> 00:42:15,547
+que vamos a construir un equipo de clase
+mundial.
+
+746
+00:42:15,586 --> 00:42:20,028
+Y de hecho, creo que incluso a finales de
+esta misma semana, Mustafa publicará
+
+747
+00:42:20,028 --> 00:42:24,296
+algo, ya saben, un poco más de claridad
+sobre lo que nuestro laboratorio se
+
+748
+00:42:24,296 --> 00:42:28,796
+propone hacer. Creo que lo que quiero que
+el mundo sepa, quizás, es que vamos a
+
+749
+00:42:28,796 --> 00:42:32,257
+construir la infraestructura que
+soportará múltiples modelos.
+
+750
+00:42:32,366 --> 00:42:36,365
+Verás, nosotros... Porque, desde una
+perspectiva de hiperescala, queremos
+
+751
+00:42:36,365 --> 00:42:40,641
+construir la flota de infraestructura más
+escalable, que sea capaz de soportar
+
+752
+00:42:40,641 --> 00:42:45,085
+todos los modelos que el mundo necesita,
+ya sean de código abierto o, obviamente,
+
+753
+00:42:45,085 --> 00:42:49,084
+de OpenAI y otros. Y ese es, por así
+decirlo, uno de nuestros trabajos...
+
+754
+00:42:49,126 --> 00:42:52,341
+La segunda es nuestra propia capacidad de
+desarrollo de modelos, utilizaremos
+
+755
+00:42:52,341 --> 00:42:55,386
+absolutamente el modelo de OpenAI en
+nuestros productos, y comenzaremos a
+
+756
+00:42:55,386 --> 00:42:58,686
+desarrollar nuestros propios modelos. Y
+es posible que, como en GitHub Copilot,
+
+757
+00:42:58,686 --> 00:42:59,574
+se utilice Anthropic.
+
+758
+00:42:59,606 --> 00:43:04,455
+Así que incluso tendremos otros modelos
+de vanguardia que también se integrarán
+
+759
+00:43:04,455 --> 00:43:09,305
+en nuestros productos. Así que creo que,
+en última instancia, la evaluación del
+
+760
+00:43:09,305 --> 00:43:14,217
+producto, en cómo cumple una tarea o un
+trabajo específico, es lo que importa. Y
+
+761
+00:43:14,217 --> 00:43:18,321
+a partir de ahí nos basaremos en la
+integración vertical necesaria.
+
+762
+00:43:18,406 --> 00:43:22,509
+Eh, sabiendo que mientras tu servicio,
+sabes, sirva bien al mercado con el
+
+763
+00:43:22,509 --> 00:43:24,814
+producto, siempre puedes optimizar
+costos.
+
+764
+00:43:24,866 --> 00:43:28,111
+Mm-hmm. P- pero hay una pregunta que
+surge de aquí en adelante. Así que, en
+
+765
+00:43:28,111 --> 00:43:31,050
+este momento, tenemos modelos que
+presentan esta distinción entre el
+
+766
+00:43:31,050 --> 00:43:34,120
+entrenamiento y la inferencia. Y se
+podría argumentar que existe una d-
+
+767
+00:43:34,120 --> 00:43:36,708
+diferencia cada vez más pequeña entre los
+distintos modelos.
+
+768
+00:43:37,146 --> 00:43:40,348
+Eh, en el futuro, si realmente esperas
+algo como inteligencia a nivel humano,
+
+769
+00:43:40,348 --> 00:43:43,550
+los humanos aprenden en el trabajo.
+Sabes, si piensas en tus últimos 30 años,
+
+770
+00:43:43,550 --> 00:43:46,837
+¿qué hace que los tokens de Satya sean
+tan valiosos? Son los últimos 30 años de
+
+771
+00:43:46,837 --> 00:43:50,081
+sabiduría y experiencia que has ganado en
+Microsoft. Y eventualmente tendremos
+
+772
+00:43:50,081 --> 00:43:53,241
+modelos, si alcanzan el nivel humano, que
+tendrán esta capacidad de aprender
+
+773
+00:43:53,241 --> 00:43:54,421
+continuamente en el trabajo.
+
+774
+00:43:54,486 --> 00:43:58,509
+Y eso aportará tanto valor a la empresa
+modelo que va por delante, al menos en mi
+
+775
+00:43:58,509 --> 00:44:02,230
+opinión. Porque tienes copias de un
+modelo ampliamente desplegadas por toda
+
+776
+00:44:02,230 --> 00:44:06,053
+la economía, aprendiendo a hacer cada
+trabajo. Y a diferencia de los humanos,
+
+777
+00:44:06,053 --> 00:44:09,724
+pueden amalgamar sus aprendizajes a ese
+modelo. Así que hay una especie de
+
+778
+00:44:09,724 --> 00:44:13,496
+aprendizaje continuo, una especie de
+bucle de retroalimentación exponencial,
+
+779
+00:44:13,496 --> 00:44:16,312
+que casi parece una especie de explosión
+de inteligencia.
+
+780
+00:44:16,366 --> 00:44:20,425
+Eh, si eso ocurre y Microsoft no es la
+empresa líder en modelos para ese
+
+781
+00:44:20,425 --> 00:44:24,828
+momento, ¿no importa menos esto de, eh,
+sabes, lo que dices de "sustituimos un
+
+782
+00:44:24,828 --> 00:44:29,174
+modelo por otro", etcétera? Porque es
+como si este único modelo supiera hacer
+
+783
+00:44:29,174 --> 00:44:33,177
+cada uno de los trabajos de la economía.
+Los demás de la cola larga no.
+
+784
+00:44:33,286 --> 00:44:38,066
+Sí. No, creo que tu punto sobre si hay un
+modelo, el único más extendido en el
+
+785
+00:44:38,066 --> 00:44:42,536
+mundo, y ve todos los datos, y tiene
+aprendizaje continuo... eso es jaque
+
+786
+00:44:42,536 --> 00:44:44,895
+mate... y sabes, le atinaste, ¿verdad?
+
+787
+00:44:43,446 --> 00:44:43,585
+Sí
+
+788
+00:44:44,906 --> 00:44:50,279
+Quiero decir, la realidad, o al menos la
+forma en que yo la percibo, es que el
+
+789
+00:44:50,279 --> 00:44:55,583
+mundo, incluso hoy en día, a pesar de
+toda la supuesta dominancia de un único
+
+790
+00:44:55,583 --> 00:44:57,676
+modelo, simplemente no es así.
+
+791
+00:44:57,786 --> 00:45:02,991
+Eh, uh, tomemos la programación. Hay
+múltiples modelos. De hecho, cada día es
+
+792
+00:45:02,991 --> 00:45:07,855
+menos frecuente que no haya un modelo que
+se esté implementando de forma
+
+793
+00:45:07,855 --> 00:45:08,745
+generalizada.
+
+794
+00:45:08,766 --> 00:45:12,122
+De hecho, hay múltiples modelos que se
+están implementando. Es como las bases de
+
+795
+00:45:12,122 --> 00:45:12,759
+datos, ¿verdad?
+
+796
+00:45:12,886 --> 00:45:17,130
+Siempre es la misma pregunta: "Oye,
+¿puede una sola base de datos ser la que
+
+797
+00:45:17,130 --> 00:45:21,713
+se use en todas partes?" Pero no es así.
+Hay múltiples tipos de bases de datos que
+
+798
+00:45:21,713 --> 00:45:25,901
+se están implementando para diferentes
+casos de uso. Así que creo que habrá
+
+799
+00:45:25,901 --> 00:45:30,258
+algunos efectos de red de aprendizaje
+continuo o de datos, ya sabes, lo que yo
+
+800
+00:45:30,258 --> 00:45:34,389
+llamo liquidez que cualquier modelo
+tiene. ¿Va a ocurrir esto en todos los
+
+801
+00:45:34,389 --> 00:45:34,898
+dominios?
+
+802
+00:45:35,026 --> 00:45:39,312
+No lo creo. ¿Va a pasar en todas las
+geografías? No lo creo. ¿Va a pasar en
+
+803
+00:45:39,312 --> 00:45:43,252
+todos los segmentos? No lo creo.
+¿Ocurrirá en todas las categorías al
+
+804
+00:45:43,252 --> 00:45:47,712
+mismo tiempo? No lo creo. Por lo tanto,
+siento que el espacio de diseño es tan
+
+805
+00:45:47,712 --> 00:45:52,231
+grande que hay muchísimas oportunidades.
+Pero tu punto fundamental es tener una
+
+806
+00:45:52,231 --> 00:45:56,344
+capacidad que esté en la capa de
+infraestructura, en la capa de modelo y
+
+807
+00:45:56,344 --> 00:45:57,735
+en la capa de andamiaje.
+
+808
+00:45:58,046 --> 00:46:02,008
+Y luego poder componer estas cosas no
+solo como una pila vertical, sino poder
+
+809
+00:46:02,008 --> 00:46:05,814
+componer cada elemento para su propósito,
+¿verdad? No puedes construir una
+
+810
+00:46:05,814 --> 00:46:09,776
+infraestructura optimizada para un solo
+modelo. Si haces eso, ¿qué pasa si te
+
+811
+00:46:09,776 --> 00:46:13,425
+quedas atrás? De hecho, toda la
+infraestructura que construiste será un
+
+812
+00:46:13,425 --> 00:46:14,625
+desperdicio, ¿no crees?
+
+813
+00:46:14,686 --> 00:46:18,637
+Necesitas construir una infraestructura
+que sea capaz de dar soporte a múltiples
+
+814
+00:46:18,637 --> 00:46:22,139
+tipos de familias y linajes de modelos.
+De lo contrario, el capital que
+
+815
+00:46:22,139 --> 00:46:26,040
+inviertes, que está optimizado para una
+única arquitectura de modelo, significa
+
+816
+00:46:26,040 --> 00:46:29,892
+que estás a un solo ajuste de un avance
+tipo MOE que suceda con otra persona y
+
+817
+00:46:29,892 --> 00:46:33,593
+toda tu topología de red se vuelve
+completamente obsoleta. Entonces, eso es
+
+818
+00:46:33,593 --> 00:46:34,794
+algo aterrador, ¿verdad?
+
+819
+00:46:34,826 --> 00:46:38,107
+Así que, por lo tanto, uno quiere la
+infraestructura para soportar lo que
+
+820
+00:46:38,107 --> 00:46:41,570
+pueda venir, de hecho, en su propia
+familia de modelos y en otras familias de
+
+821
+00:46:41,570 --> 00:46:45,124
+modelos. Y hay que ser abierto. Si te
+tomas en serio el negocio de hiperescala,
+
+822
+00:46:45,124 --> 00:46:46,993
+tienes que tomarte eso en serio, ¿verdad?
+
+823
+00:46:47,086 --> 00:46:50,681
+Si te tomas en serio ser una empresa
+modelo, tienes que decir básicamente:
+
+824
+00:46:50,681 --> 00:46:54,474
+"Oye, ¿cuáles son las formas en que la
+gente puede realmente hacer cosas sobre
+
+825
+00:46:54,474 --> 00:46:58,168
+el modelo para que yo pueda tener un
+ecosistema de ISV?". A menos que piense
+
+826
+00:46:58,168 --> 00:47:00,089
+que voy a dominar todas las categorías.
+
+827
+00:47:00,106 --> 00:47:04,653
+Eso simplemente no puede ser. Entonces,
+entonces no tendrás un negocio de API. Y
+
+828
+00:47:04,653 --> 00:47:08,510
+eso, por definición, significará que
+nunca serás, eh, una empresa de
+
+829
+00:47:08,510 --> 00:47:12,885
+plataforma que pueda desplegarse con
+éxito en todas partes, ¿verdad? Así que,
+
+830
+00:47:12,885 --> 00:47:16,799
+por lo tanto, la estructura de la
+industria es tal que, eh, realmente
+
+831
+00:47:16,799 --> 00:47:19,332
+forzará a la gente a especializarse. Y
+eso...
+
+832
+00:47:19,386 --> 00:47:24,055
+En esa especialización, una empresa como
+Microsoft debería competir en cada una de
+
+833
+00:47:24,055 --> 00:47:28,609
+las capas por sus propios méritos, eh,
+pero no pensar que todo esto es un camino
+
+834
+00:47:28,609 --> 00:47:32,357
+directo hacia el "game, set, match",
+donde yo simplemente compongo
+
+835
+00:47:32,357 --> 00:47:36,104
+verticalmente todas estas capas. Eso, eso
+sencillamente no ocurre.
+
+836
+00:47:36,886 --> 00:47:40,183
+Así que, según los cálculos de Dylan,
+habrá medio billón en inversión de
+
+837
+00:47:40,183 --> 00:47:43,851
+capital en IA solo el próximo año. Y los
+laboratorios ya están gastando miles de
+
+838
+00:47:43,851 --> 00:47:47,381
+millones de dólares para captar a los
+mejores talentos de investigación. Pero
+
+839
+00:47:47,381 --> 00:47:50,817
+nada de eso importa si no hay suficientes
+datos de alta calidad con los que
+
+840
+00:47:50,817 --> 00:47:54,393
+entrenar. Sin los datos adecuados, ni
+siquiera la infraestructura más avanzada
+
+841
+00:47:54,393 --> 00:47:57,412
+y el talento de clase mundial se
+traducirán en valor final para el
+
+842
+00:47:57,412 --> 00:47:57,783
+usuario.
+
+843
+00:47:57,826 --> 00:48:01,433
+Ahí es donde entra LabelBox. LabelBox
+produce datos de alta calidad a gran
+
+844
+00:48:01,433 --> 00:48:05,089
+escala, potenciando cualquier capacidad
+que quieras que tenga tu modelo. No
+
+845
+00:48:05,089 --> 00:48:07,955
+importa si necesitas un agente de
+codificación que necesite
+
+846
+00:48:07,955 --> 00:48:11,612
+retroalimentación detallada sobre
+trayectorias de varias horas, o un modelo
+
+847
+00:48:11,612 --> 00:48:14,972
+de robótica que necesite miles de
+muestras en tareas cotidianas, o un
+
+848
+00:48:14,972 --> 00:48:18,925
+agente de voz que también pueda realizar
+acciones del mundo real para el usuario,
+
+849
+00:48:18,925 --> 00:48:20,210
+como reservarles un vuelo.
+
+850
+00:48:20,326 --> 00:48:25,530
+Para ser claros, esto no son solo datos
+listos para usar. LabelBox puede diseñar
+
+851
+00:48:25,530 --> 00:48:30,800
+y lanzar una tubería de datos a escala de
+producción personalizada en 48 horas, y
+
+852
+00:48:30,800 --> 00:48:36,005
+pueden conseguirte decenas de miles de
+ejemplos específicos en semanas. Ponte en
+
+853
+00:48:36,005 --> 00:48:40,155
+contacto en labelbox.com/dwarkesh. Muy
+bien, volvamos con Satya.
+
+854
+00:48:42,129 --> 00:48:45,609
+Así que, el año pasado, Microsoft estaba
+en camino de convertirse en el proveedor
+
+855
+00:48:45,609 --> 00:48:48,828
+de infraestructura más grande, uh, con
+mucha diferencia. Ustedes fueron los
+
+856
+00:48:48,828 --> 00:48:51,700
+primeros en el 23, así que salieron,
+adquirieron todos los recursos
+
+857
+00:48:51,700 --> 00:48:55,093
+necesarios: el arrendamiento de centros
+de datos, el inicio de la construcción,
+
+858
+00:48:55,093 --> 00:48:58,617
+la seguridad de la energía, todo. Iban a
+un ritmo para superar a Amazon en el 26 o
+
+859
+00:48:58,617 --> 00:49:01,401
+en el 27. Um, pero, sin duda, para el 28
+ya los habrían superado.
+
+860
+00:49:01,589 --> 00:49:05,351
+Eh, desde entonces, sabes, en lo que
+llamamos la segunda mitad del año pasado,
+
+861
+00:49:05,351 --> 00:49:09,016
+Microsoft hizo una gran pausa, ¿no?,
+donde dejaron ir un montón de sitios de
+
+862
+00:49:09,016 --> 00:49:12,729
+arrendamiento que iban a tomar, que luego
+Google, Meta, eh, Amazon en algunos
+
+863
+00:49:12,729 --> 00:49:16,492
+casos, Oracle, eh, tomaron esos sitios.
+Estamos en uno de los centros de datos
+
+864
+00:49:16,492 --> 00:49:20,450
+más grandes del mundo, así que obviamente
+no es todo. Ustedes se están expandiendo
+
+865
+00:49:20,450 --> 00:49:24,065
+como locos, eh, pero hay sitios en los
+que simplemente dejaron de trabajar.
+
+866
+00:49:24,049 --> 00:49:24,513
+Entiendo.
+
+867
+00:49:24,990 --> 00:49:26,801
+¿Pero por qué, por qué hiciste esto,
+verdad?
+
+868
+00:49:26,950 --> 00:49:31,592
+Sí, quiero decir, lo fundamental que
+nosotros... Esto nos remite un poco a qué
+
+869
+00:49:31,592 --> 00:49:34,426
+es realmente el negocio de hiperescala,
+¿verdad?
+
+870
+00:49:34,450 --> 00:49:39,261
+Una de las decisiones clave que tomamos
+fue que si vas a desarrollar Azure para
+
+871
+00:49:39,261 --> 00:49:44,010
+que sea realmente fantástico en todas las
+diferentes etapas de la inteligencia
+
+872
+00:49:44,010 --> 00:49:48,389
+artificial, desde el entrenamiento hasta
+el entrenamiento intermedio, la
+
+873
+00:49:48,389 --> 00:49:53,077
+generación de datos y la inferencia,
+simplemente necesitamos una fungibilidad
+
+874
+00:49:53,077 --> 00:49:54,372
+completa de la flota.
+
+875
+00:49:54,450 --> 00:50:00,690
+Y, y entonces, toda esa situación nos
+llevó a no construir, básicamente, una
+
+876
+00:50:00,690 --> 00:50:06,431
+gran cantidad de capacidad con un
+conjunto particular de generaciones.
+
+877
+00:50:06,549 --> 00:50:10,877
+Uh, porque lo otro que hay que darse
+cuenta es que, habiendo de hecho, hasta
+
+878
+00:50:10,877 --> 00:50:14,859
+el momento, multiplicado por diez cada
+dieciocho meses la capacidad de
+
+879
+00:50:14,859 --> 00:50:19,129
+entrenamiento suficiente para los
+diversos modelos de OpenAI, uh, nos dimos
+
+880
+00:50:19,129 --> 00:50:22,245
+cuenta de que, um, la clave es mantenerse
+en esa senda.
+
+881
+00:50:22,390 --> 00:50:26,006
+Pero lo más importante es, de hecho,
+lograr un equilibrio, no solo para
+
+882
+00:50:26,006 --> 00:50:29,830
+entrenar, sino para poder poner estos
+modelos al servicio de todo el mundo.
+
+883
+00:50:29,830 --> 00:50:33,550
+Porque, al fin y al cabo, la tasa de
+monetización es lo que nos permitirá
+
+884
+00:50:33,550 --> 00:50:37,425
+incluso mantener la financiación. Y la
+infraestructura que vamos a necesitar
+
+885
+00:50:37,425 --> 00:50:41,249
+para poder soportar, como ya mencioné,
+múltiples modelos y todo lo que ello
+
+886
+00:50:41,249 --> 00:50:41,662
+implica.
+
+887
+00:50:41,649 --> 00:50:44,852
+Así que una vez que dijimos que ese era
+el caso, desde entonces, simplemente
+
+888
+00:50:44,852 --> 00:50:48,013
+corregimos el rumbo hacia donde... el
+camino en el que estamos, ¿verdad? Si
+
+889
+00:50:48,013 --> 00:50:51,089
+observo el camino en el que nos
+encontramos, estamos iniciando muchos más
+
+890
+00:50:51,089 --> 00:50:51,772
+proyectos ahora.
+
+891
+00:50:52,049 --> 00:50:56,112
+Eh, estamos adquiriendo toda la capacidad
+gestionada que nos sea posible, ya sea
+
+892
+00:50:56,112 --> 00:51:00,125
+para construirla, ya sea para arrendarla,
+o incluso GPUs como servicio. Pero la
+
+893
+00:51:00,125 --> 00:51:03,932
+estamos desarrollando para donde vemos la
+demanda, eh, y las necesidades de
+
+894
+00:51:03,932 --> 00:51:07,790
+servicio, y también nuestras necesidades
+de capacitación. Y no queríamos ser
+
+895
+00:51:07,790 --> 00:51:11,854
+simplemente un proveedor exclusivo para
+una sola empresa, eh, y tener un volumen
+
+896
+00:51:11,854 --> 00:51:14,015
+de negocio tan masivo con un único
+cliente.
+
+897
+00:51:14,009 --> 00:51:17,519
+Eso... eso no es un negocio, ¿verdad? Eso
+es como, uh, sabes, uno debería estar
+
+898
+00:51:17,519 --> 00:51:21,209
+integrado verticalmente con esa compañía.
+Uh, y entonces, considerando la situación
+
+899
+00:51:21,209 --> 00:51:24,359
+de que OpenAI iba a ser una empresa
+independiente y exitosa, lo cual es
+
+900
+00:51:24,359 --> 00:51:27,779
+absolutamente fantástico, ¿no crees? Creo
+que tiene mucho sentido, ¿verdad? E
+
+901
+00:51:27,779 --> 00:51:31,469
+incluso Meta podría utilizar capacidad de
+terceros, pero en última instancia, todos
+
+902
+00:51:31,469 --> 00:51:32,910
+ellos van a ser de primera mano.
+
+903
+00:51:19,370 --> 00:51:19,787
+Así es.
+
+904
+00:51:33,009 --> 00:51:36,469
+Uh, para cualquiera que opere a gran
+escala, [pausa] serán, ya sabes, [pausa]
+
+905
+00:51:36,469 --> 00:51:40,112
+se convertirán en un hiperescalador por
+sí mismos. Y para mí, [pausa] el objetivo
+
+906
+00:51:40,112 --> 00:51:43,800
+era construir una flota de hiperescala y
+nuestra propia infraestructura de cómputo
+
+907
+00:51:43,800 --> 00:51:44,665
+para investigación.
+
+908
+00:51:44,770 --> 00:51:49,708
+Y ese fue el ajuste, ¿sabes? Y, por eso,
+me siento muy, muy bien. Ah, por cierto,
+
+909
+00:51:49,708 --> 00:51:54,585
+la otra cosa es que no quería quedarme
+atascado con la escala masiva de una sola
+
+910
+00:51:54,585 --> 00:51:59,400
+generación. Quiero decir, acabamos de ver
+los GB200. Quiero decir, los GB300 ya
+
+911
+00:51:59,400 --> 00:52:00,141
+vienen, ¿no?
+
+912
+00:52:00,189 --> 00:52:04,535
+Y para cuando lleguemos a la Vera Rubin,
+a la Vera Rubin Ultra, ¿adivinen qué? El
+
+913
+00:52:04,535 --> 00:52:08,393
+centro de datos se verá muy, muy
+diferente, porque la potencia por rack,
+
+914
+00:52:08,393 --> 00:52:11,055
+la potencia por fila, será drásticamente
+distinta.
+
+915
+00:52:11,250 --> 00:52:14,893
+Los requisitos de refrigeración van a
+ser, uh, tan distintos. Y eso, eso
+
+916
+00:52:14,893 --> 00:52:18,690
+significa que no quiero simplemente
+ponerme a construir una cantidad enorme
+
+917
+00:52:18,690 --> 00:52:22,692
+de gigavatios que sean únicamente para
+una sola generación, una sola familia. Y
+
+918
+00:52:22,692 --> 00:52:26,233
+por lo tanto, creo que el ritmo es
+importante, y la fungibilidad, y la
+
+919
+00:52:26,233 --> 00:52:27,875
+ubicación también es importante.
+
+920
+00:52:28,149 --> 00:52:31,910
+Eh, la diversidad de cargas de trabajo es
+importante, la diversidad de clientes es
+
+921
+00:52:31,910 --> 00:52:35,161
+importante, y es hacia donde nos
+dirigimos. Lo otro que hemos aprendido
+
+922
+00:52:35,161 --> 00:52:38,737
+mucho es que cada carga de trabajo de
+inteligencia artificial no solo requiere
+
+923
+00:52:38,737 --> 00:52:42,173
+el acelerador de IA, sino que también
+necesita muchísimas otras cosas, ¿no?
+
+924
+00:52:42,230 --> 00:52:45,430
+Y de hecho, una parte considerable de
+nuestra estructura de margen se generará
+
+925
+00:52:45,430 --> 00:52:48,548
+a partir de esas otras áreas. Y por
+consiguiente, queremos desarrollar Azure
+
+926
+00:52:48,548 --> 00:52:51,249
+para que sea una plataforma
+verdaderamente fantástica para la gran
+
+927
+00:52:51,249 --> 00:52:54,492
+mayoría de las cargas de trabajo, porque
+ese es el núcleo de nuestro negocio de
+
+928
+00:52:54,492 --> 00:52:57,775
+hiperescala, al mismo tiempo que somos
+plenamente conscientes de que debemos ser
+
+929
+00:52:57,775 --> 00:53:00,851
+extremadamente competitivos, empezando
+desde el hardware más básico para el
+
+930
+00:53:00,851 --> 00:53:02,431
+entrenamiento de más alto rendimiento.
+
+931
+00:53:02,649 --> 00:53:07,160
+Pero eso no puede eclipsar el resto del
+negocio, ¿verdad? Porque no nos dedicamos
+
+932
+00:53:07,160 --> 00:53:11,447
+simplemente a hacer cinco contratos con
+cinco clientes, siendo su servicio de
+
+933
+00:53:11,447 --> 00:53:15,677
+bare metal. Ese no es un negocio de
+Microsoft. Puede que sea un negocio para
+
+934
+00:53:15,677 --> 00:53:19,963
+otra empresa y eso está bien. Lo que
+hemos dicho es que estamos en el negocio
+
+935
+00:53:19,963 --> 00:53:24,475
+de hiperescala, que es, al fin y al cabo,
+un negocio de cola larga para cargas de
+
+936
+00:53:24,475 --> 00:53:25,265
+trabajo de IA.
+
+937
+00:53:25,670 --> 00:53:29,857
+Y para poder lograr eso, contaremos con
+capacidades líderes de 'bare metal como
+
+938
+00:53:29,857 --> 00:53:33,990
+servicio' para un conjunto de modelos,
+incluyendo los nuestros. Uh, y ese creo
+
+939
+00:53:33,990 --> 00:53:35,654
+que es el equilibrio que se ve.
+
+940
+00:53:35,710 --> 00:53:39,306
+Otra clase de pregunta que surge en torno
+a todo este tema de la fungibilidad es,
+
+941
+00:53:39,306 --> 00:53:42,633
+bien, no está donde tú lo querrías,
+¿verdad? Preferirías tenerlo en un buen
+
+942
+00:53:42,633 --> 00:53:45,555
+centro de población como Atlanta, ya que
+estamos aquí, ¿no es así?
+
+943
+00:53:45,689 --> 00:53:49,540
+Uhm, también está la cuestión de, bueno,
+¿cuánto importa eso si a medida que el
+
+944
+00:53:49,540 --> 00:53:53,243
+horizonte de las tareas de IA se expande,
+bueno, en realidad... ya sabes, 30
+
+945
+00:53:53,243 --> 00:53:56,848
+segundos para una instrucción de
+razonamiento o, ya sabes, 30 minutos para
+
+946
+00:53:56,848 --> 00:54:00,748
+una investigación profunda o, ya sabes,
+serán horas para los agentes de software
+
+947
+00:54:00,748 --> 00:54:04,106
+en algún momento, uhm, y días y así
+sucesivamente, el tiempo hasta la
+
+948
+00:54:04,106 --> 00:54:06,772
+interacción humana? ¿Por qué importa si
+es... si es...?
+
+949
+00:53:52,870 --> 00:53:53,287
+Gran pregunta.
+
+950
+00:54:06,290 --> 00:54:08,054
+Sí, es una gran, es una gran pregunta.
+
+951
+00:54:08,290 --> 00:54:09,915
+Eh, ¿ubicación A, B o C?
+
+952
+00:54:09,950 --> 00:54:13,733
+Así es, precisamente. De hecho, esa es
+otra de las razones por las que queremos
+
+953
+00:54:13,733 --> 00:54:16,886
+pensar en, eh, cómo es una región de
+Azure y cuál es, de hecho, la
+
+954
+00:54:16,886 --> 00:54:20,378
+interconexión entre las regiones de
+Azure. Así que aquí es donde, creo, a
+
+955
+00:54:20,378 --> 00:54:24,113
+medida que las capacidades del modelo
+evolucionan y el uso de estos tokens, ya
+
+956
+00:54:24,113 --> 00:54:27,750
+sea de forma síncrona o asíncrona,
+evoluciona. Y, de hecho, no querrás estar
+
+957
+00:54:27,750 --> 00:54:29,594
+en una posición desventajosa, ¿verdad?
+
+958
+00:54:29,830 --> 00:54:33,547
+Y aparte de eso, por cierto, ¿cuáles son
+las leyes de residencia de datos, no?
+
+959
+00:54:33,547 --> 00:54:37,169
+¿Dónde yo... O sea, todo el tema de la
+Unión Europea, eh, para nosotros, que
+
+960
+00:54:37,169 --> 00:54:40,742
+literalmente tuvimos que crear un límite
+de datos de la UE, eh, básicamente
+
+961
+00:54:40,742 --> 00:54:44,460
+significaba que no puedes simplemente
+procesar una llamada en cualquier lugar,
+
+962
+00:54:44,460 --> 00:54:47,936
+incluso si es asíncrono. Y por lo tanto,
+quizás necesites tener elementos
+
+963
+00:54:47,936 --> 00:54:51,703
+regionales de alta densidad. Y luego los
+costos de energía y así sucesivamente.
+
+964
+00:54:51,770 --> 00:54:56,750
+Pero tienes toda la razón al señalar que
+la topología, a medida que la
+
+965
+00:54:56,750 --> 00:55:02,379
+desarrollemos, tendrá que evolucionar,
+especialmente en cuanto a los tokens por
+
+966
+00:55:02,379 --> 00:55:08,225
+dólar por vatio. ¿Cuáles son los factores
+económicos? Y superpón eso con el patrón
+
+967
+00:55:08,225 --> 00:55:09,092
+de uso real.
+
+968
+00:55:09,170 --> 00:55:12,708
+Um, el patrón de uso en términos de
+síncrono, asíncrono, pero también ¿cuál
+
+969
+00:55:12,708 --> 00:55:16,199
+es el almacenamiento de cómputo? Porque
+las latencias pueden importar para
+
+970
+00:55:16,199 --> 00:55:19,977
+ciertas cosas. Uh, el almacenamiento más
+vale que esté ahí. Si tengo una base de
+
+971
+00:55:19,977 --> 00:55:23,372
+datos Cosmos DB cerca para datos de
+sesión o incluso para algo autónomo,
+
+972
+00:55:23,372 --> 00:55:27,054
+entonces eso también tiene que estar en
+algún lugar cerca y así sucesivamente.
+
+973
+00:55:27,054 --> 00:55:30,258
+Así que creo que todas esas
+consideraciones son las que darán forma,
+
+974
+00:55:30,258 --> 00:55:31,693
+um, al negocio de hiperescala.
+
+975
+00:55:31,689 --> 00:55:35,257
+Mm. Sabes, antes de la pausa, estabas,
+estabas, estás, sabes, versus lo que
+
+976
+00:55:35,257 --> 00:55:39,211
+habíamos pronosticado para ti para el 28,
+vas a ser como 12, 13 gigavatios. Y ahora
+
+977
+00:55:39,211 --> 00:55:42,924
+estamos en, sabes, nueve y medio más o
+menos, ¿verdad? Pero sabes, algo que es
+
+978
+00:55:42,924 --> 00:55:46,251
+aún más relevante, ¿verdad? Y es, es,
+sabes, solo quiero que digas más
+
+979
+00:55:46,251 --> 00:55:49,289
+concretamente que este es el negocio en
+el que no quieres estar.
+
+980
+00:55:49,350 --> 00:55:53,641
+Pero, o sea, Oracle pasará de ser como
+una quinta parte de tu tamaño a ser más
+
+981
+00:55:53,641 --> 00:55:57,764
+grande que tú para finales de 2027. Y
+aunque no tenga la calidad de retorno
+
+982
+00:55:57,764 --> 00:56:01,944
+sobre el capital invertido al nivel de
+Microsoft, ¿verdad? Siguen obteniendo
+
+983
+00:56:01,944 --> 00:56:03,560
+márgenes brutos del 35%, ¿no?
+
+984
+00:56:03,630 --> 00:56:07,770
+La cuestión es si es, si no es, si le
+toca, si le conviene, sabes, oye, quizás
+
+985
+00:56:07,770 --> 00:56:11,910
+no es asunto de Microsoft hacer esto,
+pero ahora has creado un hiperescalador.
+
+986
+00:56:11,910 --> 00:56:15,890
+Al rechazar este negocio, al ceder el
+derecho de, uh- ... tanteo, etcétera.
+
+987
+00:56:15,010 --> 00:56:15,195
+Mira, yo, yo-
+
+988
+00:56:15,910 --> 00:56:16,838
+Yo... yo no... no lo estoy...
+
+989
+00:56:16,950 --> 00:56:22,146
+En primer lugar, no, no quiero restarle
+mérito al éxito que ha tenido Oracle- ...
+
+990
+00:56:22,146 --> 00:56:27,083
+eh, al construir su negocio, y les deseo
+lo mejor. Y lo que creo que ya te he
+
+991
+00:56:27,083 --> 00:56:31,956
+respondido es que no tenía sentido para
+nosotros, eh, ser anfitriones de una
+
+992
+00:56:31,956 --> 00:56:36,633
+empresa de un solo modelo, eh, con un RPO
+de horizonte temporal limitado.
+
+993
+00:56:36,633 --> 00:56:39,101
+Digámoslo- ... digámoslo así, ¿verdad?
+
+994
+00:56:21,630 --> 00:56:21,722
+Sí
+
+995
+00:56:39,150 --> 00:56:43,165
+La cuestión que hay que considerar no es
+qué harás en los próximos cinco años,
+
+996
+00:56:43,165 --> 00:56:47,180
+sino qué harás en los próximos cincuenta?
+Eh, porque eso es lo que nosotros...
+
+997
+00:56:47,180 --> 00:56:51,038
+Tomamos nuestras decisiones. Mmm, me
+siento muy bien con nuestra asociación
+
+998
+00:56:51,038 --> 00:56:55,105
+con OpenAI y lo que estamos haciendo.
+Tenemos una buena cartera, eh, cartera de
+
+999
+00:56:55,105 --> 00:56:58,912
+negocios. Les deseamos mucho éxito. De
+hecho, somos compradores incluso de
+
+1000
+00:56:58,912 --> 00:56:59,955
+capacidad de Oracle.
+
+1001
+00:56:59,990 --> 00:57:03,764
+Les deseamos- ... éxito. Pero, sabes, a
+estas alturas, creo que la lógica
+
+1002
+00:57:03,764 --> 00:57:07,905
+industrial de lo que estamos intentando
+hacer es bastante clara, que no se trata
+
+1003
+00:57:07,905 --> 00:57:11,836
+de perseguir... Quiero decir, en primer
+lugar, yo sigo, por cierto, tus, eh,
+
+1004
+00:57:11,836 --> 00:57:15,872
+cosas, ya sea el AWS o el Google y las
+nuestras, lo cual me parece súper útil.
+
+1005
+00:57:16,090 --> 00:57:19,644
+Eh, pero eso no significa que tenga que
+ir detrás de ellos. Eh, tengo que
+
+1006
+00:57:19,644 --> 00:57:23,446
+perseguirlos no solo por el margen bruto
+que puedan llegar a representar en un
+
+1007
+00:57:23,446 --> 00:57:27,100
+determinado período de tiempo. Sabes,
+¿cuál es esta cartera de negocios que
+
+1008
+00:57:27,100 --> 00:57:31,000
+solo Microsoft, de manera única, puede
+abordar y despejar, y que realmente tiene
+
+1009
+00:57:31,000 --> 00:57:34,851
+sentido para nosotros abordar y despejar?
+Y eso es precisamente lo que haremos.
+
+1010
+00:57:19,810 --> 00:57:19,949
+Sí.
+
+1011
+00:57:34,850 --> 00:57:38,304
+Yo, yo supongo que tengo una pregunta,
+incluso retrocediendo de esto, de, okay,
+
+1012
+00:57:38,304 --> 00:57:41,404
+yo, yo entiendo tu punto de que es un
+mejor negocio en el que estar, en
+
+1013
+00:57:41,404 --> 00:57:44,682
+igualdad de condiciones, tener una cola
+larga de clientes de los que puedes
+
+1014
+00:57:44,682 --> 00:57:48,136
+obtener un margen más alto, ¿verdad?, que
+cuando estás sirviendo 'bare metal' a
+
+1015
+00:57:48,136 --> 00:57:49,199
+unos pocos laboratorios.
+
+1016
+00:57:49,210 --> 00:57:52,894
+Pero entonces surge la pregunta de, ¿en
+qué dirección está evolucionando la
+
+1017
+00:57:52,894 --> 00:57:56,530
+industria? Y si realmente creemos que
+estamos en la senda de inteligencias
+
+1018
+00:57:56,530 --> 00:58:00,215
+artificiales cada vez más avanzadas,
+entonces, ¿por qué la estructura de la
+
+1019
+00:58:00,215 --> 00:58:04,248
+industria no es que los OpenAI, Anthropic
+y DeepMind sean la plataforma con la que
+
+1020
+00:58:04,248 --> 00:58:07,485
+la gran mayoría de empresas hacen
+negocios, donde quizás necesiten
+
+1021
+00:58:07,485 --> 00:58:09,875
+hardware, pero ellos son la plataforma
+principal?
+
+1022
+00:58:09,910 --> 00:58:13,545
+¿Cuál es la cola larga que está
+utilizando directamente Azure? Mmm,
+
+1023
+00:58:13,545 --> 00:58:17,015
+porque, como sabes, tú quieres usar el
+núcleo cognitivo general.
+
+1024
+00:58:17,010 --> 00:58:19,146
+¿Pero esos modelos estarán en Azure,
+¿verdad?
+
+1025
+00:58:19,190 --> 00:58:22,750
+Así que cualquier carga de trabajo que
+diga: "Oye, quiero usar, eh, ya sabes,
+
+1026
+00:58:22,750 --> 00:58:26,123
+algún modelo de código abierto y un
+modelo de OpenAI". Es decir, si vas a
+
+1027
+00:58:26,123 --> 00:58:29,777
+Azure Foundry hoy, tienes todos estos
+modelos que puedes aprovisionar por PTUs,
+
+1028
+00:58:29,777 --> 00:58:33,478
+obtener una base de datos Cosmos, obtener
+una base de datos SQL, obtener algo de
+
+1029
+00:58:33,478 --> 00:58:37,133
+almacenamiento, obtener algo de cómputo.
+Así es como se ve una carga de trabajo
+
+1030
+00:58:37,133 --> 00:58:40,459
+real. Una carga de trabajo real no es
+solo llamar a una API a un modelo.
+
+1031
+00:58:40,510 --> 00:58:43,910
+Una carga de trabajo real necesita todas
+estas cosas para poder construir una
+
+1032
+00:58:43,910 --> 00:58:47,399
+aplicación, eh, o para instanciar una
+aplicación. De hecho, las empresas modelo
+
+1033
+00:58:47,399 --> 00:58:50,889
+necesitan eso, ¿no es así?, para poder
+construir cualquier cosa. Simplemente no
+
+1034
+00:58:50,889 --> 00:58:52,723
+es como si tuviera una fábrica de tokens.
+
+1035
+00:58:52,770 --> 00:58:56,438
+Necesito tener todas estas cosas. De eso
+se trata el negocio de hiperescala.
+
+1036
+00:58:56,530 --> 00:59:00,985
+Eh, y no es un solo modelo, sino todos
+estos modelos. Así que si quieres Grok
+
+1037
+00:59:00,985 --> 00:59:05,558
+más, digamos, eh, OpenAI, más un modelo
+de código abierto, ven a Azure Foundry,
+
+1038
+00:59:05,558 --> 00:59:10,013
+despliégalos, crea tu aplicación, aquí
+tienes una base de datos. Eso es más o
+
+1039
+00:59:10,013 --> 00:59:11,948
+menos de lo que trata el negocio.
+
+1040
+00:59:12,210 --> 00:59:15,692
+Eh, existe un negocio aparte que se
+dedica únicamente a ofrecer servicios de
+
+1041
+00:59:15,692 --> 00:59:18,804
+infraestructura de hardware puro a
+empresas de modelado. Y esa es la
+
+1042
+00:59:18,804 --> 00:59:22,101
+discusión sobre cuánto de ese negocio
+quieres abarcar y cuánto no, y qué
+
+1043
+00:59:22,101 --> 00:59:25,631
+implica eso. Es un segmento muy distinto
+del negocio, en el que, eh, nosotros
+
+1044
+00:59:25,631 --> 00:59:29,299
+estamos, y también tenemos límites sobre
+cuánto de eso va a terminar desplazando
+
+1045
+00:59:29,299 --> 00:59:30,832
+al resto de nuestras operaciones.
+
+1046
+00:59:31,070 --> 00:59:33,763
+Pero, es algo así como, al menos, la
+forma en que yo lo veo.
+
+1047
+00:59:34,070 --> 00:59:38,411
+Entonces, hay como dos preguntas aquí,
+¿verdad? Una es: ¿por qué no podrías
+
+1048
+00:59:38,411 --> 00:59:43,105
+simplemente hacer ambas cosas? Y la otra
+es, dado que nuestras estimaciones de tu
+
+1049
+00:59:43,105 --> 00:59:46,097
+capacidad en 2028 son tres gigavatios y
+medio menos.
+
+1050
+00:59:46,170 --> 00:59:50,138
+Claro, podrías haber dedicado eso a la
+capacidad de entrenamiento e inferencia
+
+1051
+00:59:50,138 --> 00:59:54,211
+de OpenAI, pero también podrías haberlo
+dedicado a, oye, estos tres gigavatios y
+
+1052
+00:59:54,211 --> 00:59:58,179
+medio en realidad solo están ejecutando
+Azure, están ejecutando Microsoft 365,
+
+1053
+00:59:58,179 --> 01:00:00,705
+están ejecutando GitHub Copilot. En
+realidad no...
+
+1054
+01:00:00,790 --> 01:00:02,786
+Pude haberlo hecho y no dárselo a OpenAI.
+
+1055
+01:00:02,850 --> 01:00:05,485
+O, o, o quizás quiera construirlo en un
+lugar diferente. Quizás quiera
+
+1056
+01:00:05,485 --> 01:00:08,235
+construirlo en los EAU. Quizás quiera
+construirlo en India. Quizás quiera
+
+1057
+01:00:08,235 --> 01:00:11,367
+construirlo en Europa, ¿verdad? Entonces,
+una de las otras cosas es, como dije, que
+
+1058
+01:00:11,367 --> 01:00:14,194
+donde tenemos verdaderas limitaciones de
+capacidad ahora mismo es dadas las
+
+1059
+01:00:14,194 --> 01:00:16,639
+necesidades regulatorias y las
+necesidades de soberanía de datos.
+
+1060
+01:00:16,639 --> 01:00:18,128
+Tenemos que construir en todo el mundo.
+
+1061
+01:00:18,290 --> 01:00:21,685
+Eh, primero, la capacidad interna es
+súper importante y queremos construirlo
+
+1062
+01:00:21,685 --> 01:00:21,912
+todo.
+
+1063
+01:00:21,930 --> 01:00:25,525
+Pero, una de las cosas que considero al
+mirar hacia el año 2030, es que tengo una
+
+1064
+01:00:25,525 --> 01:00:29,031
+perspectiva bastante global de cómo se
+configura el negocio de Microsoft, tanto
+
+1065
+01:00:29,031 --> 01:00:32,492
+por parte de la propia empresa como de
+terceros. Los terceros, a su vez, están
+
+1066
+01:00:32,492 --> 01:00:36,177
+segmentados por los laboratorios Frontier
+y sus requerimientos, en contraste con la
+
+1067
+01:00:36,177 --> 01:00:39,368
+capacidad de inferencia que deseamos
+construir para múltiples modelos, y
+
+1068
+01:00:39,368 --> 01:00:42,874
+también nuestras propias necesidades de
+cómputo para la investigación, ¿verdad?
+
+1069
+01:00:42,890 --> 01:00:46,256
+Así que eso es todo lo que estoy
+considerando para mi cálculo, en
+
+1070
+01:00:46,256 --> 01:00:48,044
+contraposición a decir, oye, eh...
+
+1071
+01:00:48,070 --> 01:00:52,483
+Creo que señalas muy acertadamente la
+pausa, pero la pausa no se hizo porque
+
+1072
+01:00:52,483 --> 01:00:56,896
+dijéramos: "¡Dios mío, no queremos
+construir eso!". Nos dimos cuenta de que,
+
+1073
+01:00:56,896 --> 01:01:01,133
+oh, queremos construir lo que queremos
+construir de una forma ligeramente
+
+1074
+01:01:01,133 --> 01:01:05,899
+diferente, eh, tanto por el tipo de carga
+de trabajo como por el tipo geográfico y
+
+1075
+01:01:05,899 --> 01:01:07,017
+el momento también.
+
+1076
+01:01:07,030 --> 01:01:10,530
+Es como que seguiremos aumentando
+nuestros gigavatios. Y la gran pregunta
+
+1077
+01:01:10,530 --> 01:01:13,739
+es, ¿a qué velocidad, en qué lugar
+específico y de qué manera, cómo
+
+1078
+01:01:13,739 --> 01:01:17,386
+podríamos aplicarle incluso la Ley de
+Moore a esto, verdad? Lo cual sería...
+
+1079
+01:01:17,490 --> 01:01:21,489
+¿Realmente quiero sobredimensionar tres y
+medio en el año 27, o prefiero distribuir
+
+1080
+01:01:21,489 --> 01:01:25,244
+eso entre el 27 y el 28, sabiendo que una
+de las lecciones más importantes que
+
+1081
+01:01:25,244 --> 01:01:29,097
+obtuvimos, incluso con NVIDIA, fue que su
+ritmo de trabajo se incrementó, eh, en
+
+1082
+01:01:29,097 --> 01:01:33,047
+cuanto a las migraciones de sus modelos?
+Así que ese fue un factor muy importante.
+
+1083
+01:01:33,090 --> 01:01:37,172
+No quería quedarme atascado por cuatro o
+cinco años de depreciación en una, eh,
+
+1084
+01:01:37,172 --> 01:01:41,150
+generación. Y solo quería básicamente
+comprar. De hecho, el consejo de Jensen
+
+1085
+01:01:41,150 --> 01:01:45,180
+para mí fue de dos cosas. Una es: "Oye,
+ejecuta a la velocidad de la luz". Por
+
+1086
+01:01:45,180 --> 01:01:48,740
+eso creo que incluso la ejecución en este
+centro de datos de Atlanta.
+
+1087
+01:01:48,730 --> 01:01:53,207
+O sea, en 90 días, ¿verdad?, entre que lo
+recibimos y lo entregamos para una carga
+
+1088
+01:01:53,207 --> 01:01:57,131
+de trabajo real. Eso es como una
+ejecución a la velocidad de la luz, muy
+
+1089
+01:01:57,131 --> 01:02:01,498
+rápida, por su parte, y por eso quería
+dominarlo bien. Y de esa manera, entonces
+
+1090
+01:02:01,498 --> 01:02:05,256
+estoy construyendo esto con cada
+generación y escalando, y luego cada
+
+1091
+01:02:05,256 --> 01:02:07,909
+cinco años se tiene algo mucho más
+equilibrado...
+
+1092
+01:02:07,910 --> 01:02:11,775
+Así que se convierte realmente en un
+flujo, [eh] para una operación industrial
+
+1093
+01:02:11,775 --> 01:02:15,891
+a gran escala como esta, donde de repente
+no estás desequilibrado, acumulando mucho
+
+1094
+01:02:15,891 --> 01:02:19,757
+en un momento, y luego tomas un hiato
+masivo porque te quedas con todo esto, a
+
+1095
+01:02:19,757 --> 01:02:23,722
+tu punto, en una sola ubicación. Lo cual
+puede ser genial para el entrenamiento,
+
+1096
+01:02:23,722 --> 01:02:27,487
+pero no para la inferencia porque no
+puedo servir aunque sea... Como si todo
+
+1097
+01:02:27,487 --> 01:02:30,851
+fuera asíncrono, pero Europa no me va a
+dejar ir y volver a U-Texas.
+
+1098
+01:02:31,150 --> 01:02:32,496
+Así que eso es todo esto.
+
+1099
+01:02:32,510 --> 01:02:35,509
+¿Cómo puedo yo racionalizar esta
+declaración que hicieron con todo lo que
+
+1100
+01:02:35,509 --> 01:02:38,549
+han estado haciendo ustedes en las
+últimas semanas? Han anunciado acuerdos
+
+1101
+01:02:38,549 --> 01:02:41,840
+importantes con Iris Energy, [um], con
+Nebbius, [um], y también con Lambda Labs,
+
+1102
+01:02:41,840 --> 01:02:45,130
+y hay algunos más que están por venir.
+[Uh], ustedes están saliendo y asegurando
+
+1103
+01:02:45,130 --> 01:02:48,171
+una capacidad que están alquilando
+directamente de los NeoClouds, [um], en
+
+1104
+01:02:48,171 --> 01:02:51,503
+lugar de haberla construido por ustedes
+mismos. ¿Cuál fue el- cuál fue la razón-?
+
+1105
+01:02:51,530 --> 01:02:55,560
+Creo que está bien para nosotros porque
+ahora tenemos... Sabes, cuando tienes
+
+1106
+01:02:55,560 --> 01:02:59,804
+visibilidad de la demanda, que es donde
+la gente lo está construyendo, es genial.
+
+1107
+01:02:59,804 --> 01:03:03,516
+De hecho, incluso tendremos, diría yo,
+sabes, tomaremos arrendamientos,
+
+1108
+01:03:03,516 --> 01:03:07,494
+tomaremos construcciones a medida,
+tomaremos incluso el servicio de usuarios
+
+1109
+01:03:07,494 --> 01:03:11,366
+GP donde no tenemos capacidad, pero
+necesitamos capacidad y alguien más la
+
+1110
+01:03:11,366 --> 01:03:11,684
+tiene.
+
+1111
+01:03:11,810 --> 01:03:15,281
+Eh, y a propósito, incluso me gustaría
+dar la bienvenida a cada NeoCloud para
+
+1112
+01:03:15,281 --> 01:03:17,382
+que simplemente forme parte de nuestro
+mercado.
+
+1113
+01:03:17,630 --> 01:03:22,201
+Eh, porque de nuevo, ¿sabes qué? Si traen
+su capacidad a nuestro mercado, ese
+
+1114
+01:03:22,201 --> 01:03:26,954
+cliente que viene a través de Azure usará
+NeoCloud, lo cual es una gran victoria
+
+1115
+01:03:26,954 --> 01:03:30,984
+para ellos, y usará cómputo,
+almacenamiento, bases de datos, todo lo
+
+1116
+01:03:30,984 --> 01:03:35,496
+demás de Azure. Así que no estoy pensando
+en esto como, sabes, "Oye, debería
+
+1117
+01:03:35,496 --> 01:03:37,181
+acaparar todo eso yo mismo".
+
+1118
+01:03:37,230 --> 01:03:41,666
+Mmm. Eh, entonces mencionaste el tema de
+cómo, ya sabes, estás depreciando este
+
+1119
+01:03:41,666 --> 01:03:46,045
+activo que tiene cinco o seis años, y
+esto es la mayoría, ya sabes, el setenta
+
+1120
+01:03:46,045 --> 01:03:50,424
+y cinco por ciento del TCO de un centro
+de datos, y Jensen se está llevando un
+
+1121
+01:03:50,424 --> 01:03:52,926
+margen del setenta y cinco por ciento de
+eso.
+
+1122
+01:03:53,030 --> 01:03:57,672
+Así que lo que todos los hiperescaladores
+están intentando hacer es desarrollar su
+
+1123
+01:03:57,672 --> 01:04:02,256
+propio acelerador para que puedan reducir
+este costo abrumador de, eh, eh, equipo
+
+1124
+01:04:02,256 --> 01:04:03,804
+para aumentar sus márgenes.
+
+1125
+01:04:03,870 --> 01:04:07,579
+Sí, y luego, sabes, cuando ves dónde
+están, ¿no? Google está muy por delante
+
+1126
+01:04:07,579 --> 01:04:11,239
+de todos los demás, ¿verdad? Llevan
+haciéndolo desde hace más tiempo. Van a
+
+1127
+01:04:11,239 --> 01:04:15,196
+fabricar unos cinco a siete millones de
+chips, ¿no?, de sus propias TPUs. Miras a
+
+1128
+01:04:15,196 --> 01:04:19,005
+Amazon, están intentando hacer tres a
+cinco millones. Pero cuando vemos lo que
+
+1129
+01:04:19,005 --> 01:04:22,912
+Microsoft está pidiendo de sus propios
+chips, está muy por debajo de ese número.
+
+1130
+01:04:22,912 --> 01:04:26,671
+Has tenido un programa por el mismo
+tiempo. ¿Qué pasa con tus chips internos?
+
+1131
+01:04:26,650 --> 01:04:30,640
+Sí, esa es una buena pregunta. Entonces,
+hay un par de cosas. Una es que el mayor
+
+1132
+01:04:30,640 --> 01:04:34,232
+competidor para cualquier nuevo
+acelerador es, en cierto modo, incluso la
+
+1133
+01:04:34,232 --> 01:04:37,974
+generación anterior de NVIDIA, ¿verdad?
+Es decir, en una flota, lo que voy a
+
+1134
+01:04:37,974 --> 01:04:39,420
+considerar es el TCO general.
+
+1135
+01:04:39,430 --> 01:04:43,455
+Así que el listón que tengo, incluso para
+lo nuestro, y que por cierto, sabes,
+
+1136
+01:04:43,455 --> 01:04:47,638
+acababa de ver los datos de Maia 200, que
+se ven muy bien, eh, excepto que una de
+
+1137
+01:04:47,638 --> 01:04:51,716
+las cosas que aprendimos incluso en el
+lado de la computación, ¿verdad?, es que
+
+1138
+01:04:51,716 --> 01:04:55,637
+teníamos mucho Intel, luego introdujimos
+AMD, y después introdujimos Cobalt.
+
+1139
+01:04:55,670 --> 01:04:59,456
+Y así fue como lo escalamos, de alguna
+manera. Y así tenemos una buena prueba de
+
+1140
+01:04:59,456 --> 01:05:03,146
+que es posible, al menos en el cómputo
+central, sobre cómo construir tu propio
+
+1141
+01:05:03,146 --> 01:05:06,788
+silicio y luego administrar una flota
+donde los tres elementos interactúan en
+
+1142
+01:05:06,788 --> 01:05:07,651
+cierto equilibrio.
+
+1143
+01:05:08,190 --> 01:05:12,169
+Eh, porque, por cierto, hasta Google está
+comprando NVIDIA y también, eh, Amazon. Y
+
+1144
+01:05:12,169 --> 01:05:15,711
+tiene sentido porque NVIDIA está
+innovando y es la tecnología de propósito
+
+1145
+01:05:15,711 --> 01:05:19,497
+general, todos los modelos funcionan con
+ella, eh, y la demanda de los clientes
+
+1146
+01:05:19,497 --> 01:05:23,330
+está ahí. Porque si construyes tu propia
+solución vertical, más te vale tener tu
+
+1147
+01:05:23,330 --> 01:05:26,824
+propio modelo, eh, que, ya sabes, lo vas
+a usar para entrenamiento o para
+
+1148
+01:05:26,824 --> 01:05:30,464
+inferencia, y tienes que generar tu
+propia demanda para ello o subsidiar esa
+
+1149
+01:05:30,464 --> 01:05:30,852
+demanda.
+
+1150
+01:05:30,890 --> 01:05:35,255
+Así que, por lo tanto, querrás asegurarte
+de escalarlo apropiadamente.
+
+1151
+01:05:35,290 --> 01:05:39,901
+Así que la forma en que vamos a proceder
+es, eh, establecer un bucle cerrado entre
+
+1152
+01:05:39,901 --> 01:05:44,228
+nuestros propios modelos de inteligencia
+artificial y nuestro silicio, porque
+
+1153
+01:05:44,228 --> 01:05:48,156
+siento que eso es lo que te otorga el
+derecho fundamental de realmente
+
+1154
+01:05:48,156 --> 01:05:52,369
+desarrollar tu propio silicio, ¿no? Donde
+literalmente has, uh, diseñado la
+
+1155
+01:05:52,369 --> 01:05:56,581
+microarquitectura con lo que estás
+haciendo, y luego mantienes el ritmo con
+
+1156
+01:05:56,581 --> 01:05:57,720
+tus propios modelos.
+
+1157
+01:05:57,770 --> 01:06:01,821
+Um, en nuestro caso particular, la buena
+noticia es que OpenAI dispone de un
+
+1158
+01:06:01,821 --> 01:06:05,765
+programa, uh, al cual nosotros tenemos
+acceso directo. Um, y por lo tanto,
+
+1159
+01:06:05,765 --> 01:06:08,683
+pensar que Microsoft no va a tener algo
+similar que sea
+
+1160
+01:06:08,670 --> 01:06:10,016
+¿Qué acceso tienes a eso?
+
+1161
+01:06:10,050 --> 01:06:10,793
+Todo de eso.
+
+1162
+01:06:10,850 --> 01:06:13,790
+¿Solo obtienes la PI de todo eso?
+¿Entonces la única PI que no tienes es la
+
+1163
+01:06:13,790 --> 01:06:14,704
+de hardware de consumo?
+
+1164
+01:06:12,050 --> 01:06:12,375
+Claro.
+
+1165
+01:06:14,770 --> 01:06:15,420
+Se acabó.
+
+1166
+01:06:15,650 --> 01:06:16,485
+Oh, vaya. De acuerdo.
+
+1167
+01:06:17,290 --> 01:06:17,475
+Sí.
+
+1168
+01:06:18,930 --> 01:06:19,394
+Curioso.
+
+1169
+01:06:19,970 --> 01:06:23,856
+Sí. Ah, y por cierto, les dimos un montón
+de propiedad intelectual también para
+
+1170
+01:06:23,856 --> 01:06:27,792
+impulsarlos, ¿verdad? Así que esta es una
+de las razones por las que tuvieron un
+
+1171
+01:06:27,792 --> 01:06:31,528
+enorme... Porque construimos todas estas
+supercomputadoras juntos, eh, o las
+
+1172
+01:06:31,528 --> 01:06:35,016
+construimos para ellos y ellos, eh, se
+beneficiaron de ello, con razón.
+
+1173
+01:06:35,070 --> 01:06:39,535
+Y, eh, y ahora, a medida que ellos van
+innovando, incluso a un nivel de sistema,
+
+1174
+01:06:39,535 --> 01:06:43,718
+nosotros obtenemos acceso a todo eso. Eh,
+y, eh, primero lo que queremos es
+
+1175
+01:06:43,718 --> 01:06:46,262
+instanciar lo que ellos construyen para
+ellos.
+
+1176
+01:06:46,590 --> 01:06:49,886
+Uh, pero luego, sin duda alguna, lo vamos
+a extender. Y entonces, el simple hecho
+
+1177
+01:06:49,886 --> 01:06:53,141
+de pensar que no disponemos de... Y así
+que, si hay algo, la manera en que yo lo
+
+1178
+01:06:53,141 --> 01:06:56,396
+considero, en respuesta a tu pregunta,
+es, uh, Microsoft realmente quiere ser un
+
+1179
+01:06:56,396 --> 01:06:59,528
+socio absolutamente fantástico, lo que yo
+llamaría un socio de ejecución a la
+
+1180
+01:06:59,528 --> 01:07:00,847
+velocidad de la luz para NVIDIA.
+
+1181
+01:07:00,910 --> 01:07:04,517
+Porque, para ser franco, esa flota, eh,
+es la vida misma. No me preocupa en
+
+1182
+01:07:04,517 --> 01:07:08,320
+absoluto... Quiero decir, obviamente, a
+Jensen le está yendo súper bien con sus
+
+1183
+01:07:08,320 --> 01:07:12,123
+márgenes, pero el TCO tiene muchísimas
+dimensiones y quiero ser realmente bueno
+
+1184
+01:07:12,123 --> 01:07:12,659
+en ese TCO.
+
+1185
+01:07:13,090 --> 01:07:16,961
+Y, por encima de todo eso, quiero poder
+trabajar de forma muy cercana con todo lo
+
+1186
+01:07:16,961 --> 01:07:20,543
+que es el linaje de OpenAI, y también
+todo lo que es el linaje de MAI, y el
+
+1187
+01:07:20,543 --> 01:07:23,882
+diseño de los sistemas, sabiendo que
+tenemos los derechos de propiedad
+
+1188
+01:07:23,882 --> 01:07:25,721
+intelectual asegurados en ambos lados.
+
+1189
+01:07:25,750 --> 01:07:30,604
+Hmm. Uh, ha- hablando de derechos, una
+cosa, sabes, tuviste una entrevista hace
+
+1190
+01:07:30,604 --> 01:07:35,272
+un par de días, uh, donde dijiste que
+tenemos derechos a... El- el- el nuevo
+
+1191
+01:07:35,272 --> 01:07:40,003
+acuerdo que hiciste con OpenAI, tienes
+derechos, es la exclusividad a-... las
+
+1192
+01:07:40,003 --> 01:07:44,982
+llamadas API sin estado que hace OpenAI,
+y estábamos un poco confundidos sobre si
+
+1193
+01:07:44,982 --> 01:07:46,787
+hay algún estado en absoluto.
+
+1194
+01:07:46,778 --> 01:07:49,874
+Quiero decir, acabas de mencionar hace un
+segundo que todas estas cargas de trabajo
+
+1195
+01:07:49,874 --> 01:07:52,555
+complicadas que están surgiendo van a
+requerir memoria, bases de datos y
+
+1196
+01:07:52,555 --> 01:07:55,085
+almacenamiento de datos, y así
+sucesivamente, ¿y eso ahora no es sin
+
+1197
+01:07:55,085 --> 01:07:57,691
+estado? Entonces, ChatGPT está
+almacenando cosas, ejecutando sesiones-
+
+1198
+01:07:57,678 --> 01:08:02,309
+No, pero esa es precisamente la razón.
+Así que la cosa, el negocio, la decisión
+
+1199
+01:08:02,309 --> 01:08:06,526
+estratégica que tomamos, y también
+acomodando la flexibilidad que OpenAI
+
+1200
+01:08:06,526 --> 01:08:11,336
+necesitaba para poder adquirir capacidad
+de cómputo para... Esencialmente, piensen
+
+1201
+01:08:11,336 --> 01:08:15,909
+en OpenAI teniendo, eh, un negocio de
+pases y un negocio SaaS. El negocio SaaS
+
+1202
+01:08:15,909 --> 01:08:18,343
+es ChatGPT, su negocio de pases es su
+API.
+
+1203
+01:08:18,398 --> 01:08:18,769
+Ajá.
+
+1204
+01:08:18,898 --> 01:08:23,096
+Esa API es exclusiva para el entorno de
+Azure. Sin embargo, las empresas SaaS
+
+1205
+01:08:23,096 --> 01:08:25,306
+pueden implementarlo en cualquier lugar.
+
+1206
+01:08:25,358 --> 01:08:28,515
+Y pueden asociarse con cualquiera que
+quieran para desarrollar productos SaaS?
+
+1207
+01:08:28,558 --> 01:08:32,930
+Ellos, si buscan un socio, y este socio
+desea utilizar una API sin estado,
+
+1208
+01:08:32,930 --> 01:08:36,824
+entonces Azure es el sitio donde pueden
+obtener la API sin estado.
+
+1209
+01:08:36,898 --> 01:08:40,576
+Parece que existe una manera para que
+ellos puedan crear el producto juntos, y
+
+1210
+01:08:40,576 --> 01:08:41,913
+es algo que mantiene estado.
+
+1211
+01:08:41,957 --> 01:08:46,463
+No, incluso para eso, tendrán que venir a
+Azure. Así que, si se trata de cualquier
+
+1212
+01:08:46,463 --> 01:08:50,747
+socio, y fundamentalmente, sabes, de
+nuevo, esto se hace con el espíritu de lo
+
+1213
+01:08:50,747 --> 01:08:54,809
+que valoramos como parte de nuestra
+asociación, y nos aseguramos, al mismo
+
+1214
+01:08:54,809 --> 01:08:58,815
+tiempo, de ser buenos socios de OpenAI,
+dándoles toda la flexibilidad que
+
+1215
+01:08:58,815 --> 01:08:59,371
+necesitan.
+
+1216
+01:08:43,997 --> 01:08:44,229
+Bien.
+
+1217
+01:08:59,377 --> 01:09:02,794
+Así que, por ejemplo, si Salesforce
+quiere integrar OpenAI, no es por una
+
+1218
+01:09:02,794 --> 01:09:06,449
+API. Ellos realmente trabajan juntos,
+entrenan un modelo juntos, lo despliegan
+
+1219
+01:09:06,449 --> 01:09:09,867
+en, digamos, Amazon ahora. ¿Está eso
+permitido? ¿O, uh, o tienen que usar
+
+1220
+01:09:09,867 --> 01:09:10,104
+su...
+
+1221
+01:09:10,118 --> 01:09:14,033
+No, para cualquier acuerdo personalizado
+como ese, tendrán que venir a ejecutarlo.
+
+1222
+01:09:14,033 --> 01:09:17,948
+Hay pocas excepciones para el gobierno de
+EE. UU. y demás que hicimos, pero aparte
+
+1223
+01:09:17,948 --> 01:09:19,591
+de eso, tendrán que venir a Azure.
+
+1224
+01:09:19,837 --> 01:09:23,942
+Así que, como explicó Satya, a medida que
+los agentes de IA se vuelvan más capaces,
+
+1225
+01:09:23,942 --> 01:09:27,896
+necesitarás cada vez más observabilidad
+sobre lo que están haciendo. Necesitarás
+
+1226
+01:09:27,896 --> 01:09:31,701
+detectarlos cuando cometan errores,
+necesitarás resúmenes de alto nivel de lo
+
+1227
+01:09:31,701 --> 01:09:35,506
+que hacen, y necesitarás una visión de
+cómo todo lo que hacen encaja. Esto es
+
+1228
+01:09:35,506 --> 01:09:38,860
+exactamente lo que CodeRabbit
+proporciona. Simplemente haces un pull
+
+1229
+01:09:38,860 --> 01:09:41,663
+request normal y CodeRabbit revisa
+automáticamente el PR.
+
+1230
+01:09:41,718 --> 01:09:45,403
+Genera un resumen de los cambios para que
+puedas comprender con exactitud lo que el
+
+1231
+01:09:45,403 --> 01:09:48,683
+autor del PR realmente pretendía, y
+utiliza el contexto de toda tu base de
+
+1232
+01:09:48,683 --> 01:09:51,605
+código completa para ofrecer
+retroalimentación detallada línea por
+
+1233
+01:09:51,605 --> 01:09:55,200
+línea sobre cómo se podrían mejorar las
+cosas. Esto es muy útil, ya sea que estés
+
+1234
+01:09:55,200 --> 01:09:58,346
+revisando un PR de un compañero de
+trabajo o de un agente. En cualquier
+
+1235
+01:09:58,346 --> 01:10:01,762
+caso, CodeRabbit expondrá sus ideas y
+señalará cualquier problema para que tu
+
+1236
+01:10:01,762 --> 01:10:04,009
+compañero de equipo o tu agente puedan
+corregirlos.
+
+1237
+01:10:04,098 --> 01:10:07,534
+Me he dado cuenta de que, cuando estoy
+programando con agentes, CodeRabbit
+
+1238
+01:10:07,534 --> 01:10:11,301
+identifica muchos de los errores que los
+modelos suelen cometer por sí solos. Por
+
+1239
+01:10:11,301 --> 01:10:14,832
+ejemplo, es común que los modelos tengan
+el mal hábito de utilizar versiones
+
+1240
+01:10:14,832 --> 01:10:18,315
+antiguas de las bibliotecas. De hecho, en
+una de mis sesiones, observé cómo
+
+1241
+01:10:18,315 --> 01:10:21,799
+CodeRabbit detectaba una llamada a un
+modelo antiguo, descubría cuál era la
+
+1242
+01:10:21,799 --> 01:10:24,624
+versión más actualizada, y posteriormente
+sugería esa mejora.
+
+1243
+01:10:24,838 --> 01:10:28,162
+Visita coderabbit.ai/fluorcache para
+saber más. Volviendo al tema, una
+
+1244
+01:10:28,162 --> 01:10:31,871
+pregunta que tengo es, sabes, cuando
+íbamos, eh, caminando de un lado a otro a
+
+1245
+01:10:31,871 --> 01:10:35,532
+la, eh, a la fábrica, una de las cosas de
+las que hablabas es, sabes, eh, Mi-
+
+1246
+01:10:35,532 --> 01:10:39,338
+Microsoft, puedes pensar en ella como un
+negocio de software, pero ahora se está
+
+1247
+01:10:39,338 --> 01:10:41,602
+convirtiendo realmente en un negocio
+industrial.
+
+1248
+01:10:41,838 --> 01:10:46,125
+Eh, hay toda esta inversión de capital,
+hay toda esta construcción, y si solo
+
+1249
+01:10:46,125 --> 01:10:50,300
+miras los últimos dos años, tu inversión
+de capital se ha, por así decirlo,
+
+1250
+01:10:50,300 --> 01:10:54,701
+triplicado. Y si lo proyectas hacia el
+futuro, simplemente se convierte en esta
+
+1251
+01:10:54,701 --> 01:10:56,280
+enorme explosión industrial.
+
+1252
+01:10:56,318 --> 01:10:59,546
+Bueno, otros hiperescaladores están
+pidiendo préstamos, ¿verdad? Meta... Meta
+
+1253
+01:10:59,546 --> 01:11:02,902
+ha sacado un préstamo de 20 mil millones
+en Luisiana. Han tomado... han hecho un
+
+1254
+01:11:02,902 --> 01:11:06,215
+préstamo corporativo. Pa- parece claro
+que el flujo de caja libre de todos va a
+
+1255
+01:11:06,215 --> 01:11:09,444
+cero. Uhm, lo cual... lo cual estoy
+seguro que Amy te va a regañar por... por
+
+1256
+01:11:09,444 --> 01:11:12,417
+si... si siquiera intentas hacer eso.
+Pero, uh, ¿qué... qué... qué está
+
+1257
+01:11:12,417 --> 01:11:12,757
+pasando?
+
+1258
+01:11:12,878 --> 01:11:16,840
+Quiero decir, yo creo que, uh, creo que
+el cambio estructural, um, es a lo que te
+
+1259
+01:11:16,840 --> 01:11:20,556
+estás refiriendo, uh, lo cual, en mi
+opinión, es algo verdaderamente masivo,
+
+1260
+01:11:20,556 --> 01:11:21,051
+¿no crees?
+
+1261
+01:11:21,098 --> 01:11:25,131
+Lo que yo... lo describo como que ahora
+somos un negocio intensivo en capital y
+
+1262
+01:11:25,131 --> 01:11:28,906
+un negocio intensivo en conocimiento. Y
+de hecho, tenemos que usar nuestro
+
+1263
+01:11:28,906 --> 01:11:33,095
+conocimiento para aumentar el ROIC sobre
+el capital invertido, ¿verdad? Porque eso
+
+1264
+01:11:33,095 --> 01:11:37,232
+es... Saben, miren, los de hardware han
+hecho un gran trabajo de marketing con la
+
+1265
+01:11:37,232 --> 01:11:39,766
+ley de Moore, que me parece increíble y
+es genial.
+
+1266
+01:11:39,958 --> 01:11:43,600
+Pero si uno se fija bien, creo que
+algunas de las estadísticas que presenté
+
+1267
+01:11:43,600 --> 01:11:47,095
+en mi última llamada de resultados,
+específicamente para una familia GPT
+
+1268
+01:11:47,095 --> 01:11:50,443
+determinada, ¿verdad? La mejora, las
+optimizaciones de software en el
+
+1269
+01:11:50,443 --> 01:11:54,430
+rendimiento efectivo, en cuanto a tokens
+por dólar por vatio que logramos obtener,
+
+1270
+01:11:54,430 --> 01:11:58,368
+sabes, de un trimestre a otro, de un año
+a otro, es verdaderamente masiva, ¿no es
+
+1271
+01:11:58,368 --> 01:12:02,109
+así? Así que es 5X, 10X, quizás hasta 40X
+en algunos de estos casos, ¿verdad?
+
+1272
+01:12:02,178 --> 01:12:06,039
+Simplemente por, eh, cómo se puede
+optimizar. Eso es una especie de
+
+1273
+01:12:06,039 --> 01:12:10,487
+intensidad de conocimiento que se aplica
+para lograr una mayor eficiencia del
+
+1274
+01:12:10,487 --> 01:12:10,955
+capital.
+
+1275
+01:12:07,738 --> 01:12:07,877
+Sí
+
+1276
+01:12:11,218 --> 01:12:15,583
+Así que, a- a cierto nivel, lo que... eso
+es lo que debemos dominar.
+
+1277
+01:12:15,618 --> 01:12:20,020
+¿Qué significa? Como mucha gente me
+pregunta: "¿Cuál es la diferencia entre,
+
+1278
+01:12:20,020 --> 01:12:24,070
+eh, ya sabes, un host clásico, eh, y un
+hiperescalador?" Era software.
+
+1279
+01:12:24,618 --> 01:12:28,926
+Así que sí, es intensivo en capital, pero
+mientras tengas el conocimiento de
+
+1280
+01:12:28,926 --> 01:12:33,235
+sistemas y la capacidad de software para
+optimizar por carga de trabajo, por
+
+1281
+01:12:33,235 --> 01:12:37,256
+flota. Por eso creo que cuando decimos
+fungibilidad, hay tanto software
+
+1282
+01:12:37,256 --> 01:12:40,128
+involucrado. No se trata solo de la
+flota, ¿verdad?
+
+1283
+01:12:40,138 --> 01:12:44,254
+Es como la capacidad de desalojar una
+carga de trabajo, eh, sabes, y luego
+
+1284
+01:12:44,254 --> 01:12:48,371
+programar otra carga de trabajo. ¿Puedo,
+digamos, manejar ese algoritmo de
+
+1285
+01:12:48,371 --> 01:12:52,656
+programación? Eh, ese es el tipo de cosas
+en las que tenemos que ser de clase
+
+1286
+01:12:52,656 --> 01:12:56,209
+mundial. Y sí, así que creo que
+seguiremos siendo una empresa de
+
+1287
+01:12:56,209 --> 01:12:56,717
+software.
+
+1288
+01:12:56,718 --> 01:12:57,135
+Ajá.
+
+1289
+01:12:57,238 --> 01:13:02,025
+Eh, pero sí, este es un negocio
+diferente. Mmm, y vamos a poder con ello.
+
+1290
+01:13:02,025 --> 01:13:07,079
+Mira, creo que al final del día, eh, el
+flujo de caja que tiene Microsoft nos
+
+1291
+01:13:07,079 --> 01:13:11,402
+permite tener, mmm, estos dos brazos
+funcionando, sabes, eh, bien.
+
+1292
+01:13:11,398 --> 01:13:15,310
+Mm-hmm. Parece que a corto plazo, le das
+más, digamos, importancia o credibilidad
+
+1293
+01:13:15,310 --> 01:13:19,320
+a que las cosas tomen su tiempo, que sean
+más accidentadas. Pero a lo mejor a largo
+
+1294
+01:13:19,320 --> 01:13:23,232
+plazo, crees que la gente que habla de la
+IAG y la SAI tiene razón, como Sam, que
+
+1295
+01:13:23,232 --> 01:13:25,237
+Sam tendrá razón, pero solo
+eventualmente.
+
+1296
+01:13:25,498 --> 01:13:29,724
+Y yo... tengo una cuestión más amplia
+sobre qué tiene sentido que haga un
+
+1297
+01:13:29,724 --> 01:13:33,833
+hiperescalador, dado que tienes que
+invertir masivamente en algo que se
+
+1298
+01:13:33,833 --> 01:13:38,529
+deprecia en solo cinco años. Entonces, si
+tienes plazos hasta el dos mil cuarenta
+
+1299
+01:13:38,529 --> 01:13:42,815
+para el tipo de cosas que alguien como
+Sam anticipa en solo tres años, eh,
+
+1300
+01:13:42,815 --> 01:13:46,395
+sabes, ¿qué es lo más razonable que
+puedes hacer en ese mundo?
+
+1301
+01:13:46,818 --> 01:13:51,647
+Debe haber una asignación, para lo que yo
+llamaría cómputo de investigación.
+
+1302
+01:13:51,658 --> 01:13:52,168
+Ajá.
+
+1303
+01:13:52,498 --> 01:13:55,691
+Eso tiene que hacerse de la misma manera
+que hicieron con I+D. ¿No es así? Así
+
+1304
+01:13:55,691 --> 01:13:58,927
+que, francamente, esa es la mejor forma
+de siquiera considerarlo, porque lo ven
+
+1305
+01:13:58,927 --> 01:14:01,665
+simplemente como un gasto de
+investigación y desarrollo. Y deberían
+
+1306
+01:14:01,665 --> 01:14:04,859
+preguntarse: "Oye, ¿qué es la computación
+para la investigación o cómo quieren
+
+1307
+01:14:04,859 --> 01:14:05,315
+escalarla?"
+
+1308
+01:13:56,378 --> 01:13:56,656
+Claro.
+
+1309
+01:14:05,378 --> 01:14:05,795
+Así es.
+
+1310
+01:14:06,237 --> 01:14:11,570
+Y, eh, digamos incluso que es una escala
+de un orden de magnitud, eh, en algún
+
+1311
+01:14:11,570 --> 01:14:14,410
+período. Elige tu ejemplo. ¿Son dos años?
+
+1312
+01:14:14,438 --> 01:14:17,566
+¿Son dieciséis meses? ¿O qué sé yo,
+verdad? Así que eso es como una especie
+
+1313
+01:14:17,566 --> 01:14:20,568
+de pieza, lo cual es, por así decirlo, el
+requisito mínimo para empezar.
+
+1314
+01:14:20,617 --> 01:14:23,832
+Esos son los gastos de investigación y
+desarrollo. Y todo lo demás está
+
+1315
+01:14:23,832 --> 01:14:27,461
+impulsado por la demanda, ¿verdad? Quiero
+decir, en última instancia, uno tendrá
+
+1316
+01:14:27,461 --> 01:14:30,952
+que construir anticipándose a la demanda,
+pero es mejor que tengas un plan de
+
+1317
+01:14:30,952 --> 01:14:33,341
+demanda que no se desvíe por completo de
+lo previsto.
+
+1318
+01:14:33,358 --> 01:14:38,594
+¿Te crees que estos laboratorios ahora
+proyectan ingresos de cien mil millones
+
+1319
+01:14:38,594 --> 01:14:43,899
+en el 27, 28, y que los ingresos sigan
+creciendo a este ritmo de 3X, 2X al año?
+
+1320
+01:14:43,898 --> 01:14:47,217
+Así que hay mucho... Mira, mira, en el
+mercado, ¿verdad?, hay todo tipo de
+
+1321
+01:14:47,217 --> 01:14:48,263
+incentivos ahora mismo.
+
+1322
+01:14:48,278 --> 01:14:52,038
+Y- y con razón, ¿no? Es decir, ¿qué
+esperas que haga un laboratorio
+
+1323
+01:14:52,038 --> 01:14:56,198
+independiente que está tratando de
+recaudar fondos, no? Tienen que mostrar
+
+1324
+01:14:56,198 --> 01:15:00,301
+algunos resultados para poder recaudar
+dinero y así pagar sus facturas de
+
+1325
+01:15:00,301 --> 01:15:04,802
+computación... y lo que sea. Y es- y es
+algo bueno. Es decir, alguien va a tomar
+
+1326
+01:15:04,802 --> 01:15:08,107
+un riesgo y apostar por ello, y han
+demostrado tener éxito.
+
+1327
+01:15:08,117 --> 01:15:12,303
+No es- ... como si todo fuera un riesgo
+sin considerar que han- ... estado
+
+1328
+01:15:12,303 --> 01:15:14,711
+rindiendo, ya sea OpenAI, ya sea
+Anthropic.
+
+1329
+01:15:14,758 --> 01:15:18,815
+Así que me siento muy bien con lo que han
+hecho. Eh, y tenemos una cartera de
+
+1330
+01:15:18,815 --> 01:15:22,979
+negocios enorme con estos muchachos. Así
+que, por lo tanto, eh, todo está bien.
+
+1331
+01:15:22,979 --> 01:15:27,303
+Pero en general, en última instancia, hay
+dos cosas simples. Una es que tienes que
+
+1332
+01:15:27,303 --> 01:15:31,627
+asignar para I+D. Mencionaste incluso el
+talento. Tienes que... el talento para la
+
+1333
+01:15:31,627 --> 01:15:31,894
+IA...
+
+1334
+01:15:32,077 --> 01:15:35,087
+es algo de gran valor. Debes hacer una
+inversión allí. Debes invertir en
+
+1335
+01:15:35,087 --> 01:15:35,977
+capacidad de cómputo.
+
+1336
+01:15:36,038 --> 01:15:41,055
+Así que, en cierto sentido, la proporción
+de investigadores por GPU tiene que ser
+
+1337
+01:15:41,055 --> 01:15:46,135
+alta. Eso es lo que se necesita para ser
+una empresa líder de I+D en este mundo. Y
+
+1338
+01:15:46,135 --> 01:15:48,205
+eso es algo que necesita escalar.
+
+1339
+01:15:48,357 --> 01:15:52,473
+Y debes tener un balance general que te
+permita escalar eso mucho antes de que se
+
+1340
+01:15:52,473 --> 01:15:55,920
+convierta en sabiduría popular o
+convencional y cosas por el estilo.
+
+1341
+01:15:55,920 --> 01:15:59,985
+Entonces, esa es como una de las cosas.
+Pero la otra cuestión principal es saber
+
+1342
+01:15:59,985 --> 01:16:01,220
+cómo hacer pronósticos."
+
+1343
+01:16:01,218 --> 01:16:04,327
+Si miramos el mundo, ¿verdad?, Estados
+Unidos ha dominado muchas pilas
+
+1344
+01:16:04,327 --> 01:16:07,797
+tecnológicas, ¿verdad? Eh, Estados Unidos
+posee Windows, ¿verdad?, a través de
+
+1345
+01:16:07,797 --> 01:16:11,132
+Microsoft, que se implementa incluso en
+China, ¿verdad? Ese es el principal
+
+1346
+01:16:11,132 --> 01:16:14,467
+sistema operativo. Eh, claro, existe
+Linux, que es de código abierto, pero,
+
+1347
+01:16:14,467 --> 01:16:17,487
+sabes, Windows se implementa en todas
+partes de China en ordenadores
+
+1348
+01:16:17,487 --> 01:16:17,982
+personales.
+
+1349
+01:16:18,258 --> 01:16:21,806
+Si miras Word, está desplegado en todas
+partes. Si miras todas estas diversas
+
+1350
+01:16:21,806 --> 01:16:25,260
+tecnologías, está desplegado en todas
+partes. Lo que es bastante único... Y
+
+1351
+01:16:25,260 --> 01:16:28,622
+Microsoft y otras empresas se han
+expandido a otros lugares, ¿verdad? Han
+
+1352
+01:16:28,622 --> 01:16:32,263
+construido, están construyendo centros de
+datos en Europa y en India y en todas
+
+1353
+01:16:32,263 --> 01:16:35,531
+estas otras, sabes, en el sudeste
+asiático y en Latinoamérica y África,
+
+1354
+01:16:35,531 --> 01:16:35,905
+¿verdad?
+
+1355
+01:16:36,018 --> 01:16:40,179
+En todos estos lugares diferentes, están
+construyendo capacidad. Pero esto parece
+
+1356
+01:16:40,179 --> 01:16:43,873
+bastante distinto, ¿verdad? Saben, hoy en
+día, el aspecto político de la
+
+1357
+01:16:43,873 --> 01:16:48,035
+tecnología, de la informática, saben, la
+administración de EE. UU. no se preocupó
+
+1358
+01:16:48,035 --> 01:16:52,196
+por la burbuja de las puntocom, ¿verdad?
+Parece que la administración de EE. UU.,
+
+1359
+01:16:52,196 --> 01:16:56,358
+así como todas las demás administraciones
+del mundo, se preocupa mucho por la IA.
+
+1360
+01:16:56,758 --> 01:17:00,511
+Y la pregunta es, sabes, estamos en una
+especie de mundo bipolar, al menos con
+
+1361
+01:17:00,511 --> 01:17:04,313
+EE. UU. y China, pero Europa e India y
+todos estos otros países están diciendo:
+
+1362
+01:17:04,313 --> 01:17:08,017
+"No, en realidad, también tendremos una
+IA soberana". ¿Cómo navega Microsoft,
+
+1363
+01:17:08,017 --> 01:17:11,916
+sabes, la diferencia de los 90, donde es
+como si solo hubiera un país en el mundo
+
+1364
+01:17:11,916 --> 01:17:14,451
+que importa, verdad? Es Estados Unidos. Y
+nosotros...
+
+1365
+01:17:14,458 --> 01:17:18,123
+Nuestras empresas venden en todas partes,
+y por lo tanto Microsoft se beneficia
+
+1366
+01:17:18,123 --> 01:17:21,459
+enormemente, a un mundo donde es bipolar,
+donde, oye, Microsoft no puede
+
+1367
+01:17:21,459 --> 01:17:25,172
+necesariamente tener el derecho de ganar
+toda Europa o India o, sabes, Singapur.
+
+1368
+01:17:25,172 --> 01:17:28,790
+En realidad, hay esfuerzos soberanos de
+IA. ¿Cuál es tu proceso de pensamiento
+
+1369
+01:17:28,790 --> 01:17:30,247
+aquí y cómo piensas sobre esto?
+
+1370
+01:17:30,258 --> 01:17:34,641
+Sí, es un punto excelente. Creo que es,
+uhm, una pieza, sabes, realmente, uhm,
+
+1371
+01:17:34,641 --> 01:17:37,316
+crucial, un elemento fundamental, que es,
+uhm...
+
+1372
+01:17:37,378 --> 01:17:41,967
+Creo que la prioridad clave, fundamental,
+para el sector tecnológico de Estados
+
+1373
+01:17:41,967 --> 01:17:46,497
+Unidos y para el gobierno estadounidense
+es asegurar que no solo realicemos un
+
+1374
+01:17:46,497 --> 01:17:51,321
+trabajo innovador de vanguardia, sino que
+también, de forma colectiva, construyamos
+
+1375
+01:17:51,321 --> 01:17:55,675
+confianza en todo el mundo en nuestra
+infraestructura tecnológica, ¿verdad?
+
+1376
+01:17:55,697 --> 01:17:58,564
+Porque siempre digo que los Estados
+Unidos son simplemente un lugar
+
+1377
+01:17:58,564 --> 01:18:01,910
+increíble. Es simplemente único en toda
+la historia, ¿verdad? Es el cuatro por
+
+1378
+01:18:01,910 --> 01:18:04,908
+ciento de la población mundial, el
+veinticinco por ciento del Producto
+
+1379
+01:18:04,908 --> 01:18:08,341
+Interno Bruto, y el cincuenta por ciento
+de la capitalización de mercado. Y creo
+
+1380
+01:18:08,341 --> 01:18:11,687
+que deberían pensar en esas proporciones
+y, uh, realmente, y reflexionar sobre
+
+1381
+01:18:11,687 --> 01:18:11,904
+ello.
+
+1382
+01:18:11,918 --> 01:18:16,469
+Y ese cincuenta por ciento ocurre porque,
+para ser completamente francos, la
+
+1383
+01:18:16,469 --> 01:18:21,264
+confianza que el mundo deposita en los
+Estados Unidos, ya sea en sus mercados de
+
+1384
+01:18:21,264 --> 01:18:25,876
+capitales o en su tecnología y en su
+liderazgo de lo que importa en cualquier
+
+1385
+01:18:25,876 --> 01:18:28,729
+momento dado en términos de ser un sector
+líder.
+
+1386
+01:18:29,418 --> 01:18:34,032
+Así que si eso se rompe, [uhm], entonces
+no es un buen día, en absoluto, para los
+
+1387
+01:18:34,032 --> 01:18:38,530
+Estados Unidos. Y si empiezas con eso,
+que creo que el, ya sabes, el presidente
+
+1388
+01:18:38,530 --> 01:18:42,971
+Trump lo capta, la Casa Blanca, David
+Sacks, todos, [uhm], realmente, creo que
+
+1389
+01:18:42,971 --> 01:18:43,721
+lo entienden.
+
+1390
+01:18:43,818 --> 01:18:48,610
+Y por consiguiente, aplaudo todo aquello
+que el gobierno de los Estados Unidos y
+
+1391
+01:18:48,610 --> 01:18:53,159
+el sector tecnológico haga de forma
+conjunta para, francamente, por ejemplo,
+
+1392
+01:18:53,159 --> 01:18:57,891
+poner nuestro propio capital en riesgo,
+colectivamente como industria, en todas
+
+1393
+01:18:57,891 --> 01:18:59,468
+partes del mundo, ¿verdad?
+
+1394
+01:18:59,498 --> 01:19:03,117
+Así que me gustaría, de hecho, que el
+gobierno de EE. UU. se atribuyera el
+
+1395
+01:19:03,117 --> 01:19:07,034
+mérito de la inversión extranjera directa
+de empresas estadounidenses en todo el
+
+1396
+01:19:07,034 --> 01:19:10,752
+mundo, ¿verdad? Es como, uh, lo menos
+comentado, pero la mejor estrategia de
+
+1397
+01:19:10,752 --> 01:19:13,429
+marketing que Estados Unidos debería
+estar haciendo es.
+
+1398
+01:19:13,758 --> 01:19:16,726
+No se trata únicamente de toda la
+inversión extranjera directa que está
+
+1399
+01:19:16,726 --> 01:19:20,076
+llegando a los Estados Unidos, sino que
+el sector más avanzado y prominente, que
+
+1400
+01:19:20,076 --> 01:19:23,215
+son estas fábricas de inteligencia
+artificial, están siendo construidas por
+
+1401
+01:19:23,215 --> 01:19:26,268
+todo el mundo, ¿y por quién? Por América
+y, específicamente, por empresas
+
+1402
+01:19:26,268 --> 01:19:26,946
+estadounidenses.
+
+1403
+01:19:27,157 --> 01:19:32,236
+Y así, uno empieza por ahí, y luego,
+incluso, se construyen otros acuerdos en
+
+1404
+01:19:32,236 --> 01:19:36,580
+torno a ello, que giran en torno a su
+continuidad, a sus legítimas
+
+1405
+01:19:36,580 --> 01:19:41,392
+preocupaciones de soberanía, ya sea en
+cuanto a la residencia de datos, o
+
+1406
+01:19:41,392 --> 01:19:46,004
+incluso lo que sucede, para que ellos
+tengan una verdadera autonomía y
+
+1407
+01:19:46,004 --> 01:19:49,680
+garantías en materia de privacidad y
+demás. Y así, el...
+
+1408
+01:19:49,670 --> 01:19:53,896
+De hecho, nuestros compromisos europeos,
+me parece que merecen ser leídos, ¿no
+
+1409
+01:19:53,896 --> 01:19:58,288
+creen? Así que hemos asumido una serie de
+compromisos con Europa, detallando cómo
+
+1410
+01:19:58,288 --> 01:20:02,515
+gestionaremos verdaderamente nuestra
+inversión de hiperescala en la región, de
+
+1411
+01:20:02,515 --> 01:20:06,687
+tal manera que la Unión Europea y los
+países europeos tengan plena soberanía.
+
+1412
+01:20:06,687 --> 01:20:10,475
+También estamos construyendo nubes
+soberanas en Francia y en Alemania.
+
+1413
+01:20:10,610 --> 01:20:13,569
+Disponemos de lo que denominamos
+Servicios Soberanos en Azure, los cuales,
+
+1414
+01:20:13,569 --> 01:20:16,892
+literalmente, proporcionan a los usuarios
+servicios de gestión de claves, junto con
+
+1415
+01:20:16,892 --> 01:20:20,176
+capacidades de computación confidencial,
+incluyendo la computación confidencial en
+
+1416
+01:20:20,176 --> 01:20:23,459
+unidades de procesamiento gráfico (GPUs),
+ámbito en el que hemos realizado un gran
+
+1417
+01:20:23,459 --> 01:20:24,634
+trabajo innovador con NVIDIA.
+
+1418
+01:20:25,210 --> 01:20:29,922
+Eh, y por eso creo que... me siento muy,
+muy satisfecho de poder edificar, tanto a
+
+1419
+01:20:29,922 --> 01:20:33,587
+nivel técnico como a través de la
+política, esta confianza en la
+
+1420
+01:20:33,587 --> 01:20:36,030
+infraestructura tecnológica
+estadounidense.
+
+1421
+01:20:36,070 --> 01:20:39,908
+Mm-hm. Y cómo ves que esto se va a
+desarrollar, ya que tienes este efecto de
+
+1422
+01:20:39,908 --> 01:20:43,899
+red con el aprendizaje continuo y otras
+cosas a nivel del modelo, quizás tengas
+
+1423
+01:20:43,899 --> 01:20:46,611
+cosas equivalentes a nivel del
+hiperescalador también.
+
+1424
+01:20:46,870 --> 01:20:50,587
+¿Y esperas que los países digan: "Mira,
+está claro que un modelo o un par de
+
+1425
+01:20:50,587 --> 01:20:54,453
+modelos son los mejores, y por eso los
+vamos a usar, pero vamos a tener algunas
+
+1426
+01:20:54,453 --> 01:20:58,368
+leyes sobre, bueno, que los pesos tienen
+que estar alojados en nuestro país." ¿O
+
+1427
+01:20:58,368 --> 01:21:02,234
+esperas que haya, eh, esta presión para
+que, "Tiene que ser un modelo entrenado
+
+1428
+01:21:02,234 --> 01:21:03,077
+en nuestro país"?
+
+1429
+01:21:03,130 --> 01:21:06,377
+Quizás una analogía aquí es como la
+gente, eh, sabes, los semiconductores son
+
+1430
+01:21:06,377 --> 01:21:09,582
+muy importantes para la economía, y a la
+gente le gustaría tener sus propios
+
+1431
+01:21:09,582 --> 01:21:12,744
+semiconductores soberanos, pero, como
+TSMC es simplemente mejor. Y así, los
+
+1432
+01:21:12,744 --> 01:21:16,205
+semiconductores son tan importantes para
+la economía que simplemente irás a Taiwán
+
+1433
+01:21:16,205 --> 01:21:19,324
+y comprarás los semiconductores. Tienes
+que hacerlo. ¿Será así con la IA o
+
+1434
+01:21:19,324 --> 01:21:19,709
+h-hay...?
+
+1435
+01:21:19,930 --> 01:21:23,992
+Eh, en última instancia, creo que lo que
+realmente importa es el uso de la
+
+1436
+01:21:23,992 --> 01:21:28,276
+inteligencia artificial en su economía
+para crear valor económico, ¿verdad? Es
+
+1437
+01:21:28,276 --> 01:21:32,617
+decir, esa es la, eh, la teoría de la
+difusión, que en el fondo no es el sector
+
+1438
+01:21:32,617 --> 01:21:36,957
+líder, sino la capacidad de utilizar la
+tecnología puntera para crear tu propia
+
+1439
+01:21:36,957 --> 01:21:38,738
+ventaja comparativa. ¿No es así?
+
+1440
+01:21:38,770 --> 01:21:42,114
+Así que creo que eso será
+fundamentalmente el motor principal. Pero
+
+1441
+01:21:42,114 --> 01:21:45,965
+dicho esto, ellos querrán una continuidad
+de eso, ¿verdad? Así que, en cierto
+
+1442
+01:21:45,965 --> 01:21:49,917
+sentido, esa es una de las razones por
+las que creo que siempre habrá un cierto
+
+1443
+01:21:49,917 --> 01:21:53,617
+control, un poco, a algunos de tus
+planteamientos sobre, "Oye, ¿puede este
+
+1444
+01:21:53,617 --> 01:21:57,569
+único modelo tener todo el despliegue
+descontrolado?" Por eso el código abierto
+
+1445
+01:21:57,569 --> 01:21:58,785
+siempre estará presente.
+
+1446
+01:21:59,110 --> 01:22:03,202
+Habrá, por su propia definición, eh,
+varios modelos. Esa va a ser una de las
+
+1447
+01:22:03,202 --> 01:22:06,859
+maneras. Es como que esa es una forma
+para que la gente pueda exigir
+
+1448
+01:22:06,859 --> 01:22:10,952
+continuidad y no tener un riesgo de
+concentración, es otra forma de decirlo.
+
+1449
+01:22:11,310 --> 01:22:11,681
+¿Verdad?
+
+1450
+01:22:11,750 --> 01:22:15,739
+Um, y entonces dices: "Oye, quiero
+múltiples modelos y luego quiero una
+
+1451
+01:22:15,739 --> 01:22:20,012
+fuente abierta". Así que siento, uh,
+mientras eso exista, cada país sentirá:
+
+1452
+01:22:20,012 --> 01:22:24,172
+"Okay, no tengo que preocuparme por
+desplegar el mejor modelo y difundirlo
+
+1453
+01:22:24,172 --> 01:22:26,053
+ampliamente porque siempre puedo"
+
+1454
+01:22:26,570 --> 01:22:31,251
+tomar, eh, lo que son mis datos y mi
+liquidez y trasladarlos, eh, a un modelo
+
+1455
+01:22:31,251 --> 01:22:35,440
+diferente, ya sea de código abierto o,
+eh, de otro país o lo que sea.
+
+1456
+01:22:35,450 --> 01:22:35,682
+Mmm.
+
+1457
+01:22:35,690 --> 01:22:39,313
+El riesgo de concentración, y la
+soberanía, ¿no?, que es en realidad la
+
+1458
+01:22:39,313 --> 01:22:43,402
+capacidad de acción, son las dos cosas
+que creo que impulsarán la estructura del
+
+1459
+01:22:43,402 --> 01:22:43,816
+mercado.
+
+1460
+01:22:44,030 --> 01:22:47,569
+La- la cuestión es que esto no existe
+para semiconductores, ¿verdad? Sabes,
+
+1461
+01:22:47,569 --> 01:22:50,392
+todas las neveras, los coches tienen
+chips hechos en Taiwán.
+
+1462
+01:22:50,390 --> 01:22:54,430
+No existía hasta ahora. Hasta ahora, todo
+el mundo está ahora... Como si...
+
+1463
+01:22:54,870 --> 01:22:58,590
+Aun así, ¿verdad? Estados Unidos, sabes,
+si Taiwán queda aislado, no habrá más
+
+1464
+01:22:58,590 --> 01:23:02,311
+coches, no habrá más refrigeradores. TSMC
+Arizona no está reemplazando ninguna
+
+1465
+01:23:02,311 --> 01:23:06,080
+fracción real de la producción. Es como
+que... la soberanía es un poco como una
+
+1466
+01:23:06,080 --> 01:23:09,752
+estafa, si se quiere, ¿verdad? Quiero
+decir, es- ... vale la pena tenerla, es
+
+1467
+01:23:09,752 --> 01:23:13,038
+importante tenerla, pero no es una
+verdadera... No es soberanía real,
+
+1468
+01:23:13,038 --> 01:23:15,164
+¿verdad? Y somos una economía global. No,
+no-
+
+1469
+01:23:15,210 --> 01:23:19,399
+Creo que es un poco como si Dillon
+dijera, "Oye, a estas alturas, no hemos
+
+1470
+01:23:19,399 --> 01:23:23,933
+aprendido absolutamente nada sobre, uh,
+la resi- lo que la resiliencia significa
+
+1471
+01:23:23,933 --> 01:23:28,352
+y lo que uno realmente necesita hacer."
+¿No es así? Así que es un poco como...
+
+1472
+01:23:28,430 --> 01:23:32,365
+Cualquier estado nación, incluyendo a los
+Estados Unidos, en este momento actual,
+
+1473
+01:23:32,365 --> 01:23:36,153
+hará todo lo que esté a su alcance para
+lograr una mayor autosuficiencia en lo
+
+1474
+01:23:36,153 --> 01:23:39,204
+que respecta a algunas de estas cadenas
+de suministro críticas.
+
+1475
+01:23:39,970 --> 01:23:43,596
+Así que yo, como una empresa
+multinacional, tengo que considerar eso
+
+1476
+01:23:43,596 --> 01:23:47,763
+como un requisito de primera categoría,
+¿no es así? Si no lo hago, entonces no
+
+1477
+01:23:47,763 --> 01:23:51,552
+estoy respetando lo que realmente
+concierne a los intereses políticos a
+
+1478
+01:23:51,552 --> 01:23:55,503
+largo plazo de ese país, ¿verdad? Y no
+estoy diciendo que no vayan a tomar
+
+1479
+01:23:55,503 --> 01:23:59,562
+decisiones prácticas a corto plazo,
+¿verdad? Absolutamente. Quiero decir, la
+
+1480
+01:23:59,562 --> 01:24:02,539
+globalización no puede simplemente
+rebobinarse, ¿verdad?
+
+1481
+01:24:02,590 --> 01:24:06,408
+Es decir, todas estas inversiones de
+capital no pueden hacerse, de alguna
+
+1482
+01:24:06,408 --> 01:24:10,651
+manera, al ritmo que se necesita. Pero al
+mismo tiempo, tienes que, si lo piensas
+
+1483
+01:24:10,651 --> 01:24:11,181
+bien, ¿no?
+
+1484
+01:24:11,190 --> 01:24:14,823
+Si alguien llegara a Washington y dijera:
+"¿Sabes qué? No vamos a construir ninguna
+
+1485
+01:24:14,823 --> 01:24:16,019
+planta de semiconductores."
+
+1486
+01:24:16,770 --> 01:24:21,607
+Van a ser expulsados de los Estados
+Unidos. Y, y lo mismo va a ocurrir en
+
+1487
+01:24:21,607 --> 01:24:26,512
+todos los demás países también. Y por lo
+tanto, creo que tenemos que, como
+
+1488
+01:24:26,512 --> 01:24:29,401
+empresas, respetar las lecciones
+aprendidas.
+
+1489
+01:24:29,970 --> 01:24:33,830
+Bueno, sabes, ya sea que, no sé, se
+podría decir que la pandemia nos despertó
+
+1490
+01:24:33,830 --> 01:24:37,793
+o lo que sea, pero al final la gente está
+diciendo: "Mira, la globalización fue
+
+1491
+01:24:37,793 --> 01:24:41,806
+fantástica. Ayudó a que las cadenas de
+suministro se globalizaran y fueran súper
+
+1492
+01:24:41,806 --> 01:24:42,415
+eficientes."
+
+1493
+01:24:42,450 --> 01:24:46,626
+Pero hay algo que se llama resiliencia y
+estamos contentos... Ya sabes, queremos
+
+1494
+01:24:46,626 --> 01:24:50,273
+resiliencia. Y por lo tanto, esa
+característica se desarrollará. A qué
+
+1495
+01:24:50,273 --> 01:24:53,815
+ritmo, creo, es el punto al que te
+refieres. No puede ser como si no
+
+1496
+01:24:53,815 --> 01:24:57,938
+pudieras chasquear los dedos y decir:
+"Todas las plantas de TSMC ahora están en
+
+1497
+01:24:57,938 --> 01:25:02,114
+Arizona y con toda la capacidad". No lo
+van a estar. ¿Pero hay un plan? Habrá un
+
+1498
+01:25:02,114 --> 01:25:03,858
+plan. ¿Y deberíamos respetar eso?
+
+1499
+01:25:03,930 --> 01:25:08,680
+Absolutamente. Y por eso yo siento que
+ese es el mundo... Quiero acercarme al
+
+1500
+01:25:08,680 --> 01:25:13,493
+mundo tal como es y a lo que desea hacer
+de cara al futuro, en lugar de decir:
+
+1501
+01:25:13,493 --> 01:25:17,118
+"Oye, tenemos un punto de vista que no
+respeta tu opinión".
+
+1502
+01:25:17,130 --> 01:25:20,779
+Ajá. Entonces, para asegurarme de que he
+comprendido correctamente, la premisa
+
+1503
+01:25:20,779 --> 01:25:24,619
+fundamental aquí es que cada país deseará
+tener algún tipo de residencia de datos,
+
+1504
+01:25:24,619 --> 01:25:26,278
+de privacidad, y así sucesivamente.
+
+1505
+01:25:26,250 --> 01:25:29,317
+Y Microsoft goza de un privilegio
+particularmente importante aquí, (19)
+
+1506
+01:25:29,317 --> 01:25:32,648
+porque ustedes mantienen relaciones
+sólidas con estas naciones, (19) y poseen
+
+1507
+01:25:32,648 --> 01:25:35,584
+una vasta experiencia en el
+establecimiento de esta clase de centros
+
+1508
+01:25:35,584 --> 01:25:38,213
+de datos soberanos. (29) Eh, por
+consiguiente, Microsoft está
+
+1509
+01:25:38,213 --> 01:25:41,632
+singularmente preparado para un mundo
+con, eh, mayores exigencias de soberanía?
+
+1510
+01:25:41,632 --> 01:25:41,807
+(31)
+
+1511
+01:25:41,946 --> 01:25:45,138
+Sí. Quiero decir, mira, no quiero
+describirlo como si de alguna manera
+
+1512
+01:25:45,138 --> 01:25:48,607
+fuéramos excepcionalmente privilegiados.
+Diría que lo considero un requisito
+
+1513
+01:25:48,607 --> 01:25:52,216
+empresarial, que hemos estado haciendo
+todo el trabajo duro durante todas estas
+
+1514
+01:25:52,216 --> 01:25:54,020
+décadas, y planeamos seguir haciéndolo.
+
+1515
+01:25:46,346 --> 01:25:46,438
+Sí.
+
+1516
+01:25:49,806 --> 01:25:50,084
+Claro
+
+1517
+01:25:54,026 --> 01:25:59,208
+Y así, mi respuesta a la pregunta
+anterior de Dylan fue: yo me tomo esto...
+
+1518
+01:25:59,208 --> 01:26:04,600
+sabes, ya sea en los Estados Unidos,
+francamente, o, eh, cuando, sabes, cuando
+
+1519
+01:26:04,600 --> 01:26:10,062
+la Casa Blanca y el gobierno de EE.UU.
+dicen: "Oye, queremos que asignes más de
+
+1520
+01:26:10,062 --> 01:26:15,454
+tus", no sé, "inicios de obleas a, eh,
+um, fábricas en EE.UU.", nos lo tomamos
+
+1521
+01:26:15,454 --> 01:26:16,084
+en serio.
+
+1522
+01:26:16,166 --> 01:26:20,534
+Eh, o si es un centro de datos dentro de
+los límites de la UE, nos lo tomamos muy
+
+1523
+01:26:20,534 --> 01:26:25,012
+en serio. Así que para mí, eh, respetando
+lo que creo que son razones legítimas por
+
+1524
+01:26:25,012 --> 01:26:29,326
+las que los países se preocupan por su
+soberanía, y construir para ello, tanto a
+
+1525
+01:26:29,326 --> 01:26:33,531
+nivel de software como de infraestructura
+física, es lo que, diría yo, vamos a
+
+1526
+01:26:33,531 --> 01:26:33,859
+hacer.
+
+1527
+01:26:33,886 --> 01:26:38,845
+Eh, uh, y al ir hacia el mundo bipolar,
+¿no? Estados Unidos, China. Eh, hay mucho
+
+1528
+01:26:38,845 --> 01:26:43,246
+que se dice sobre la tecnología
+estadounidense, que no... Sabes, no eres
+
+1529
+01:26:43,246 --> 01:26:47,957
+solo tú contra Amazon, eh, o tú contra,
+sabes, Anthropic, o tú contra Google.
+
+1530
+01:26:37,846 --> 01:26:38,078
+Sí.
+
+1531
+01:26:47,986 --> 01:26:48,218
+Sí.
+
+1532
+01:26:48,266 --> 01:26:52,429
+Hay una gran cantidad de competencia.
+¿Cómo, cómo reconstruye Estados Unidos la
+
+1533
+01:26:52,429 --> 01:26:56,593
+confianza? ¿Qué se hace para reconstruir
+la confianza y decir, "En realidad no,
+
+1534
+01:26:56,593 --> 01:26:59,690
+las empresas estadounidenses serán su
+principal proveedor"?
+
+1535
+01:26:59,946 --> 01:27:03,212
+Eh, ¿y cuál es su perspectiva sobre la
+competencia con las nuevas empresas
+
+1536
+01:27:03,212 --> 01:27:06,880
+chinas que están emergiendo, ya sean, por
+ejemplo, ByteDance y Alibaba o DeepSeek y
+
+1537
+01:27:06,880 --> 01:27:07,283
+Moonshot?
+
+1538
+01:27:07,286 --> 01:27:10,175
+Y también, solo para añadir a la
+pregunta, una preocupación es, mira,
+
+1539
+01:27:10,175 --> 01:27:13,405
+estamos hablando de cómo la IA se está
+convirtiendo en una especie de carrera
+
+1540
+01:27:13,405 --> 01:27:16,592
+industrial de CapEx, eh, donde tienes que
+construir rápidamente en todos los
+
+1541
+01:27:16,592 --> 01:27:19,567
+niveles de la cadena de suministro.
+Cuando escuchas eso, al menos hasta
+
+1542
+01:27:19,567 --> 01:27:22,796
+ahora, solo piensas en China, ¿verdad?
+Esto es, como, su ventaja comparativa.
+
+1543
+01:27:22,886 --> 01:27:23,211
+Cierto.
+
+1544
+01:27:23,306 --> 01:27:27,682
+Y especialmente si no vamos a dar un
+salto cuántico a la IAG el próximo año,
+
+1545
+01:27:27,682 --> 01:27:32,409
+sino que serán décadas de desarrollo, de
+infraestructura y de todo lo demás. ¿Cómo
+
+1546
+01:27:32,409 --> 01:27:36,727
+se lidia con la competencia china? ¿Están
+ellos privilegiados en ese mundo?
+
+1547
+01:27:31,166 --> 01:27:31,630
+Buen punto.
+
+1548
+01:27:36,766 --> 01:27:40,771
+Sí, es una gran pre-... Quiero decir, la
+verdad es que acabas de dar en el clavo
+
+1549
+01:27:40,771 --> 01:27:44,371
+de por qué considero que la confianza en
+la tecnología estadounidense es
+
+1550
+01:27:44,371 --> 01:27:46,704
+probablemente la característica más
+importante.
+
+1551
+01:27:47,386 --> 01:27:51,924
+Quizás ni siquiera se trate de la
+capacidad del modelo. Es más bien como
+
+1552
+01:27:51,924 --> 01:27:57,037
+decir: "¿Puedo realmente confiar en ti,
+como empresa? ¿Puedo confiar en ti, en tu
+
+1553
+01:27:57,037 --> 01:28:01,767
+país y en sus instituciones- para que
+seas un proveedor a largo plazo?" Eso
+
+1554
+01:28:01,767 --> 01:28:04,708
+podría ser lo que realmente conquiste el
+mundo.
+
+1555
+01:27:59,366 --> 01:27:59,598
+Mmm
+
+1556
+01:28:04,926 --> 01:28:07,619
+Es una buena forma de terminar. Satya,
+gracias por hacer esto.
+
+1557
+01:28:06,226 --> 01:28:06,551
+Claro.
+
+1558
+01:28:07,746 --> 01:28:09,278
+Muchísimas gracias. Se lo agradezco.
+
+1559
+01:28:09,266 --> 01:28:09,591
+Sí, sí.
+
+1560
+01:28:09,586 --> 01:28:09,864
+Gracias.
+
+1561
+01:28:09,886 --> 01:28:14,331
+Es un placer. Un placer enorme. Es
+genial. Es como, ¡hombre!, ustedes dos
+
+1562
+01:28:14,331 --> 01:28:15,319
+son un equipazo.
+
+1563
+01:28:10,846 --> 01:28:10,985
+Sí.
+
+1564
+01:28:17,186 --> 01:28:20,834
+Hola a todos. Espero de verdad que hayan
+disfrutado de este episodio. Si así fue,
+
+1565
+01:28:20,834 --> 01:28:23,889
+lo más valioso que pueden hacer es
+simplemente compartirlo con otras
+
+1566
+01:28:23,889 --> 01:28:27,172
+personas que consideren que también
+podrían disfrutarlo. También sería de
+
+1567
+01:28:27,172 --> 01:28:30,182
+gran ayuda si pudieran dejar una
+calificación o un comentario en la
+
+1568
+01:28:30,182 --> 01:28:33,191
+plataforma desde la cual nos estén
+escuchando. Si tienen interés en
+
+1569
+01:28:33,191 --> 01:28:36,611
+patrocinar este podcast, pueden ponerse
+en contacto con nosotros a través de
+
+1570
+01:28:36,611 --> 01:28:39,895
+dwarkesh.com/advertise. De no ser así,
+los espero en el próximo episodio.
+

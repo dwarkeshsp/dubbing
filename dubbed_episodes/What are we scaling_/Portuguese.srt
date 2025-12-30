@@ -1,0 +1,1013 @@
+1
+00:00:00,420 --> 00:00:04,029
+Estou confuso por que algumas pessoas têm
+prazos super curtos, mas ao mesmo tempo
+
+2
+00:00:04,029 --> 00:00:07,368
+estão otimistas em escalar o aprendizado
+por reforço sobre LLMs. Se estamos
+
+3
+00:00:07,368 --> 00:00:10,707
+realmente perto de um aprendiz como um
+humano, então toda essa abordagem de
+
+4
+00:00:10,707 --> 00:00:13,144
+treinamento com resultados verificáveis
+está condenada.
+
+5
+00:00:15,540 --> 00:00:19,789
+Agora, os laboratórios estão tentando
+incorporar diversas habilidades nesses
+
+6
+00:00:19,789 --> 00:00:23,756
+modelos durante o treinamento. Há toda
+uma cadeia de empresas que estão
+
+7
+00:00:23,756 --> 00:00:28,289
+construindo ambientes de RL que ensinam o
+modelo a navegar em um navegador web ou
+
+8
+00:00:28,289 --> 00:00:30,725
+usar o Excel para criar modelos
+financeiros.
+
+9
+00:00:30,920 --> 00:00:35,458
+Agora, ou estes modelos aprendem sozinhos
+no trabalho, tornando inútil esta
+
+10
+00:00:35,458 --> 00:00:39,997
+pré-preparação, ou não, e a IGA não é
+iminente. Humanos não precisam de uma
+
+11
+00:00:39,997 --> 00:00:44,903
+fase de treino especial para ensaiar cada
+software que usarão no trabalho. Barron
+
+12
+00:00:44,903 --> 00:00:48,706
+Milledge fez um ponto interessante sobre
+isso num post recente.
+
+13
+00:00:48,680 --> 00:00:53,203
+Ele escreve, cito: "Quando vemos modelos
+de ponta melhorando em vários benchmarks,
+
+14
+00:00:53,203 --> 00:00:57,280
+devemos pensar não apenas na escala
+aumentada e nas ideias inteligentes de
+
+15
+00:00:57,280 --> 00:01:01,134
+pesquisa de ML, mas nos bilhões de
+dólares pagos a doutores, médicos e
+
+16
+00:01:01,134 --> 00:01:05,322
+outros especialistas para formular
+perguntas e fornecer respostas de exemplo
+
+17
+00:01:05,322 --> 00:01:09,679
+e raciocínio visando essas capacidades
+precisas." Essa tensão é mais visível na
+
+18
+00:01:09,679 --> 00:01:10,181
+robótica.
+
+19
+00:01:10,400 --> 00:01:14,089
+Em certo sentido fundamental, a robótica
+é um problema de algoritmos, não de
+
+20
+00:01:14,089 --> 00:01:17,778
+hardware ou de dados. Com muito pouco
+treinamento, um humano pode aprender a
+
+21
+00:01:17,778 --> 00:01:21,467
+operar o hardware atual para fazer um
+trabalho útil. Então, se tivéssemos um
+
+22
+00:01:21,467 --> 00:01:24,861
+aprendiz semelhante a um humano, a
+robótica seria, em grande parte, um
+
+23
+00:01:24,861 --> 00:01:28,698
+problema resolvido. Mas o fato de não
+termos tal aprendiz torna necessário ir a
+
+24
+00:01:28,698 --> 00:01:32,486
+mil casas diferentes e praticar um milhão
+de vezes como pegar pratos ou dobrar
+
+25
+00:01:32,486 --> 00:01:32,830
+roupas.
+
+26
+00:01:32,980 --> 00:01:36,696
+Agora, um contra-argumento que ouvi das
+pessoas que pensam que teremos uma
+
+27
+00:01:36,696 --> 00:01:40,717
+decolagem nos próximos cinco anos é que
+temos que fazer todo esse RL desajeitado
+
+28
+00:01:40,717 --> 00:01:44,586
+a serviço de construir um pesquisador de
+IA super-humano, e então o milhão de
+
+29
+00:01:44,586 --> 00:01:48,252
+cópias deste Ilya automatizado pode
+descobrir como resolver o aprendizado
+
+30
+00:01:48,252 --> 00:01:50,441
+robusto e eficiente a partir da
+experiência.
+
+31
+00:01:50,420 --> 00:01:54,298
+Isso me lembra aquela velha piada:
+"Estamos perdendo dinheiro em cada venda,
+
+32
+00:01:54,298 --> 00:01:58,486
+mas vamos compensar no volume." De alguma
+forma, este pesquisador automatizado vai
+
+33
+00:01:58,486 --> 00:02:02,520
+descobrir o algoritmo para IAG, que é um
+problema que os humanos têm quebrado a
+
+34
+00:02:02,520 --> 00:02:06,709
+cabeça há mais de meio século, mesmo sem
+ter as capacidades básicas de aprendizado
+
+35
+00:02:06,709 --> 00:02:09,553
+que as crianças possuem. Eu acho isso
+super implausível.
+
+36
+00:02:09,639 --> 00:02:13,536
+Além disso, mesmo que acredite nisso, não
+descreve como os laboratórios abordam o
+
+37
+00:02:13,536 --> 00:02:17,189
+aprendizado por reforço a partir de
+recompensa verificável. Você não precisa
+
+38
+00:02:17,189 --> 00:02:20,745
+incorporar a habilidade de um consultor
+em criar slides de PowerPoint para
+
+39
+00:02:20,745 --> 00:02:21,574
+automatizar Ilya.
+
+40
+00:02:21,780 --> 00:02:26,119
+Assim, claramente, as ações do
+laboratório indicam uma visão onde esses
+
+41
+00:02:26,119 --> 00:02:30,396
+modelos falharão na generalização e
+aprendizagem em contexto, tornando
+
+42
+00:02:30,396 --> 00:02:34,487
+preciso embutir as competências que
+esperamos úteis economicamente,
+
+43
+00:02:34,487 --> 00:02:36,222
+previamente, nesses modelos.
+
+44
+00:02:36,220 --> 00:02:39,935
+Outro contra-argumento que se pode fazer
+é que, mesmo que o modelo pudesse
+
+45
+00:02:39,935 --> 00:02:43,955
+aprender essas habilidades no trabalho, é
+muito mais eficiente incorporá-las uma
+
+46
+00:02:43,955 --> 00:02:47,721
+vez durante o treinamento, em vez de
+repetidamente para cada usuário e cada
+
+47
+00:02:47,721 --> 00:02:51,487
+empresa. E veja bem, faz todo o sentido
+integrar a fluência com ferramentas
+
+48
+00:02:51,487 --> 00:02:55,558
+comuns como navegadores e terminais, e,
+de fato, uma das principais vantagens que
+
+49
+00:02:55,558 --> 00:02:59,579
+as AGIs terão é essa maior capacidade de
+compartilhar conhecimento entre cópias.
+
+50
+00:02:59,840 --> 00:03:03,190
+Mas as pessoas subestimam o quão
+importantes são as habilidades
+
+51
+00:03:03,190 --> 00:03:07,459
+específicas de empresa e contexto para a
+maioria dos trabalhos, e atualmente não
+
+52
+00:03:07,459 --> 00:03:11,728
+existe uma maneira robusta e eficiente
+para as IAs adquirirem essas habilidades.
+
+53
+00:03:15,980 --> 00:03:19,740
+Eu estava recentemente num jantar com uma
+pesquisadora de IA e uma bióloga, e
+
+54
+00:03:19,740 --> 00:03:23,550
+descobrimos que a bióloga tinha prazos
+longos, e então perguntamos por que ela
+
+55
+00:03:23,550 --> 00:03:27,063
+tinha esses prazos tão longos. E então
+ela disse que, sabe, uma parte do
+
+56
+00:03:27,063 --> 00:03:31,071
+trabalho dela recentemente no laboratório
+tem envolvido olhar lâminas e decidir se
+
+57
+00:03:31,071 --> 00:03:34,881
+o ponto naquela lâmina é realmente um
+macrófago ou apenas parece um macrófago.
+
+58
+00:03:35,460 --> 00:03:39,269
+E o pesquisador de IA, como você deve
+imaginar, respondeu: "Olha, classificação
+
+59
+00:03:39,269 --> 00:03:43,225
+de imagens é um problema clássico de deep
+learning. Isso está bem no cerne do tipo
+
+60
+00:03:43,225 --> 00:03:46,986
+de coisa que poderíamos treinar esses
+modelos para fazer." E eu achei que esta
+
+61
+00:03:46,986 --> 00:03:50,844
+foi uma troca muito interessante porque
+ilustrou um ponto crucial entre mim e as
+
+62
+00:03:50,844 --> 00:03:54,361
+pessoas que esperam um impacto econômico
+transformador nos próximos anos.
+
+63
+00:03:54,500 --> 00:03:58,555
+Trabalhadores humanos são valiosos
+precisamente porque não precisamos criar
+
+64
+00:03:58,555 --> 00:04:02,719
+esses ciclos de treinamento maçantes para
+cada pequena parte do seu trabalho.
+
+65
+00:04:02,740 --> 00:04:06,949
+Não é produtivo criar um sistema de
+treino personalizado para identificar
+
+66
+00:04:06,949 --> 00:04:11,275
+macrófagos, dada a forma como este
+laboratório prepara as lâminas, e depois
+
+67
+00:04:11,275 --> 00:04:15,718
+outro ciclo de treino para a próxima
+microtarefa específica do laboratório, e
+
+68
+00:04:15,718 --> 00:04:19,869
+assim por diante. O que realmente
+precisamos é de uma IA que aprenda com
+
+69
+00:04:19,869 --> 00:04:23,786
+feedback semântico ou experiência
+autodirigida, e generalize como um
+
+70
+00:04:23,786 --> 00:04:24,195
+humano.
+
+71
+00:04:24,600 --> 00:04:28,930
+Todos os dias, você tem que fazer cem
+coisas que exigem julgamento, consciência
+
+72
+00:04:28,930 --> 00:04:33,482
+situacional, e habilidades e contexto que
+são aprendidos no trabalho. Essas tarefas
+
+73
+00:04:33,482 --> 00:04:37,257
+diferem não apenas entre pessoas
+diferentes, mas até de um dia para o
+
+74
+00:04:37,257 --> 00:04:41,532
+outro para a mesma pessoa. Não é possível
+automatizar sequer um único trabalho
+
+75
+00:04:41,532 --> 00:04:45,418
+apenas incorporando um conjunto
+predefinido de habilidades, muito menos
+
+76
+00:04:45,418 --> 00:04:46,473
+todos os trabalhos.
+
+77
+00:04:46,500 --> 00:04:50,767
+Na verdade, acho que as pessoas
+subestimam o impacto da AGI real, pois só
+
+78
+00:04:50,767 --> 00:04:55,449
+imaginam mais do regime atual. Não pensam
+em bilhões de inteligências humanoides
+
+79
+00:04:55,449 --> 00:05:00,250
+num servidor, capazes de copiar e fundir
+todo o conhecimento. E para ser claro, eu
+
+80
+00:05:00,250 --> 00:05:04,577
+espero isso, ou seja, inteligências
+cerebrais na próxima década ou duas, o
+
+81
+00:05:04,577 --> 00:05:06,236
+que é bem louco pra caralho.
+
+82
+00:05:09,460 --> 00:05:12,564
+Às vezes, as pessoas dirão que a razão
+pela qual as IAs não estão mais
+
+83
+00:05:12,564 --> 00:05:16,074
+amplamente implementadas agora em todas
+as empresas e já fornecendo muito valor
+
+84
+00:05:16,074 --> 00:05:19,539
+fora da programação é que a tecnologia
+leva muito tempo para se difundir, e eu
+
+85
+00:05:19,539 --> 00:05:23,049
+acho que isso é uma desculpa. Eu acho que
+as pessoas estão usando essa desculpa
+
+86
+00:05:23,049 --> 00:05:26,469
+para encobrir o fato de que esses modelos
+simplesmente não têm as capacidades
+
+87
+00:05:26,469 --> 00:05:28,314
+necessárias para um amplo valor
+econômico.
+
+88
+00:05:28,360 --> 00:05:32,346
+Se esses modelos fossem realmente como
+humanos num servidor, eles se espalhariam
+
+89
+00:05:32,346 --> 00:05:36,081
+incrivelmente rápido. Na verdade, seriam
+muito mais fáceis de integrar e de
+
+90
+00:05:36,081 --> 00:05:38,251
+treinar do que um funcionário humano
+normal.
+
+91
+00:05:38,380 --> 00:05:41,674
+Eles poderiam ler todo o seu Slack e
+Drive em minutos, e poderiam
+
+92
+00:05:41,674 --> 00:05:45,328
+imediatamente destilar todas as
+habilidades que seus outros funcionários
+
+93
+00:05:45,328 --> 00:05:49,137
+de IA têm. Além disso, o mercado de
+contratação de humanos é muito parecido
+
+94
+00:05:49,137 --> 00:05:53,049
+com um mercado de limões, onde é difícil
+saber de antemão quem são as pessoas
+
+95
+00:05:53,049 --> 00:05:56,909
+boas, e então, obviamente, contratar
+alguém que se revela ruim é muito caro.
+
+96
+00:05:57,280 --> 00:06:01,248
+Esta não é uma dinâmica que você teria
+que enfrentar ou se preocupar se
+
+97
+00:06:01,248 --> 00:06:05,670
+estivesse apenas criando outra instância
+de um modelo AGI verificado. Por essas
+
+98
+00:06:05,670 --> 00:06:10,262
+razões, espero que seja muito mais fácil
+difundir o trabalho de IA nas empresas do
+
+99
+00:06:10,262 --> 00:06:14,230
+que contratar uma pessoa. E as empresas
+contratam pessoas o tempo todo.
+
+100
+00:06:14,252 --> 00:06:17,881
+Se as capacidades estivessem realmente ao
+nível de AGI, as pessoas estariam
+
+101
+00:06:17,881 --> 00:06:21,413
+dispostas a gastar trilhões de dólares
+por ano comprando tokens que esses
+
+102
+00:06:21,413 --> 00:06:24,798
+modelos produzem. Trabalhadores do
+conhecimento em todo o mundo ganham
+
+103
+00:06:24,798 --> 00:06:28,526
+cumulativamente dezenas de trilhões de
+dólares por ano em salários. E a razão
+
+104
+00:06:28,526 --> 00:06:32,499
+pela qual os laboratórios estão ordens de
+magnitude abaixo desse valor agora é que
+
+105
+00:06:32,499 --> 00:06:35,884
+os modelos não são nem de perto tão
+capazes quanto os trabalhadores do
+
+106
+00:06:35,884 --> 00:06:36,914
+conhecimento humanos.
+
+107
+00:06:39,912 --> 00:06:43,636
+Agora você deve estar pensando: "Como o
+padrão se tornou que laboratórios
+
+108
+00:06:43,636 --> 00:06:47,412
+precisam faturar trilhões de dólares
+anualmente?", né? Até pouco tempo, as
+
+109
+00:06:47,412 --> 00:06:50,360
+pessoas diziam: "Esses modelos
+raciocinam? Têm bom senso?"
+
+110
+00:06:50,432 --> 00:06:54,531
+Eles estão apenas fazendo reconhecimento
+de padrões? E, obviamente, os otimistas
+
+111
+00:06:54,531 --> 00:06:57,593
+da IA têm razão em criticar os
+pessimistas da IA por moverem
+
+112
+00:06:57,593 --> 00:07:01,329
+repetidamente esses limites. E isso é
+muito frequentemente justo. É fácil
+
+113
+00:07:01,329 --> 00:07:05,377
+subestimar o progresso que a IA tem feito
+ao longo da última década. Mas alguma
+
+114
+00:07:05,377 --> 00:07:07,661
+mudança de critérios é, de fato,
+justificada.
+
+115
+00:07:07,732 --> 00:07:11,606
+Se você me mostrasse o Gemini 3 em 2020,
+eu teria certeza de que ele automatizaria
+
+116
+00:07:11,606 --> 00:07:15,337
+metade do trabalho intelectual. E assim
+continuamos resolvendo o que pensávamos
+
+117
+00:07:15,337 --> 00:07:17,298
+serem os gargalos suficientes para a IAG.
+
+118
+00:07:17,472 --> 00:07:20,954
+Temos modelos que possuem uma compreensão
+geral, têm aprendizagem com poucos
+
+119
+00:07:20,954 --> 00:07:24,484
+exemplos, têm capacidade de raciocínio,
+e, no entanto, ainda não alcançamos a
+
+120
+00:07:24,484 --> 00:07:27,549
+IAG. Então, qual seria uma resposta
+racional ao observar tudo isto?
+
+121
+00:07:27,872 --> 00:07:31,557
+Acho bem razoável olhar para isso e
+dizer: "Ah, que há muito mais na
+
+122
+00:07:31,557 --> 00:07:35,682
+inteligência e no trabalho do que eu
+percebia." E, embora estejamos perto, e
+
+123
+00:07:35,682 --> 00:07:37,717
+de muitas formas já tenhamos superado
+
+124
+00:07:37,852 --> 00:07:42,433
+aquilo que eu, no passado, teria definido
+como IAG, o facto de as empresas de
+
+125
+00:07:42,433 --> 00:07:46,712
+modelos não estarem a gerar os triliões
+de dólares em receita que seriam
+
+126
+00:07:46,712 --> 00:07:51,474
+implicados pela IAG, revela claramente
+que a minha definição anterior de IAG era
+
+127
+00:07:51,474 --> 00:07:52,619
+demasiado restrita.
+
+128
+00:07:52,612 --> 00:07:56,173
+E eu espero que isso continue acontecendo
+no futuro. Espero que até 2030 os
+
+129
+00:07:56,173 --> 00:07:59,735
+laboratórios tenham feito progressos
+significativos no meu tema favorito de
+
+130
+00:07:59,735 --> 00:08:03,201
+aprendizado contínuo, e os modelos
+estarão gerando centenas de bilhões de
+
+131
+00:08:03,201 --> 00:08:06,907
+dólares em receita por ano. Mas eles não
+terão automatizado todo o trabalho de
+
+132
+00:08:06,907 --> 00:08:10,758
+conhecimento. E eu direi: "Olha, fizemos
+muito progresso, mas ainda não atingimos
+
+133
+00:08:10,758 --> 00:08:11,095
+a IGA."
+
+134
+00:08:11,112 --> 00:08:14,555
+Também precisamos destas outras
+capacidades. Precisamos de capacidades X,
+
+135
+00:08:14,555 --> 00:08:17,330
+Y e Z nestes modelos. Os modelos
+continuam a tornar-se mais
+
+136
+00:08:17,330 --> 00:08:20,821
+impressionantes à velocidade que as
+pessoas com prazos curtos preveem, mas
+
+137
+00:08:20,821 --> 00:08:23,882
+mais úteis à velocidade que as pessoas
+com prazos longos preveem.
+
+138
+00:08:28,612 --> 00:08:32,739
+Vale a pena perguntar, o que estamos
+escalando? Com o pré-treinamento, tivemos
+
+139
+00:08:32,739 --> 00:08:37,082
+essa tendência extremamente clara e geral
+de melhoria na perda em múltiplas ordens
+
+140
+00:08:37,082 --> 00:08:41,210
+de magnitude e computação. Embora, isso
+tenha sido numa lei de potência, que é
+
+141
+00:08:41,210 --> 00:08:43,890
+tão fraca quanto o crescimento
+exponencial é forte.
+
+142
+00:08:43,892 --> 00:08:48,317
+Mas as pessoas tentam lavar o prestígio
+do escalonamento de pré-treinamento, que
+
+143
+00:08:48,317 --> 00:08:52,351
+é quase tão previsível quanto uma lei
+física do universo, para justificar
+
+144
+00:08:52,351 --> 00:08:56,776
+previsões otimistas sobre a aprendizagem
+por reforço com recompensa verificável,
+
+145
+00:08:56,776 --> 00:09:01,146
+para a qual não temos nenhuma tendência
+pública robusta. E quando pesquisadores
+
+146
+00:09:01,146 --> 00:09:05,179
+intrépidos tentam reunir as implicações
+de dados públicos escassos, obtêm
+
+147
+00:09:05,179 --> 00:09:06,972
+resultados bastante pessimistas.
+
+148
+00:09:06,972 --> 00:09:11,076
+Por exemplo, Toby Board tem um excelente
+post onde ele conecta habilmente os
+
+149
+00:09:11,076 --> 00:09:15,070
+pontos entre os benchmarks da série O, e
+isso o levou a sugerir que, cito:
+
+150
+00:09:15,070 --> 00:09:18,846
+"Precisamos de algo como um aumento de
+escala de um milhão de vezes na
+
+151
+00:09:18,846 --> 00:09:22,841
+computação total de RL para dar um
+impulso semelhante ao de um único nível
+
+152
+00:09:22,841 --> 00:09:24,154
+de GPT", fim de citação.
+
+153
+00:09:27,472 --> 00:09:31,342
+Então, as pessoas têm dedicado muito
+tempo a discutir a possibilidade de uma
+
+154
+00:09:31,342 --> 00:09:35,265
+singularidade de software, onde modelos
+de IA escreverão o código que gera um
+
+155
+00:09:35,265 --> 00:09:39,291
+sistema sucessor mais inteligente. Ou uma
+singularidade de software e hardware,
+
+156
+00:09:39,291 --> 00:09:43,007
+onde as IAs também aprimoram o hardware
+de computação de seu sucessor. No
+
+157
+00:09:43,007 --> 00:09:46,413
+entanto, todos esses cenários
+negligenciam o que eu considero ser o
+
+158
+00:09:46,413 --> 00:09:50,181
+principal impulsionador de melhorias
+adicionais sobre a IAG, o aprendizado
+
+159
+00:09:50,181 --> 00:09:50,645
+contínuo.
+
+160
+00:09:50,912 --> 00:09:54,916
+Novamente, pense em como os humanos se
+tornam mais capazes em qualquer coisa. É
+
+161
+00:09:54,916 --> 00:09:58,971
+principalmente da experiência no domínio
+relevante. Durante uma conversa, Verran
+
+162
+00:09:58,971 --> 00:10:03,026
+Millich fez esta sugestão interessante:
+que o futuro poderia ser como agentes de
+
+163
+00:10:03,026 --> 00:10:06,671
+aprendizado contínuo que saem, fazem
+trabalhos diferentes, geram valor e
+
+164
+00:10:06,671 --> 00:10:10,110
+depois trazem de volta todo o seu
+aprendizado para o modelo de mente
+
+165
+00:10:10,110 --> 00:10:13,396
+coletiva, que faz algum tipo de
+destilação em lote em todos esses
+
+166
+00:10:13,396 --> 00:10:13,806
+agentes.
+
+167
+00:10:13,832 --> 00:10:17,728
+Os próprios agentes podem ser bastante
+especializados, contendo o que Karpathy
+
+168
+00:10:17,728 --> 00:10:21,372
+chamou de núcleo cognitivo, além de
+conhecimento e habilidades relevantes
+
+169
+00:10:21,372 --> 00:10:24,713
+para a função em que estão sendo
+empregados. Resolver o aprendizado
+
+170
+00:10:24,713 --> 00:10:28,407
+contínuo não será uma conquista única e
+definitiva. Em vez disso, parecerá
+
+171
+00:10:28,407 --> 00:10:30,178
+resolver o aprendizado em contexto.
+
+172
+00:10:30,292 --> 00:10:33,494
+Bem, o GPT-3 já demonstrou que a
+aprendizagem em contexto poderia ser
+
+173
+00:10:33,494 --> 00:10:36,790
+muito poderosa em 2020. As suas
+capacidades de aprendizagem em contexto
+
+174
+00:10:36,790 --> 00:10:40,463
+eram tão notáveis que o título do artigo
+do GPT-3 era "Modelos de Linguagem são
+
+175
+00:10:40,463 --> 00:10:44,042
+Aprendizes de Poucas Amostras". Mas é
+claro, não resolvemos a aprendizagem em
+
+176
+00:10:44,042 --> 00:10:47,762
+contexto quando o GPT-3 foi lançado, e,
+de facto, ainda há muito progresso a ser
+
+177
+00:10:47,762 --> 00:10:50,446
+feito, desde a compreensão até ao
+comprimento do contexto.
+
+178
+00:10:50,772 --> 00:10:53,697
+Espero uma progressão semelhante com
+aprendizado contínuo.
+
+179
+00:10:54,252 --> 00:10:58,077
+Laboratórios provavelmente lançarão algo
+no próximo ano, que eles chamam de
+
+180
+00:10:58,077 --> 00:11:01,748
+aprendizado contínuo, e que de fato
+contará como progresso em direção ao
+
+181
+00:11:01,748 --> 00:11:05,728
+aprendizado contínuo. Mas o aprendizado
+no trabalho em nível humano pode levar
+
+182
+00:11:05,728 --> 00:11:09,192
+mais cinco a dez anos para ser
+aprimorado. É por isso que não espero
+
+183
+00:11:09,192 --> 00:11:13,379
+ganhos descontrolados do primeiro modelo
+que desvendar o aprendizado contínuo, que
+
+184
+00:11:13,379 --> 00:11:16,171
+está sendo cada vez mais amplamente
+implantado e capaz.
+
+185
+00:11:16,212 --> 00:11:19,879
+Se tivesses resolvido completamente a
+aprendizagem contínua do nada, então,
+
+186
+00:11:19,879 --> 00:11:23,347
+claro, seria jogo, set, partida, como
+Satya disse no podcast quando lhe
+
+187
+00:11:23,347 --> 00:11:26,866
+perguntei sobre essa possibilidade. Mas
+provavelmente não é isso que vai
+
+188
+00:11:26,866 --> 00:11:30,137
+acontecer. Em vez disso, algum
+laboratório vai descobrir como obter
+
+189
+00:11:30,137 --> 00:11:33,407
+alguma tração inicial neste problema, e
+então, ao experimentar essa
+
+190
+00:11:33,407 --> 00:11:36,975
+funcionalidade, ficará claro como foi
+implementada, e outros laboratórios
+
+191
+00:11:36,975 --> 00:11:39,849
+replicarão a descoberta em breve, e a
+aprimorarão um pouco.
+
+192
+00:11:39,872 --> 00:11:43,364
+Além disso, eu já tenho uma noção prévia
+de que a competição permanecerá bem
+
+193
+00:11:43,364 --> 00:11:46,624
+acirrada entre todas essas empresas de
+modelos. E isso é informado pela
+
+194
+00:11:46,624 --> 00:11:49,791
+observação de que todos esses supostos
+"flywheels" anteriores, seja o
+
+195
+00:11:49,791 --> 00:11:53,423
+engajamento do usuário no chat ou dados
+sintéticos, ou o que for, fizeram muito
+
+196
+00:11:53,423 --> 00:11:56,729
+pouco para diminuir a crescente
+competição entre as empresas de modelos.
+
+197
+00:11:56,912 --> 00:12:00,728
+Todo mês, mais ou menos, as três grandes
+empresas de modelos se revezam no pódio,
+
+198
+00:12:00,728 --> 00:12:04,545
+e os outros concorrentes não ficam muito
+atrás. Parece haver alguma força, e isso
+
+199
+00:12:04,545 --> 00:12:08,171
+é potencialmente caça a talentos, é
+potencialmente a fábrica de boatos em SF,
+
+200
+00:12:08,171 --> 00:12:11,940
+ou apenas engenharia reversa normal, que
+até agora neutralizou qualquer vantagem
+
+201
+00:12:11,940 --> 00:12:14,373
+disparada que um único laboratório
+poderia ter tido.
+
+202
+00:12:14,912 --> 00:12:18,700
+Esta foi uma narração de um ensaio que
+originalmente publiquei no meu blog em
+
+203
+00:12:18,700 --> 00:12:22,388
+dwarkesh.com. Vou publicar muito mais
+ensaios. Descobri que é bastante útil
+
+204
+00:12:22,388 --> 00:12:26,375
+para organizar meus pensamentos antes das
+entrevistas. Se quiser ficar atualizado
+
+205
+00:12:26,375 --> 00:12:28,518
+com eles, pode se inscrever em
+dwarkesh.com.
+
+206
+00:12:28,792 --> 00:12:31,578
+Caso contrário, vejo vocês no próximo
+podcast. Até mais.
+
