@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-Dub YouTube videos into multiple languages using ElevenLabs API.
+Dub YouTube videos or local audio/video files into multiple languages using ElevenLabs API.
 
 Usage:
-    python dub_podcast.py -f urls.txt              # Dub videos from file
-    python dub_podcast.py -u URL1 URL2             # Dub specific URLs
-    python dub_podcast.py -n 5                     # Dub last 5 from channel
+    python dub_podcast.py -f sources.txt           # From sources file (URLs or local files)
+    python dub_podcast.py -s URL1 /path/to/video   # Specific sources
+    python dub_podcast.py -n 5                     # Last 5 from channel
 """
 
 import argparse
@@ -13,6 +13,7 @@ import asyncio
 import json
 import logging
 import os
+import subprocess
 import sys
 from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field
@@ -33,47 +34,64 @@ MAX_CONCURRENT_JOBS = 6
 MAX_RETRIES = 3
 JOBS_FILE = "pending_jobs.json"
 
+VIDEO_EXTENSIONS = {".mp4", ".mov", ".mkv", ".avi", ".webm", ".m4v"}
+AUDIO_EXTENSIONS = {".mp3", ".wav", ".m4a", ".aac", ".flac", ".ogg"}
+
 
 @dataclass
-class Video:
+class Source:
     id: str
     title: str
-    url: str
+    url: str | None = None  # YouTube URL
+    local_path: Path | None = None  # Local file path
 
     @property
     def safe_title(self) -> str:
         return "".join(c if c.isalnum() or c in " -_" else "_" for c in self.title)[:80]
 
     def to_dict(self) -> dict:
-        return {"id": self.id, "title": self.title, "url": self.url}
+        return {"id": self.id, "title": self.title, "url": self.url, "local_path": str(self.local_path) if self.local_path else None}
 
     @classmethod
-    def from_dict(cls, d: dict) -> "Video":
-        return cls(id=d["id"], title=d["title"], url=d["url"])
+    def from_dict(cls, d: dict) -> "Source":
+        return cls(id=d["id"], title=d["title"], url=d.get("url"), local_path=Path(d["local_path"]) if d.get("local_path") else None)
+
+
+# Alias for backward compatibility in job persistence
+Video = Source
 
 
 @dataclass
 class DubbingJob:
     id: str
-    video: Video
+    source: Source
     lang: str
     retries: int = 0
 
     def to_dict(self) -> dict:
-        return {"id": self.id, "video": self.video.to_dict(), "lang": self.lang, "retries": self.retries}
+        return {"id": self.id, "source": self.source.to_dict(), "lang": self.lang, "retries": self.retries}
 
     @classmethod
     def from_dict(cls, d: dict) -> "DubbingJob":
-        return cls(id=d["id"], video=Video.from_dict(d["video"]), lang=d["lang"], retries=d.get("retries", 0))
+        source_data = d.get("source") or d.get("video")  # backward compat
+        return cls(id=d["id"], source=Source.from_dict(source_data), lang=d["lang"], retries=d.get("retries", 0))
+
+    @property
+    def video(self) -> Source:
+        return self.source  # backward compat
 
 
 @dataclass
-class VideoResult:
-    video: Video
+class SourceResult:
+    source: Source
     audio_path: Path | None = None
     success: list[str] = field(default_factory=list)
     skipped: list[str] = field(default_factory=list)
     failed: list[str] = field(default_factory=list)
+
+    @property
+    def video(self) -> Source:
+        return self.source  # backward compat
 
 
 class QuotaExceededError(Exception):
@@ -101,93 +119,172 @@ def clear_jobs(output_dir: Path):
         path.unlink()
 
 
-# YouTube functions
-def fetch_videos(channel_url: str, count: int) -> list[Video]:
+# Source handling functions
+def is_url(s: str) -> bool:
+    return s.startswith("http://") or s.startswith("https://")
+
+
+def is_video_file(path: Path) -> bool:
+    return path.suffix.lower() in VIDEO_EXTENSIONS
+
+
+def is_audio_file(path: Path) -> bool:
+    return path.suffix.lower() in AUDIO_EXTENSIONS
+
+
+def convert_video_to_audio(video_path: Path, output_path: Path) -> bool:
+    """Convert video file to MP3 using ffmpeg."""
+    try:
+        subprocess.run(
+            ["ffmpeg", "-i", str(video_path), "-vn", "-acodec", "libmp3lame", "-q:a", "2", str(output_path), "-y"],
+            capture_output=True,
+            check=True,
+        )
+        return output_path.exists()
+    except Exception:
+        return False
+
+
+def fetch_channel_videos(channel_url: str, count: int) -> list[Source]:
+    """Fetch latest videos from a YouTube channel."""
     print(f"\nFetching {count} videos from channel...")
     with yt_dlp.YoutubeDL({"quiet": True, "no_warnings": True, "extract_flat": True, "playlistend": count}) as ydl:
         result = ydl.extract_info(channel_url, download=False)
         if not result:
             return []
-        videos = []
+        sources = []
         for entry in result.get("entries", []):
             if entry and entry.get("id"):
-                video = Video(id=entry["id"], title=entry.get("title", "Unknown"), url=f"https://www.youtube.com/watch?v={entry['id']}")
-                videos.append(video)
-                print(f"  {video.title[:60]}")
-        return videos
+                source = Source(id=entry["id"], title=entry.get("title", "Unknown"), url=f"https://www.youtube.com/watch?v={entry['id']}")
+                sources.append(source)
+                print(f"  {source.title[:60]}")
+        return sources
 
 
-def fetch_video_info(url: str) -> Video | None:
+def fetch_youtube_info(url: str) -> Source | None:
+    """Fetch info for a YouTube URL."""
     with yt_dlp.YoutubeDL({"quiet": True, "no_warnings": True, "ignoreerrors": True}) as ydl:
         try:
             result = ydl.extract_info(url, download=False)
             if result:
-                return Video(id=result["id"], title=result.get("title", "Unknown"), url=url)
+                return Source(id=result["id"], title=result.get("title", "Unknown"), url=url)
         except Exception:
             pass
     return None
 
 
-def fetch_videos_from_urls(urls: list[str]) -> list[Video]:
-    print(f"\nFetching info for {len(urls)} videos...")
-    videos = []
-    for url in urls:
-        video = fetch_video_info(url)
-        if video:
-            videos.append(video)
-            print(f"  {video.title[:60]}")
+def parse_local_file(path_str: str) -> Source | None:
+    """Create a Source from a local file path."""
+    path = Path(path_str).expanduser().resolve()
+    if not path.exists():
+        return None
+    if not (is_video_file(path) or is_audio_file(path)):
+        return None
+    title = path.stem  # filename without extension
+    return Source(id=f"local_{hash(str(path)) & 0xFFFFFFFF:08x}", title=title, local_path=path)
+
+
+def fetch_sources(inputs: list[str]) -> list[Source]:
+    """Fetch sources from a mix of URLs and local file paths."""
+    print(f"\nProcessing {len(inputs)} sources...")
+    sources = []
+    for inp in inputs:
+        inp = inp.strip()
+        if not inp:
+            continue
+
+        if is_url(inp):
+            source = fetch_youtube_info(inp)
+            if source:
+                sources.append(source)
+                print(f"  [URL] {source.title[:55]}")
+            else:
+                print(f"  [FAIL] Could not fetch: {inp[:50]}")
         else:
-            print(f"  [FAIL] Could not fetch: {url[:50]}")
-    return videos
+            source = parse_local_file(inp)
+            if source:
+                sources.append(source)
+                print(f"  [FILE] {source.title[:55]}")
+            else:
+                print(f"  [FAIL] Not found or unsupported: {inp[:50]}")
+    return sources
 
 
-def download_audio(video: Video, output_dir: Path) -> Path | None:
-    output_path = output_dir / f"{video.safe_title}.mp3"
+def prepare_audio(source: Source, output_dir: Path) -> Path | None:
+    """Get audio for a source - download from YouTube or convert/copy local file."""
+    output_path = output_dir / f"{source.safe_title}.mp3"
     if output_path.exists():
         return output_path
 
-    opts = {
-        "format": "bestaudio/best",
-        "outtmpl": str(output_dir / f"{video.safe_title}.%(ext)s"),
-        "postprocessors": [{"key": "FFmpegExtractAudio", "preferredcodec": "mp3", "preferredquality": "192"}],
-        "quiet": True,
-        "no_warnings": True,
-    }
-    try:
-        with yt_dlp.YoutubeDL(opts) as ydl:
-            ydl.download([video.url])
-        if output_path.exists():
-            print(f"  [DL] {video.safe_title[:50]} ({output_path.stat().st_size / 1024 / 1024:.1f}MB)")
-            return output_path
-    except Exception:
-        pass
-    print(f"  [DL FAIL] {video.safe_title[:50]}")
+    # Local file
+    if source.local_path:
+        if is_audio_file(source.local_path):
+            # Copy or just use directly if already mp3
+            if source.local_path.suffix.lower() == ".mp3":
+                import shutil
+                shutil.copy(source.local_path, output_path)
+            else:
+                # Convert to mp3
+                subprocess.run(
+                    ["ffmpeg", "-i", str(source.local_path), "-acodec", "libmp3lame", "-q:a", "2", str(output_path), "-y"],
+                    capture_output=True,
+                )
+            if output_path.exists():
+                print(f"  [AUDIO] {source.safe_title[:50]} ({output_path.stat().st_size / 1024 / 1024:.1f}MB)")
+                return output_path
+        elif is_video_file(source.local_path):
+            # Extract audio from video
+            if convert_video_to_audio(source.local_path, output_path):
+                print(f"  [CONVERT] {source.safe_title[:50]} ({output_path.stat().st_size / 1024 / 1024:.1f}MB)")
+                return output_path
+        print(f"  [FAIL] {source.safe_title[:50]}")
+        return None
+
+    # YouTube URL
+    if source.url:
+        opts = {
+            "format": "bestaudio/best",
+            "outtmpl": str(output_dir / f"{source.safe_title}.%(ext)s"),
+            "postprocessors": [{"key": "FFmpegExtractAudio", "preferredcodec": "mp3", "preferredquality": "192"}],
+            "quiet": True,
+            "no_warnings": True,
+        }
+        try:
+            with yt_dlp.YoutubeDL(opts) as ydl:
+                ydl.download([source.url])
+            if output_path.exists():
+                print(f"  [DL] {source.safe_title[:50]} ({output_path.stat().st_size / 1024 / 1024:.1f}MB)")
+                return output_path
+        except Exception:
+            pass
+        print(f"  [DL FAIL] {source.safe_title[:50]}")
+
     return None
 
 
 # ElevenLabs API functions
-async def submit_job(session: aiohttp.ClientSession, api_key: str, video: Video, audio_path: Path, lang: str) -> DubbingJob | None:
+async def submit_job(session: aiohttp.ClientSession, api_key: str, source: Source, audio_path: Path, lang: str) -> DubbingJob | None:
     data = aiohttp.FormData()
     data.add_field("file", open(audio_path, "rb"), filename=audio_path.name, content_type="audio/mpeg")
     data.add_field("target_lang", lang)
     data.add_field("source_lang", "en")
-    data.add_field("name", f"{video.title[:50]} - {LANGUAGES[lang]}")
+    data.add_field("name", f"{source.title[:50]} - {LANGUAGES[lang]}")
     data.add_field("watermark", "true")
 
     try:
         async with session.post(f"{ELEVENLABS_API}/dubbing", headers={"xi-api-key": api_key}, data=data) as resp:
             if resp.status == 200:
                 result = await resp.json()
-                print(f"  [SUBMIT] {video.safe_title[:40]} -> {LANGUAGES[lang]}")
-                return DubbingJob(id=result["dubbing_id"], video=video, lang=lang)
+                print(f"  [SUBMIT] {source.safe_title[:40]} -> {LANGUAGES[lang]}")
+                return DubbingJob(id=result["dubbing_id"], source=source, lang=lang)
             error = await resp.text()
             if "quota_exceeded" in error.lower():
                 raise QuotaExceededError(error)
-            print(f"  [FAIL] {video.safe_title[:40]} -> {LANGUAGES[lang]}: {error[:80]}")
+            print(f"  [FAIL] {source.safe_title[:40]} -> {LANGUAGES[lang]}: {error[:80]}")
     except QuotaExceededError:
         raise
     except Exception as e:
-        print(f"  [ERROR] {video.safe_title[:40]} -> {LANGUAGES[lang]}: {e}")
+        print(f"  [ERROR] {source.safe_title[:40]} -> {LANGUAGES[lang]}: {e}")
     return None
 
 
@@ -232,7 +329,7 @@ async def download_result(session: aiohttp.ClientSession, api_key: str, job: Dub
 
 
 # Main processing
-async def process_all(channel_url: str | None, num_episodes: int, languages: list[str], output_dir: Path, urls: list[str] | None = None):
+async def process_all(channel_url: str | None, num_episodes: int, languages: list[str], output_dir: Path, sources: list[str] | None = None):
     api_key = os.environ.get("ELEVEN_API_KEY") or os.environ.get("ELEVENLABS_API_KEY")
     if not api_key:
         print("Error: Set ELEVEN_API_KEY or ELEVENLABS_API_KEY")
@@ -252,49 +349,49 @@ async def process_all(channel_url: str | None, num_episodes: int, languages: lis
                 print("Jobs still pending. Run again to continue.")
                 return
 
-        # Get videos
-        videos = fetch_videos_from_urls(urls) if urls else fetch_videos(channel_url, num_episodes)
-        if not videos:
-            print("No videos found.")
+        # Get sources (YouTube URLs or local files)
+        source_list = fetch_sources(sources) if sources else fetch_channel_videos(channel_url, num_episodes)
+        if not source_list:
+            print("No sources found.")
             return
 
-        print(f"\nDubbing {len(videos)} videos into {', '.join(LANGUAGES[l] for l in languages)}")
+        print(f"\nDubbing {len(source_list)} sources into {', '.join(LANGUAGES[l] for l in languages)}")
 
         # Track results
-        results: dict[str, VideoResult] = {v.id: VideoResult(video=v) for v in videos}
+        results: dict[str, SourceResult] = {s.id: SourceResult(source=s) for s in source_list}
 
         # Check existing and build work queue
-        work_queue: list[tuple[Video, str, int]] = []  # (video, lang, retries)
-        for video in videos:
-            result = results[video.id]
-            episode_dir = output_dir / video.safe_title
+        work_queue: list[tuple[Source, str, int]] = []  # (source, lang, retries)
+        for source in source_list:
+            result = results[source.id]
+            episode_dir = output_dir / source.safe_title
             for lang in languages:
                 if (episode_dir / f"{LANGUAGES[lang]}.mp3").exists():
                     result.skipped.append(lang)
                 else:
-                    work_queue.append((video, lang, 0))
+                    work_queue.append((source, lang, 0))
             if result.skipped:
-                print(f"  [SKIP] {video.safe_title[:50]} ({', '.join(LANGUAGES[l] for l in result.skipped)})")
+                print(f"  [SKIP] {source.safe_title[:50]} ({', '.join(LANGUAGES[l] for l in result.skipped)})")
 
         if not work_queue:
-            print("\nAll videos already dubbed!")
+            print("\nAll sources already dubbed!")
             return
 
-        # Download audio for videos that need it
-        videos_needing_audio = list({v.id: v for v, _, _ in work_queue}.values())
-        print(f"\n{'='*60}\nDownloading audio ({len(videos_needing_audio)} videos)\n{'='*60}")
+        # Prepare audio for sources that need it
+        sources_needing_audio = list({s.id: s for s, _, _ in work_queue}.values())
+        print(f"\n{'='*60}\nPreparing audio ({len(sources_needing_audio)} sources)\n{'='*60}")
 
         with ThreadPoolExecutor(max_workers=3) as pool:
-            for video, path in pool.map(lambda v: (v, download_audio(v, temp_dir)), videos_needing_audio):
-                results[video.id].audio_path = path
+            for source, path in pool.map(lambda s: (s, prepare_audio(s, temp_dir)), sources_needing_audio):
+                results[source.id].audio_path = path
 
         # Build final queue with audio paths
-        final_queue: list[tuple[Video, str, Path, int]] = []
-        for video, lang, retries in work_queue:
-            if results[video.id].audio_path:
-                final_queue.append((video, lang, results[video.id].audio_path, retries))
+        final_queue: list[tuple[Source, str, Path, int]] = []
+        for source, lang, retries in work_queue:
+            if results[source.id].audio_path:
+                final_queue.append((source, lang, results[source.id].audio_path, retries))
             else:
-                results[video.id].failed.append(lang)
+                results[source.id].failed.append(lang)
 
         # Submit and process jobs
         print(f"\n{'='*60}\nSubmitting jobs (max {MAX_CONCURRENT_JOBS} concurrent)\n{'='*60}")
@@ -432,29 +529,30 @@ async def poll_and_download(session, api_key, jobs, output_dir, job_results, wor
     clear_jobs(output_dir)
 
 
-def load_urls_from_file(filepath: Path) -> list[str]:
+def load_sources_from_file(filepath: Path) -> list[str]:
+    """Load sources from file - one per line (URLs or local file paths)."""
     if not filepath.exists():
         return []
     return [line.strip() for line in filepath.read_text().strip().split("\n") if line.strip() and not line.startswith("#")]
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Dub YouTube videos using ElevenLabs")
+    parser = argparse.ArgumentParser(description="Dub YouTube videos or local files using ElevenLabs")
     parser.add_argument("-c", "--channel", default=DEFAULT_CHANNEL, help="YouTube channel URL")
-    parser.add_argument("-n", "--episodes", type=int, default=DEFAULT_EPISODES, help="Number of episodes")
-    parser.add_argument("-l", "--languages", nargs="+", default=list(LANGUAGES.keys()), help="Target languages")
+    parser.add_argument("-n", "--episodes", type=int, default=DEFAULT_EPISODES, help="Number of episodes from channel")
+    parser.add_argument("-l", "--languages", nargs="+", default=list(LANGUAGES.keys()), help="Target languages (es, hi, zh)")
     parser.add_argument("-o", "--output", type=Path, default=Path("dubbed_episodes"), help="Output directory")
-    parser.add_argument("-u", "--urls", nargs="+", help="Specific video URLs")
-    parser.add_argument("-f", "--file", type=Path, help="File with video URLs")
+    parser.add_argument("-s", "--sources", nargs="+", help="Sources: YouTube URLs or local video/audio files")
+    parser.add_argument("-f", "--file", type=Path, help="File with sources (one per line)")
     args = parser.parse_args()
 
-    urls = (args.urls or []) + (load_urls_from_file(args.file) if args.file else [])
+    sources = (args.sources or []) + (load_sources_from_file(args.file) if args.file else [])
 
     print("=" * 60)
-    print("YouTube Dubbing Tool")
+    print("Podcast Dubbing Tool")
     print("=" * 60)
-    if urls:
-        print(f"Videos:    {len(urls)} URLs")
+    if sources:
+        print(f"Sources:   {len(sources)}")
     else:
         print(f"Channel:   {args.channel}")
         print(f"Episodes:  {args.episodes}")
@@ -462,11 +560,11 @@ def main():
     print(f"Output:    {args.output}")
 
     asyncio.run(process_all(
-        channel_url=args.channel if not urls else None,
+        channel_url=args.channel if not sources else None,
         num_episodes=args.episodes,
         languages=args.languages,
         output_dir=args.output,
-        urls=urls or None,
+        sources=sources or None,
     ))
 
 
